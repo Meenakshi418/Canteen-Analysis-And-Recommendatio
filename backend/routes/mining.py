@@ -2,8 +2,8 @@ from fastapi import APIRouter
 import pandas as pd
 from pathlib import Path
 
-from backend.ml.apriori import run_apriori
-from backend.ml.clustering import perform_clustering
+from ml.apriori import run_apriori
+from ml.clustering import perform_clustering
 
 router = APIRouter(prefix="/mining")
 

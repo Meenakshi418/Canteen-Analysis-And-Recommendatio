@@ -1,9 +1,9 @@
 from fastapi import APIRouter
 import pandas as pd
 from pathlib import Path
-from backend.ml.regression import train_regression_model
-from backend.ml.classification import train_j48 , train_naive_bayes
-from backend.ml.preprocessing import load_and_preprocess
+from ml.regression import train_regression_model
+from ml.classification import train_j48 , train_naive_bayes
+from ml.preprocessing import load_and_preprocess
 
 router  = APIRouter(prefix="/prediction")
 
