@@ -10,15 +10,13 @@ csv_path = backend_folder / "data" / "canteen_data.csv"
 df, dim_date, dim_food, dim_meal, dim_weather, fact_canteen = transform(csv_path)
 
 load_dotenv()
-password = os.getenv("password")
 
-#after etl -> load
 connection = psycopg2.connect(
-    host="localhost",
-    database="canteen",
-    user="postgres",
-    password=password,
-    port="5432"
+    host=os.getenv("DB_HOST"),
+    database=os.getenv("DB_NAME"),
+    user=os.getenv("DB_USER"),
+    password=os.getenv("DB_PASSWORD"),
+    port=os.getenv("DB_PORT", "5432")
 )
 
 print("Database connected successfully!")
