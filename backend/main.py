@@ -1,7 +1,7 @@
 from fastapi import FastAPI
-from backend.routes.analytics import router as analytics_router
-from backend.routes.mining import router as mining_router
-from backend.routes.prediction import router as prediction_router
+from routes.analytics import router as analytics_router
+from routes.mining import router as mining_router
+from routes.prediction import router as prediction_router
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(title="SmartCanteen API")
