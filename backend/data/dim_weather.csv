@@ -1,0 +1,7 @@
+Weather,Special_Event,Weather_ID
+Cloudy,Yes,1
+Sunny,Yes,2
+Rainy,No,3
+Cloudy,No,4
+Sunny,No,5
+Rainy,Yes,6

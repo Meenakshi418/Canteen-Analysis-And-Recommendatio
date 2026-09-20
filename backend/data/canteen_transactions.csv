@@ -1,0 +1,7762 @@
+Transaction_ID,Food_Item
+1,Samosa
+1,Tea
+2,Masala Dosa
+2,Tea
+2,Cold Drink
+3,Samosa
+3,Tea
+4,Masala Dosa
+4,Tea
+5,Cold Drink
+6,Tea
+7,Idli
+7,Tea
+8,Vada Pav
+9,Vada Pav
+9,Cold Drink
+10,Samosa
+10,Tea
+10,Pav Bhaji
+11,Idli
+11,Tea
+11,Coffee
+12,Cold Drink
+12,Tea
+13,Samosa
+13,Tea
+14,Idli
+15,Masala Dosa
+16,Veg Thali
+17,Masala Dosa
+18,Coffee
+19,Pav Bhaji
+19,Cold Drink
+20,Veg Thali
+21,Samosa
+21,Tea
+21,Masala Dosa
+22,Vada Pav
+22,Cold Drink
+23,Cold Drink
+24,Pav Bhaji
+25,Masala Dosa
+26,Tea
+27,Masala Dosa
+28,Pav Bhaji
+28,Cold Drink
+29,Coffee
+29,Vada Pav
+30,Masala Dosa
+31,Idli
+31,Tea
+32,Pav Bhaji
+32,Cold Drink
+33,Cold Drink
+34,Veg Sandwich
+34,Vada Pav
+35,Tea
+36,Tea
+37,Coffee
+38,Cold Drink
+39,Veg Sandwich
+39,Cold Drink
+40,Veg Thali
+41,Pav Bhaji
+41,Cold Drink
+42,Coffee
+42,Veg Thali
+43,Cold Drink
+44,Cold Drink
+45,Veg Thali
+46,Cold Drink
+47,Vada Pav
+47,Cold Drink
+48,Veg Sandwich
+48,Cold Drink
+49,Samosa
+50,Veg Thali
+51,Masala Dosa
+52,Samosa
+53,Cold Drink
+54,Vada Pav
+55,Vada Pav
+55,Cold Drink
+56,Tea
+57,Cold Drink
+58,Masala Dosa
+59,Pav Bhaji
+59,Cold Drink
+60,Samosa
+60,Tea
+60,Veg Sandwich
+61,Idli
+61,Tea
+62,Veg Sandwich
+62,Cold Drink
+63,Masala Dosa
+63,Tea
+63,Pav Bhaji
+64,Samosa
+64,Tea
+65,Coffee
+66,Vada Pav
+67,Idli
+67,Tea
+68,Tea
+68,Samosa
+69,Tea
+70,Tea
+71,Veg Sandwich
+72,Samosa
+72,Tea
+73,Samosa
+73,Tea
+73,Coffee
+74,Vada Pav
+74,Cold Drink
+75,Masala Dosa
+75,Cold Drink
+76,Samosa
+76,Tea
+77,Veg Sandwich
+78,Masala Dosa
+78,Tea
+79,Masala Dosa
+80,Vada Pav
+80,Cold Drink
+81,Veg Thali
+82,Coffee
+83,Cold Drink
+84,Coffee
+84,Veg Thali
+85,Masala Dosa
+86,Cold Drink
+86,Pav Bhaji
+87,Veg Sandwich
+87,Cold Drink
+88,Cold Drink
+89,Samosa
+90,Masala Dosa
+90,Tea
+91,Idli
+91,Tea
+92,Idli
+92,Tea
+93,Idli
+93,Tea
+94,Masala Dosa
+95,Veg Thali
+96,Veg Thali
+97,Samosa
+97,Tea
+98,Idli
+98,Masala Dosa
+99,Cold Drink
+100,Pav Bhaji
+101,Pav Bhaji
+101,Cold Drink
+102,Cold Drink
+103,Idli
+104,Cold Drink
+105,Veg Thali
+106,Samosa
+107,Samosa
+107,Veg Thali
+108,Idli
+108,Tea
+109,Veg Thali
+110,Veg Thali
+111,Veg Sandwich
+111,Cold Drink
+112,Veg Thali
+112,Pav Bhaji
+113,Vada Pav
+114,Coffee
+115,Tea
+116,Samosa
+116,Tea
+117,Vada Pav
+117,Cold Drink
+118,Idli
+118,Tea
+119,Veg Sandwich
+119,Cold Drink
+120,Veg Sandwich
+121,Masala Dosa
+122,Cold Drink
+123,Tea
+124,Vada Pav
+125,Vada Pav
+126,Tea
+126,Pav Bhaji
+127,Tea
+128,Masala Dosa
+128,Tea
+129,Samosa
+129,Tea
+129,Coffee
+130,Masala Dosa
+130,Tea
+131,Pav Bhaji
+131,Cold Drink
+132,Masala Dosa
+132,Tea
+133,Tea
+134,Samosa
+135,Cold Drink
+136,Cold Drink
+137,Veg Sandwich
+137,Cold Drink
+138,Vada Pav
+138,Cold Drink
+139,Veg Sandwich
+139,Cold Drink
+140,Pav Bhaji
+140,Cold Drink
+141,Samosa
+141,Tea
+142,Veg Thali
+142,Tea
+143,Veg Sandwich
+143,Cold Drink
+144,Masala Dosa
+144,Tea
+144,Pav Bhaji
+145,Idli
+145,Tea
+146,Veg Thali
+147,Tea
+148,Veg Thali
+149,Masala Dosa
+149,Tea
+150,Vada Pav
+151,Cold Drink
+152,Veg Thali
+153,Tea
+154,Idli
+155,Coffee
+156,Cold Drink
+157,Vada Pav
+158,Idli
+158,Tea
+159,Masala Dosa
+160,Masala Dosa
+160,Tea
+160,Coffee
+161,Idli
+161,Tea
+162,Idli
+162,Tea
+163,Coffee
+164,Vada Pav
+164,Samosa
+165,Tea
+166,Cold Drink
+167,Cold Drink
+168,Samosa
+168,Tea
+169,Cold Drink
+170,Idli
+170,Tea
+171,Coffee
+172,Cold Drink
+173,Cold Drink
+174,Vada Pav
+175,Veg Thali
+176,Veg Thali
+177,Cold Drink
+178,Masala Dosa
+178,Tea
+178,Veg Thali
+179,Masala Dosa
+179,Tea
+180,Cold Drink
+180,Vada Pav
+181,Masala Dosa
+181,Tea
+182,Samosa
+182,Tea
+183,Coffee
+184,Masala Dosa
+185,Idli
+186,Tea
+187,Pav Bhaji
+187,Cold Drink
+188,Tea
+189,Cold Drink
+190,Masala Dosa
+190,Tea
+191,Coffee
+191,Pav Bhaji
+192,Tea
+193,Coffee
+194,Idli
+194,Tea
+195,Idli
+195,Tea
+196,Vada Pav
+196,Veg Thali
+197,Tea
+198,Coffee
+199,Tea
+200,Tea
+201,Samosa
+201,Tea
+202,Veg Sandwich
+203,Samosa
+204,Veg Sandwich
+205,Idli
+205,Tea
+205,Samosa
+206,Idli
+207,Veg Thali
+208,Vada Pav
+209,Samosa
+209,Veg Thali
+210,Samosa
+210,Tea
+211,Idli
+212,Tea
+213,Masala Dosa
+213,Tea
+214,Masala Dosa
+214,Tea
+215,Idli
+216,Idli
+217,Tea
+218,Samosa
+218,Tea
+219,Tea
+220,Samosa
+220,Tea
+221,Coffee
+222,Tea
+222,Cold Drink
+223,Veg Thali
+224,Cold Drink
+225,Coffee
+226,Idli
+226,Tea
+227,Samosa
+227,Tea
+228,Coffee
+229,Tea
+230,Coffee
+231,Vada Pav
+231,Cold Drink
+232,Veg Thali
+233,Idli
+234,Veg Sandwich
+234,Cold Drink
+234,Masala Dosa
+235,Tea
+236,Masala Dosa
+237,Coffee
+238,Veg Sandwich
+238,Cold Drink
+239,Masala Dosa
+239,Tea
+240,Coffee
+241,Pav Bhaji
+241,Cold Drink
+242,Pav Bhaji
+242,Cold Drink
+243,Veg Thali
+244,Samosa
+245,Cold Drink
+246,Vada Pav
+246,Cold Drink
+247,Veg Thali
+248,Cold Drink
+249,Samosa
+250,Pav Bhaji
+250,Cold Drink
+251,Vada Pav
+251,Cold Drink
+252,Cold Drink
+253,Vada Pav
+254,Samosa
+255,Coffee
+256,Pav Bhaji
+256,Cold Drink
+256,Coffee
+257,Samosa
+258,Samosa
+258,Tea
+259,Vada Pav
+259,Cold Drink
+260,Veg Thali
+260,Masala Dosa
+261,Samosa
+261,Tea
+262,Idli
+263,Cold Drink
+264,Coffee
+265,Idli
+266,Idli
+266,Tea
+267,Samosa
+268,Masala Dosa
+268,Tea
+269,Vada Pav
+269,Cold Drink
+269,Tea
+270,Coffee
+271,Coffee
+272,Masala Dosa
+272,Tea
+273,Coffee
+273,Masala Dosa
+274,Veg Thali
+275,Idli
+276,Tea
+276,Masala Dosa
+277,Vada Pav
+278,Samosa
+278,Tea
+279,Idli
+280,Veg Thali
+281,Coffee
+282,Tea
+283,Cold Drink
+284,Coffee
+284,Veg Sandwich
+285,Tea
+286,Idli
+286,Tea
+287,Idli
+288,Veg Thali
+289,Vada Pav
+289,Cold Drink
+290,Veg Thali
+290,Idli
+291,Tea
+292,Coffee
+293,Coffee
+294,Pav Bhaji
+294,Cold Drink
+294,Vada Pav
+295,Pav Bhaji
+295,Cold Drink
+296,Tea
+297,Cold Drink
+297,Samosa
+298,Pav Bhaji
+298,Cold Drink
+298,Tea
+299,Cold Drink
+300,Veg Sandwich
+301,Tea
+301,Cold Drink
+302,Pav Bhaji
+303,Coffee
+304,Masala Dosa
+304,Tea
+304,Veg Thali
+305,Coffee
+306,Coffee
+306,Idli
+307,Masala Dosa
+308,Veg Sandwich
+308,Cold Drink
+308,Samosa
+309,Coffee
+310,Vada Pav
+310,Cold Drink
+311,Cold Drink
+312,Tea
+313,Coffee
+314,Cold Drink
+314,Masala Dosa
+315,Idli
+315,Tea
+316,Samosa
+316,Tea
+317,Tea
+318,Cold Drink
+319,Veg Sandwich
+319,Cold Drink
+320,Idli
+320,Tea
+321,Vada Pav
+321,Cold Drink
+322,Pav Bhaji
+323,Coffee
+324,Masala Dosa
+325,Tea
+326,Tea
+326,Coffee
+327,Tea
+328,Vada Pav
+328,Cold Drink
+329,Idli
+329,Tea
+329,Coffee
+330,Samosa
+330,Tea
+331,Vada Pav
+331,Cold Drink
+332,Vada Pav
+332,Cold Drink
+333,Veg Thali
+334,Tea
+335,Pav Bhaji
+336,Tea
+337,Coffee
+338,Veg Sandwich
+338,Cold Drink
+339,Veg Thali
+340,Samosa
+340,Tea
+341,Coffee
+341,Veg Thali
+342,Veg Sandwich
+342,Cold Drink
+343,Veg Thali
+344,Tea
+344,Cold Drink
+345,Tea
+346,Vada Pav
+346,Cold Drink
+346,Tea
+347,Idli
+348,Idli
+348,Tea
+349,Veg Thali
+350,Veg Sandwich
+351,Veg Thali
+352,Vada Pav
+352,Cold Drink
+353,Idli
+353,Tea
+354,Veg Thali
+355,Veg Thali
+355,Tea
+356,Coffee
+356,Tea
+357,Idli
+357,Tea
+358,Veg Thali
+358,Tea
+359,Veg Thali
+359,Veg Sandwich
+360,Idli
+361,Veg Thali
+362,Masala Dosa
+362,Tea
+363,Masala Dosa
+363,Tea
+364,Vada Pav
+365,Veg Sandwich
+365,Cold Drink
+366,Idli
+366,Tea
+366,Veg Thali
+367,Pav Bhaji
+367,Vada Pav
+368,Cold Drink
+369,Pav Bhaji
+369,Cold Drink
+370,Vada Pav
+370,Cold Drink
+371,Coffee
+372,Veg Thali
+373,Pav Bhaji
+374,Samosa
+374,Tea
+375,Tea
+376,Cold Drink
+377,Tea
+377,Cold Drink
+378,Samosa
+378,Tea
+379,Veg Thali
+380,Pav Bhaji
+380,Cold Drink
+381,Veg Sandwich
+381,Cold Drink
+382,Pav Bhaji
+383,Samosa
+383,Tea
+384,Veg Thali
+385,Samosa
+385,Tea
+386,Veg Thali
+387,Samosa
+387,Tea
+388,Vada Pav
+388,Cold Drink
+389,Cold Drink
+390,Vada Pav
+391,Coffee
+392,Veg Thali
+392,Pav Bhaji
+393,Masala Dosa
+393,Tea
+394,Pav Bhaji
+394,Cold Drink
+395,Cold Drink
+396,Pav Bhaji
+396,Cold Drink
+397,Samosa
+398,Samosa
+398,Tea
+399,Idli
+399,Pav Bhaji
+400,Masala Dosa
+401,Masala Dosa
+401,Tea
+402,Masala Dosa
+402,Tea
+403,Masala Dosa
+403,Tea
+403,Idli
+404,Veg Sandwich
+404,Cold Drink
+405,Vada Pav
+405,Cold Drink
+406,Samosa
+406,Tea
+406,Veg Sandwich
+407,Pav Bhaji
+408,Pav Bhaji
+408,Cold Drink
+409,Vada Pav
+410,Samosa
+410,Tea
+411,Cold Drink
+412,Coffee
+413,Idli
+413,Tea
+414,Cold Drink
+415,Veg Sandwich
+415,Cold Drink
+416,Tea
+417,Samosa
+417,Tea
+418,Samosa
+419,Vada Pav
+419,Cold Drink
+420,Idli
+420,Tea
+421,Idli
+421,Tea
+422,Idli
+422,Tea
+423,Samosa
+424,Cold Drink
+425,Masala Dosa
+425,Tea
+426,Tea
+427,Coffee
+428,Samosa
+428,Tea
+429,Veg Thali
+430,Vada Pav
+431,Samosa
+432,Pav Bhaji
+433,Idli
+434,Samosa
+434,Tea
+435,Tea
+436,Veg Sandwich
+437,Pav Bhaji
+437,Cold Drink
+438,Vada Pav
+439,Samosa
+439,Tea
+440,Samosa
+441,Tea
+442,Idli
+443,Veg Sandwich
+443,Cold Drink
+444,Veg Thali
+445,Veg Thali
+446,Pav Bhaji
+446,Cold Drink
+447,Idli
+447,Veg Sandwich
+448,Samosa
+449,Tea
+450,Vada Pav
+450,Cold Drink
+451,Idli
+451,Tea
+452,Vada Pav
+452,Cold Drink
+453,Samosa
+453,Tea
+454,Coffee
+455,Tea
+456,Cold Drink
+456,Tea
+457,Samosa
+457,Tea
+458,Coffee
+459,Veg Thali
+459,Tea
+460,Idli
+460,Tea
+461,Masala Dosa
+462,Veg Thali
+463,Veg Sandwich
+463,Cold Drink
+464,Vada Pav
+464,Cold Drink
+465,Cold Drink
+466,Pav Bhaji
+466,Cold Drink
+467,Veg Sandwich
+467,Cold Drink
+468,Samosa
+469,Idli
+469,Tea
+470,Veg Thali
+470,Veg Sandwich
+471,Pav Bhaji
+471,Cold Drink
+472,Coffee
+473,Pav Bhaji
+473,Cold Drink
+474,Masala Dosa
+474,Tea
+475,Samosa
+475,Tea
+476,Pav Bhaji
+476,Cold Drink
+477,Samosa
+477,Tea
+477,Cold Drink
+478,Masala Dosa
+479,Vada Pav
+479,Cold Drink
+479,Masala Dosa
+480,Vada Pav
+481,Samosa
+481,Tea
+482,Coffee
+483,Idli
+484,Idli
+485,Pav Bhaji
+486,Vada Pav
+486,Cold Drink
+487,Veg Thali
+488,Idli
+488,Tea
+489,Veg Thali
+490,Veg Sandwich
+490,Cold Drink
+491,Samosa
+491,Tea
+492,Samosa
+492,Tea
+493,Coffee
+494,Veg Sandwich
+494,Cold Drink
+495,Masala Dosa
+495,Tea
+496,Vada Pav
+497,Pav Bhaji
+497,Vada Pav
+498,Veg Sandwich
+498,Cold Drink
+499,Coffee
+500,Idli
+500,Tea
+501,Veg Thali
+502,Pav Bhaji
+503,Samosa
+503,Tea
+504,Tea
+505,Idli
+506,Idli
+507,Veg Thali
+508,Tea
+508,Samosa
+509,Veg Thali
+510,Pav Bhaji
+511,Cold Drink
+511,Tea
+512,Cold Drink
+513,Pav Bhaji
+513,Cold Drink
+514,Pav Bhaji
+515,Masala Dosa
+515,Veg Thali
+516,Samosa
+516,Tea
+517,Cold Drink
+517,Pav Bhaji
+518,Idli
+518,Tea
+519,Vada Pav
+519,Cold Drink
+520,Idli
+520,Coffee
+521,Veg Sandwich
+521,Cold Drink
+522,Masala Dosa
+523,Coffee
+524,Masala Dosa
+524,Tea
+525,Coffee
+526,Masala Dosa
+526,Tea
+527,Coffee
+528,Veg Thali
+529,Cold Drink
+530,Vada Pav
+531,Vada Pav
+531,Coffee
+532,Pav Bhaji
+532,Cold Drink
+533,Samosa
+533,Tea
+534,Veg Thali
+535,Cold Drink
+535,Tea
+536,Samosa
+537,Coffee
+538,Veg Sandwich
+538,Cold Drink
+539,Pav Bhaji
+539,Cold Drink
+540,Pav Bhaji
+540,Cold Drink
+541,Samosa
+542,Vada Pav
+542,Cold Drink
+543,Coffee
+544,Vada Pav
+545,Idli
+545,Tea
+545,Veg Thali
+546,Masala Dosa
+547,Idli
+547,Tea
+547,Veg Thali
+548,Masala Dosa
+548,Tea
+549,Idli
+549,Tea
+549,Coffee
+550,Idli
+550,Tea
+551,Idli
+551,Tea
+552,Veg Sandwich
+552,Cold Drink
+553,Tea
+553,Samosa
+554,Cold Drink
+555,Samosa
+556,Cold Drink
+557,Tea
+558,Veg Sandwich
+558,Cold Drink
+559,Veg Thali
+560,Pav Bhaji
+561,Samosa
+562,Pav Bhaji
+562,Cold Drink
+563,Pav Bhaji
+563,Coffee
+564,Coffee
+565,Vada Pav
+565,Cold Drink
+566,Coffee
+566,Masala Dosa
+567,Veg Sandwich
+568,Pav Bhaji
+569,Cold Drink
+570,Veg Sandwich
+570,Pav Bhaji
+571,Veg Sandwich
+572,Samosa
+573,Tea
+574,Tea
+575,Vada Pav
+575,Cold Drink
+576,Cold Drink
+577,Samosa
+577,Idli
+578,Vada Pav
+578,Cold Drink
+579,Samosa
+579,Tea
+580,Coffee
+581,Tea
+581,Coffee
+582,Pav Bhaji
+582,Cold Drink
+583,Pav Bhaji
+584,Veg Sandwich
+584,Cold Drink
+585,Pav Bhaji
+585,Cold Drink
+586,Vada Pav
+586,Idli
+587,Coffee
+587,Samosa
+588,Masala Dosa
+589,Tea
+590,Veg Sandwich
+590,Cold Drink
+591,Pav Bhaji
+591,Cold Drink
+592,Idli
+592,Tea
+593,Pav Bhaji
+594,Samosa
+594,Tea
+594,Cold Drink
+595,Tea
+596,Samosa
+596,Tea
+597,Coffee
+598,Idli
+598,Tea
+599,Coffee
+600,Vada Pav
+601,Coffee
+602,Pav Bhaji
+603,Cold Drink
+604,Veg Thali
+605,Vada Pav
+606,Samosa
+607,Masala Dosa
+607,Cold Drink
+608,Idli
+608,Tea
+609,Cold Drink
+609,Samosa
+610,Samosa
+610,Tea
+611,Coffee
+612,Tea
+613,Samosa
+613,Tea
+614,Samosa
+614,Tea
+615,Pav Bhaji
+615,Cold Drink
+616,Cold Drink
+617,Vada Pav
+617,Cold Drink
+618,Veg Sandwich
+619,Veg Thali
+619,Pav Bhaji
+620,Masala Dosa
+620,Tea
+621,Veg Thali
+622,Veg Thali
+622,Cold Drink
+623,Veg Thali
+624,Idli
+624,Tea
+625,Vada Pav
+625,Cold Drink
+626,Vada Pav
+627,Idli
+627,Tea
+628,Veg Sandwich
+629,Idli
+629,Tea
+630,Idli
+630,Tea
+631,Coffee
+632,Cold Drink
+633,Veg Thali
+634,Tea
+635,Samosa
+635,Tea
+636,Coffee
+637,Pav Bhaji
+638,Pav Bhaji
+639,Tea
+639,Pav Bhaji
+640,Cold Drink
+641,Pav Bhaji
+641,Cold Drink
+641,Coffee
+642,Masala Dosa
+642,Tea
+643,Idli
+643,Tea
+644,Vada Pav
+645,Pav Bhaji
+645,Cold Drink
+646,Coffee
+647,Veg Thali
+648,Samosa
+649,Masala Dosa
+649,Tea
+650,Veg Sandwich
+650,Cold Drink
+651,Coffee
+652,Veg Sandwich
+653,Veg Thali
+654,Tea
+655,Tea
+655,Cold Drink
+656,Masala Dosa
+656,Tea
+657,Tea
+658,Cold Drink
+659,Idli
+659,Samosa
+660,Tea
+661,Pav Bhaji
+662,Vada Pav
+662,Cold Drink
+663,Cold Drink
+663,Veg Sandwich
+664,Vada Pav
+665,Cold Drink
+666,Idli
+667,Pav Bhaji
+667,Cold Drink
+668,Veg Thali
+669,Cold Drink
+670,Cold Drink
+671,Idli
+671,Tea
+672,Pav Bhaji
+672,Cold Drink
+672,Tea
+673,Idli
+673,Tea
+674,Veg Sandwich
+674,Cold Drink
+675,Idli
+675,Tea
+676,Idli
+676,Tea
+677,Idli
+678,Masala Dosa
+678,Tea
+679,Samosa
+679,Tea
+680,Tea
+680,Masala Dosa
+681,Tea
+682,Idli
+683,Veg Sandwich
+684,Cold Drink
+685,Coffee
+686,Pav Bhaji
+687,Cold Drink
+688,Pav Bhaji
+689,Veg Thali
+690,Masala Dosa
+691,Veg Thali
+692,Veg Thali
+693,Masala Dosa
+694,Coffee
+695,Veg Thali
+696,Idli
+697,Tea
+698,Vada Pav
+698,Cold Drink
+699,Samosa
+699,Tea
+700,Veg Thali
+701,Masala Dosa
+701,Tea
+702,Cold Drink
+703,Vada Pav
+703,Cold Drink
+704,Masala Dosa
+704,Tea
+705,Cold Drink
+706,Masala Dosa
+706,Tea
+707,Coffee
+707,Vada Pav
+708,Veg Sandwich
+709,Vada Pav
+709,Cold Drink
+710,Coffee
+711,Masala Dosa
+712,Veg Thali
+713,Samosa
+713,Tea
+714,Veg Sandwich
+714,Vada Pav
+715,Veg Sandwich
+716,Coffee
+716,Veg Thali
+717,Veg Sandwich
+717,Cold Drink
+718,Samosa
+719,Coffee
+720,Cold Drink
+721,Vada Pav
+722,Masala Dosa
+723,Coffee
+724,Vada Pav
+724,Cold Drink
+725,Veg Thali
+726,Masala Dosa
+726,Tea
+727,Tea
+728,Cold Drink
+729,Tea
+730,Vada Pav
+731,Masala Dosa
+731,Tea
+732,Coffee
+733,Pav Bhaji
+733,Cold Drink
+734,Veg Sandwich
+734,Cold Drink
+735,Masala Dosa
+735,Tea
+735,Veg Thali
+736,Vada Pav
+736,Cold Drink
+737,Veg Thali
+738,Veg Thali
+739,Masala Dosa
+739,Tea
+739,Vada Pav
+740,Coffee
+741,Idli
+741,Tea
+742,Coffee
+743,Masala Dosa
+744,Idli
+744,Coffee
+745,Cold Drink
+746,Samosa
+746,Cold Drink
+747,Cold Drink
+748,Cold Drink
+748,Pav Bhaji
+749,Cold Drink
+750,Masala Dosa
+751,Cold Drink
+752,Veg Sandwich
+752,Cold Drink
+753,Coffee
+754,Cold Drink
+755,Veg Thali
+756,Tea
+757,Veg Sandwich
+758,Veg Sandwich
+758,Cold Drink
+759,Cold Drink
+760,Samosa
+761,Veg Thali
+762,Vada Pav
+763,Tea
+764,Tea
+765,Tea
+766,Cold Drink
+766,Pav Bhaji
+767,Samosa
+767,Tea
+768,Cold Drink
+768,Masala Dosa
+769,Veg Sandwich
+770,Coffee
+771,Cold Drink
+772,Tea
+773,Masala Dosa
+773,Tea
+774,Samosa
+774,Tea
+775,Idli
+776,Veg Sandwich
+776,Cold Drink
+776,Idli
+777,Veg Sandwich
+777,Cold Drink
+778,Veg Sandwich
+778,Cold Drink
+778,Coffee
+779,Masala Dosa
+779,Tea
+780,Veg Sandwich
+780,Cold Drink
+781,Masala Dosa
+782,Pav Bhaji
+783,Pav Bhaji
+783,Cold Drink
+784,Cold Drink
+785,Veg Thali
+786,Cold Drink
+787,Vada Pav
+788,Coffee
+788,Pav Bhaji
+789,Tea
+790,Pav Bhaji
+791,Veg Thali
+792,Cold Drink
+793,Masala Dosa
+793,Tea
+794,Coffee
+795,Cold Drink
+796,Tea
+797,Vada Pav
+797,Cold Drink
+798,Pav Bhaji
+799,Pav Bhaji
+799,Cold Drink
+800,Masala Dosa
+800,Tea
+801,Idli
+802,Masala Dosa
+803,Cold Drink
+804,Masala Dosa
+805,Veg Sandwich
+805,Cold Drink
+805,Samosa
+806,Coffee
+807,Idli
+808,Masala Dosa
+808,Tea
+809,Tea
+810,Pav Bhaji
+810,Cold Drink
+811,Coffee
+812,Coffee
+813,Pav Bhaji
+814,Tea
+814,Masala Dosa
+815,Vada Pav
+815,Cold Drink
+816,Idli
+816,Tea
+817,Vada Pav
+817,Cold Drink
+818,Idli
+819,Pav Bhaji
+819,Cold Drink
+820,Coffee
+821,Pav Bhaji
+821,Cold Drink
+822,Coffee
+822,Cold Drink
+823,Veg Sandwich
+823,Cold Drink
+824,Samosa
+825,Veg Sandwich
+825,Cold Drink
+826,Masala Dosa
+826,Tea
+827,Cold Drink
+828,Veg Sandwich
+828,Cold Drink
+829,Idli
+830,Veg Sandwich
+830,Cold Drink
+831,Veg Sandwich
+831,Cold Drink
+832,Cold Drink
+833,Veg Sandwich
+833,Cold Drink
+834,Tea
+835,Vada Pav
+835,Cold Drink
+836,Masala Dosa
+836,Tea
+837,Pav Bhaji
+837,Cold Drink
+838,Pav Bhaji
+839,Masala Dosa
+840,Samosa
+840,Tea
+841,Veg Sandwich
+841,Cold Drink
+842,Cold Drink
+843,Veg Sandwich
+843,Tea
+844,Pav Bhaji
+845,Samosa
+846,Masala Dosa
+846,Tea
+847,Idli
+847,Tea
+847,Samosa
+848,Veg Thali
+849,Idli
+849,Pav Bhaji
+850,Veg Sandwich
+851,Tea
+852,Veg Thali
+852,Masala Dosa
+853,Idli
+854,Cold Drink
+855,Vada Pav
+856,Samosa
+856,Tea
+857,Veg Sandwich
+857,Cold Drink
+858,Samosa
+858,Tea
+859,Idli
+859,Tea
+860,Veg Sandwich
+860,Cold Drink
+861,Coffee
+862,Pav Bhaji
+863,Vada Pav
+864,Samosa
+865,Masala Dosa
+865,Vada Pav
+866,Tea
+867,Vada Pav
+868,Samosa
+868,Tea
+869,Coffee
+870,Veg Thali
+870,Samosa
+871,Vada Pav
+871,Cold Drink
+872,Cold Drink
+873,Veg Sandwich
+873,Cold Drink
+874,Idli
+874,Tea
+875,Tea
+876,Tea
+877,Cold Drink
+878,Masala Dosa
+878,Tea
+879,Vada Pav
+879,Cold Drink
+880,Coffee
+880,Vada Pav
+881,Tea
+882,Veg Thali
+883,Samosa
+883,Tea
+884,Coffee
+885,Masala Dosa
+885,Tea
+885,Veg Sandwich
+886,Tea
+887,Idli
+887,Tea
+888,Coffee
+889,Idli
+889,Tea
+890,Masala Dosa
+890,Tea
+891,Pav Bhaji
+891,Cold Drink
+892,Coffee
+893,Masala Dosa
+893,Tea
+894,Tea
+895,Idli
+895,Tea
+896,Vada Pav
+897,Coffee
+898,Masala Dosa
+898,Tea
+899,Samosa
+900,Tea
+901,Vada Pav
+902,Vada Pav
+903,Samosa
+903,Tea
+904,Idli
+904,Tea
+905,Tea
+906,Pav Bhaji
+907,Idli
+907,Masala Dosa
+908,Pav Bhaji
+908,Cold Drink
+909,Idli
+910,Tea
+911,Pav Bhaji
+912,Veg Sandwich
+912,Cold Drink
+913,Cold Drink
+914,Idli
+914,Tea
+915,Coffee
+916,Idli
+916,Veg Sandwich
+917,Coffee
+917,Tea
+918,Samosa
+918,Tea
+919,Vada Pav
+919,Cold Drink
+920,Masala Dosa
+920,Tea
+921,Samosa
+921,Tea
+922,Pav Bhaji
+922,Cold Drink
+922,Samosa
+923,Veg Sandwich
+924,Vada Pav
+925,Cold Drink
+925,Vada Pav
+926,Pav Bhaji
+927,Masala Dosa
+928,Vada Pav
+929,Veg Sandwich
+930,Coffee
+931,Tea
+931,Masala Dosa
+932,Masala Dosa
+932,Tea
+933,Samosa
+933,Tea
+934,Cold Drink
+934,Pav Bhaji
+935,Masala Dosa
+935,Tea
+936,Coffee
+937,Pav Bhaji
+938,Idli
+938,Tea
+939,Coffee
+940,Veg Thali
+941,Idli
+941,Tea
+941,Samosa
+942,Masala Dosa
+942,Tea
+942,Vada Pav
+943,Cold Drink
+944,Idli
+944,Tea
+945,Vada Pav
+945,Cold Drink
+946,Vada Pav
+946,Cold Drink
+947,Vada Pav
+947,Cold Drink
+948,Idli
+948,Tea
+949,Veg Sandwich
+949,Cold Drink
+949,Tea
+950,Cold Drink
+951,Coffee
+952,Coffee
+953,Coffee
+954,Samosa
+954,Tea
+955,Masala Dosa
+955,Tea
+956,Cold Drink
+957,Coffee
+958,Coffee
+959,Samosa
+959,Tea
+960,Cold Drink
+961,Pav Bhaji
+961,Cold Drink
+962,Coffee
+963,Tea
+963,Masala Dosa
+964,Veg Thali
+965,Veg Sandwich
+965,Cold Drink
+966,Samosa
+966,Tea
+967,Masala Dosa
+967,Tea
+968,Pav Bhaji
+969,Tea
+969,Vada Pav
+970,Masala Dosa
+971,Idli
+971,Tea
+972,Cold Drink
+972,Veg Thali
+973,Veg Thali
+974,Cold Drink
+975,Samosa
+975,Tea
+976,Tea
+977,Veg Thali
+978,Vada Pav
+979,Pav Bhaji
+980,Tea
+981,Idli
+982,Tea
+983,Samosa
+983,Tea
+984,Pav Bhaji
+984,Cold Drink
+985,Idli
+985,Tea
+986,Samosa
+987,Pav Bhaji
+988,Tea
+989,Tea
+990,Coffee
+991,Veg Thali
+992,Idli
+992,Tea
+993,Pav Bhaji
+994,Veg Sandwich
+994,Cold Drink
+995,Coffee
+995,Vada Pav
+996,Coffee
+997,Tea
+998,Vada Pav
+999,Veg Thali
+999,Pav Bhaji
+1000,Veg Thali
+1000,Vada Pav
+1001,Veg Sandwich
+1001,Cold Drink
+1002,Masala Dosa
+1002,Tea
+1002,Samosa
+1003,Veg Sandwich
+1003,Cold Drink
+1003,Idli
+1004,Masala Dosa
+1004,Tea
+1005,Veg Sandwich
+1006,Tea
+1007,Coffee
+1007,Tea
+1008,Samosa
+1008,Pav Bhaji
+1009,Pav Bhaji
+1009,Vada Pav
+1010,Vada Pav
+1010,Cold Drink
+1011,Idli
+1012,Masala Dosa
+1012,Tea
+1013,Idli
+1014,Samosa
+1015,Idli
+1016,Tea
+1017,Vada Pav
+1017,Cold Drink
+1018,Masala Dosa
+1018,Tea
+1019,Idli
+1019,Tea
+1020,Veg Sandwich
+1021,Veg Thali
+1022,Idli
+1022,Tea
+1023,Veg Thali
+1024,Masala Dosa
+1024,Tea
+1024,Coffee
+1025,Idli
+1025,Tea
+1026,Veg Sandwich
+1027,Vada Pav
+1027,Cold Drink
+1028,Tea
+1029,Vada Pav
+1030,Samosa
+1030,Tea
+1030,Veg Thali
+1031,Masala Dosa
+1031,Tea
+1032,Cold Drink
+1033,Cold Drink
+1034,Tea
+1035,Samosa
+1035,Tea
+1036,Vada Pav
+1036,Cold Drink
+1037,Cold Drink
+1038,Vada Pav
+1038,Cold Drink
+1039,Samosa
+1039,Tea
+1040,Masala Dosa
+1040,Tea
+1041,Samosa
+1041,Tea
+1042,Veg Thali
+1043,Vada Pav
+1043,Cold Drink
+1044,Veg Sandwich
+1044,Cold Drink
+1045,Cold Drink
+1046,Veg Thali
+1046,Vada Pav
+1047,Veg Thali
+1048,Samosa
+1048,Tea
+1049,Veg Thali
+1050,Veg Thali
+1051,Idli
+1052,Cold Drink
+1053,Coffee
+1054,Vada Pav
+1054,Cold Drink
+1055,Samosa
+1056,Samosa
+1056,Tea
+1057,Veg Sandwich
+1058,Coffee
+1059,Vada Pav
+1059,Cold Drink
+1060,Veg Sandwich
+1060,Cold Drink
+1061,Tea
+1062,Masala Dosa
+1062,Tea
+1063,Veg Thali
+1064,Idli
+1064,Tea
+1065,Veg Sandwich
+1065,Cold Drink
+1066,Veg Sandwich
+1066,Coffee
+1067,Veg Thali
+1068,Veg Thali
+1069,Cold Drink
+1070,Pav Bhaji
+1070,Cold Drink
+1071,Veg Thali
+1072,Masala Dosa
+1072,Tea
+1073,Coffee
+1074,Masala Dosa
+1075,Masala Dosa
+1075,Tea
+1076,Veg Sandwich
+1076,Cold Drink
+1077,Veg Sandwich
+1077,Tea
+1078,Veg Thali
+1078,Cold Drink
+1079,Masala Dosa
+1079,Tea
+1080,Vada Pav
+1080,Masala Dosa
+1081,Cold Drink
+1082,Pav Bhaji
+1082,Cold Drink
+1083,Idli
+1083,Tea
+1084,Samosa
+1084,Tea
+1084,Vada Pav
+1085,Masala Dosa
+1085,Tea
+1086,Tea
+1087,Pav Bhaji
+1087,Cold Drink
+1088,Samosa
+1088,Idli
+1089,Samosa
+1089,Tea
+1089,Coffee
+1090,Pav Bhaji
+1090,Cold Drink
+1091,Masala Dosa
+1091,Tea
+1092,Samosa
+1092,Tea
+1093,Veg Thali
+1094,Idli
+1094,Tea
+1095,Pav Bhaji
+1095,Cold Drink
+1096,Pav Bhaji
+1096,Cold Drink
+1096,Veg Thali
+1097,Veg Thali
+1098,Vada Pav
+1098,Cold Drink
+1099,Coffee
+1100,Cold Drink
+1101,Coffee
+1101,Vada Pav
+1102,Samosa
+1102,Tea
+1103,Masala Dosa
+1103,Tea
+1104,Pav Bhaji
+1105,Samosa
+1105,Tea
+1106,Samosa
+1106,Tea
+1106,Coffee
+1107,Vada Pav
+1107,Cold Drink
+1108,Pav Bhaji
+1108,Cold Drink
+1109,Veg Sandwich
+1109,Cold Drink
+1110,Tea
+1111,Tea
+1112,Vada Pav
+1112,Cold Drink
+1113,Veg Thali
+1114,Vada Pav
+1114,Cold Drink
+1115,Masala Dosa
+1115,Tea
+1116,Cold Drink
+1117,Samosa
+1117,Tea
+1117,Masala Dosa
+1118,Cold Drink
+1119,Cold Drink
+1120,Tea
+1121,Pav Bhaji
+1121,Cold Drink
+1122,Pav Bhaji
+1123,Tea
+1124,Veg Sandwich
+1124,Cold Drink
+1125,Veg Thali
+1125,Coffee
+1126,Cold Drink
+1127,Idli
+1128,Samosa
+1128,Tea
+1129,Cold Drink
+1130,Veg Sandwich
+1131,Idli
+1132,Pav Bhaji
+1133,Vada Pav
+1133,Cold Drink
+1134,Pav Bhaji
+1135,Idli
+1135,Tea
+1136,Masala Dosa
+1137,Coffee
+1138,Vada Pav
+1138,Cold Drink
+1138,Masala Dosa
+1139,Idli
+1139,Tea
+1140,Veg Sandwich
+1140,Cold Drink
+1141,Vada Pav
+1141,Cold Drink
+1141,Pav Bhaji
+1142,Veg Sandwich
+1142,Cold Drink
+1143,Vada Pav
+1144,Pav Bhaji
+1145,Tea
+1146,Pav Bhaji
+1146,Cold Drink
+1146,Vada Pav
+1147,Tea
+1148,Coffee
+1149,Vada Pav
+1150,Idli
+1151,Idli
+1152,Veg Thali
+1152,Veg Sandwich
+1153,Idli
+1153,Tea
+1154,Idli
+1154,Tea
+1155,Idli
+1155,Tea
+1156,Coffee
+1156,Samosa
+1157,Masala Dosa
+1157,Tea
+1158,Samosa
+1159,Pav Bhaji
+1159,Cold Drink
+1160,Masala Dosa
+1161,Samosa
+1161,Coffee
+1162,Tea
+1163,Tea
+1164,Tea
+1165,Tea
+1165,Coffee
+1166,Idli
+1167,Vada Pav
+1167,Cold Drink
+1168,Veg Sandwich
+1168,Cold Drink
+1169,Samosa
+1169,Tea
+1170,Vada Pav
+1171,Samosa
+1171,Tea
+1172,Coffee
+1173,Tea
+1174,Vada Pav
+1175,Veg Sandwich
+1175,Cold Drink
+1176,Masala Dosa
+1176,Tea
+1177,Cold Drink
+1178,Veg Thali
+1179,Samosa
+1179,Tea
+1180,Coffee
+1180,Pav Bhaji
+1181,Veg Sandwich
+1181,Cold Drink
+1182,Idli
+1182,Tea
+1182,Masala Dosa
+1183,Vada Pav
+1184,Coffee
+1185,Veg Thali
+1186,Coffee
+1187,Veg Thali
+1187,Cold Drink
+1188,Tea
+1189,Pav Bhaji
+1189,Cold Drink
+1189,Coffee
+1190,Coffee
+1191,Veg Thali
+1192,Vada Pav
+1193,Samosa
+1193,Tea
+1194,Tea
+1195,Idli
+1195,Tea
+1196,Cold Drink
+1197,Cold Drink
+1198,Coffee
+1199,Masala Dosa
+1199,Tea
+1199,Veg Sandwich
+1200,Cold Drink
+1201,Cold Drink
+1202,Idli
+1202,Tea
+1203,Coffee
+1203,Vada Pav
+1204,Masala Dosa
+1204,Tea
+1205,Samosa
+1206,Vada Pav
+1207,Samosa
+1207,Tea
+1208,Cold Drink
+1209,Veg Thali
+1210,Veg Sandwich
+1211,Cold Drink
+1212,Samosa
+1212,Tea
+1212,Idli
+1213,Idli
+1214,Samosa
+1214,Tea
+1214,Veg Thali
+1215,Cold Drink
+1216,Tea
+1217,Coffee
+1218,Coffee
+1218,Veg Thali
+1219,Tea
+1219,Idli
+1220,Tea
+1220,Pav Bhaji
+1221,Masala Dosa
+1221,Tea
+1222,Veg Thali
+1223,Veg Sandwich
+1223,Cold Drink
+1224,Veg Thali
+1225,Coffee
+1226,Samosa
+1227,Veg Thali
+1228,Coffee
+1229,Pav Bhaji
+1229,Cold Drink
+1230,Samosa
+1230,Tea
+1231,Tea
+1232,Cold Drink
+1233,Veg Sandwich
+1233,Cold Drink
+1233,Veg Thali
+1234,Cold Drink
+1235,Cold Drink
+1236,Veg Sandwich
+1236,Cold Drink
+1237,Masala Dosa
+1238,Coffee
+1238,Pav Bhaji
+1239,Masala Dosa
+1239,Tea
+1240,Cold Drink
+1241,Samosa
+1241,Tea
+1242,Coffee
+1243,Vada Pav
+1244,Cold Drink
+1245,Vada Pav
+1246,Samosa
+1246,Tea
+1247,Vada Pav
+1248,Masala Dosa
+1249,Masala Dosa
+1249,Tea
+1250,Veg Sandwich
+1251,Veg Sandwich
+1251,Cold Drink
+1251,Vada Pav
+1252,Idli
+1253,Idli
+1254,Veg Thali
+1255,Tea
+1256,Coffee
+1257,Coffee
+1258,Cold Drink
+1259,Tea
+1260,Veg Sandwich
+1260,Cold Drink
+1261,Pav Bhaji
+1262,Veg Thali
+1263,Samosa
+1263,Tea
+1264,Veg Thali
+1265,Veg Thali
+1266,Veg Thali
+1266,Cold Drink
+1267,Masala Dosa
+1268,Idli
+1268,Tea
+1269,Vada Pav
+1270,Veg Thali
+1271,Tea
+1272,Veg Sandwich
+1272,Cold Drink
+1273,Masala Dosa
+1273,Tea
+1274,Cold Drink
+1275,Coffee
+1276,Pav Bhaji
+1276,Cold Drink
+1277,Cold Drink
+1277,Samosa
+1278,Coffee
+1278,Veg Thali
+1279,Cold Drink
+1280,Vada Pav
+1281,Samosa
+1281,Tea
+1282,Veg Thali
+1283,Pav Bhaji
+1283,Cold Drink
+1284,Coffee
+1285,Coffee
+1285,Idli
+1286,Idli
+1286,Masala Dosa
+1287,Cold Drink
+1287,Tea
+1288,Cold Drink
+1289,Veg Sandwich
+1289,Masala Dosa
+1290,Pav Bhaji
+1290,Cold Drink
+1291,Coffee
+1291,Vada Pav
+1292,Samosa
+1292,Tea
+1293,Vada Pav
+1293,Cold Drink
+1293,Coffee
+1294,Veg Thali
+1295,Vada Pav
+1295,Cold Drink
+1295,Samosa
+1296,Vada Pav
+1297,Tea
+1298,Coffee
+1299,Veg Sandwich
+1299,Cold Drink
+1300,Veg Sandwich
+1301,Cold Drink
+1301,Veg Sandwich
+1302,Masala Dosa
+1302,Tea
+1303,Veg Thali
+1303,Tea
+1304,Cold Drink
+1305,Vada Pav
+1305,Cold Drink
+1305,Veg Thali
+1306,Coffee
+1307,Idli
+1307,Tea
+1308,Vada Pav
+1308,Cold Drink
+1309,Pav Bhaji
+1309,Tea
+1310,Veg Sandwich
+1310,Cold Drink
+1311,Vada Pav
+1311,Cold Drink
+1312,Vada Pav
+1312,Cold Drink
+1313,Veg Sandwich
+1313,Cold Drink
+1314,Cold Drink
+1315,Idli
+1316,Veg Sandwich
+1316,Cold Drink
+1316,Coffee
+1317,Tea
+1317,Veg Thali
+1318,Coffee
+1319,Masala Dosa
+1320,Veg Thali
+1321,Samosa
+1321,Tea
+1322,Idli
+1323,Samosa
+1323,Tea
+1324,Veg Thali
+1324,Samosa
+1325,Coffee
+1325,Masala Dosa
+1326,Veg Thali
+1327,Masala Dosa
+1327,Tea
+1328,Vada Pav
+1328,Cold Drink
+1329,Masala Dosa
+1330,Masala Dosa
+1330,Tea
+1331,Samosa
+1332,Vada Pav
+1333,Samosa
+1333,Veg Thali
+1334,Masala Dosa
+1334,Tea
+1335,Veg Thali
+1336,Samosa
+1337,Veg Thali
+1338,Pav Bhaji
+1338,Cold Drink
+1338,Veg Sandwich
+1339,Veg Sandwich
+1340,Vada Pav
+1340,Cold Drink
+1341,Idli
+1341,Tea
+1342,Pav Bhaji
+1342,Tea
+1343,Tea
+1344,Veg Thali
+1345,Coffee
+1346,Vada Pav
+1346,Cold Drink
+1347,Veg Sandwich
+1348,Samosa
+1348,Tea
+1349,Idli
+1349,Tea
+1350,Pav Bhaji
+1351,Vada Pav
+1351,Cold Drink
+1352,Tea
+1353,Samosa
+1353,Tea
+1354,Cold Drink
+1355,Idli
+1356,Pav Bhaji
+1356,Cold Drink
+1357,Idli
+1357,Tea
+1358,Masala Dosa
+1358,Tea
+1359,Tea
+1359,Cold Drink
+1360,Idli
+1360,Tea
+1361,Vada Pav
+1361,Cold Drink
+1362,Coffee
+1363,Samosa
+1364,Pav Bhaji
+1364,Masala Dosa
+1365,Cold Drink
+1366,Tea
+1367,Samosa
+1367,Tea
+1368,Coffee
+1369,Coffee
+1370,Coffee
+1371,Veg Sandwich
+1371,Cold Drink
+1372,Cold Drink
+1373,Samosa
+1374,Veg Thali
+1375,Cold Drink
+1376,Coffee
+1377,Pav Bhaji
+1378,Coffee
+1379,Idli
+1379,Tea
+1380,Pav Bhaji
+1380,Masala Dosa
+1381,Veg Sandwich
+1381,Cold Drink
+1382,Veg Thali
+1383,Pav Bhaji
+1383,Vada Pav
+1384,Coffee
+1384,Tea
+1385,Samosa
+1385,Tea
+1386,Tea
+1387,Masala Dosa
+1387,Tea
+1388,Veg Sandwich
+1389,Idli
+1389,Tea
+1390,Coffee
+1391,Cold Drink
+1391,Coffee
+1392,Veg Sandwich
+1392,Cold Drink
+1392,Tea
+1393,Idli
+1393,Tea
+1394,Vada Pav
+1395,Samosa
+1395,Tea
+1396,Pav Bhaji
+1396,Cold Drink
+1397,Idli
+1398,Veg Thali
+1399,Pav Bhaji
+1400,Vada Pav
+1400,Cold Drink
+1401,Cold Drink
+1402,Cold Drink
+1403,Cold Drink
+1404,Masala Dosa
+1404,Tea
+1405,Pav Bhaji
+1405,Vada Pav
+1406,Cold Drink
+1407,Pav Bhaji
+1408,Cold Drink
+1409,Idli
+1410,Cold Drink
+1411,Tea
+1412,Cold Drink
+1412,Tea
+1413,Vada Pav
+1413,Cold Drink
+1413,Veg Thali
+1414,Vada Pav
+1415,Vada Pav
+1416,Veg Thali
+1417,Cold Drink
+1417,Coffee
+1418,Samosa
+1418,Tea
+1419,Cold Drink
+1420,Cold Drink
+1421,Cold Drink
+1422,Veg Thali
+1423,Veg Sandwich
+1424,Pav Bhaji
+1424,Veg Thali
+1425,Masala Dosa
+1425,Tea
+1426,Coffee
+1427,Pav Bhaji
+1428,Idli
+1428,Tea
+1429,Masala Dosa
+1429,Tea
+1429,Samosa
+1430,Vada Pav
+1431,Samosa
+1431,Tea
+1432,Cold Drink
+1433,Vada Pav
+1433,Cold Drink
+1434,Pav Bhaji
+1434,Cold Drink
+1435,Veg Sandwich
+1435,Cold Drink
+1436,Veg Sandwich
+1437,Veg Thali
+1438,Idli
+1438,Tea
+1438,Pav Bhaji
+1439,Cold Drink
+1440,Vada Pav
+1440,Cold Drink
+1441,Vada Pav
+1441,Cold Drink
+1442,Samosa
+1442,Tea
+1443,Pav Bhaji
+1443,Cold Drink
+1444,Idli
+1444,Tea
+1445,Veg Sandwich
+1445,Cold Drink
+1446,Masala Dosa
+1447,Idli
+1447,Tea
+1447,Pav Bhaji
+1448,Tea
+1449,Samosa
+1449,Tea
+1450,Veg Thali
+1450,Cold Drink
+1451,Pav Bhaji
+1451,Cold Drink
+1452,Coffee
+1452,Masala Dosa
+1453,Pav Bhaji
+1453,Cold Drink
+1454,Vada Pav
+1455,Cold Drink
+1455,Samosa
+1456,Masala Dosa
+1457,Tea
+1458,Masala Dosa
+1458,Tea
+1459,Tea
+1460,Samosa
+1460,Coffee
+1461,Pav Bhaji
+1461,Cold Drink
+1461,Vada Pav
+1462,Veg Thali
+1463,Idli
+1464,Tea
+1465,Tea
+1466,Veg Sandwich
+1466,Cold Drink
+1467,Idli
+1467,Tea
+1468,Veg Sandwich
+1468,Cold Drink
+1469,Samosa
+1469,Tea
+1470,Idli
+1470,Tea
+1471,Coffee
+1472,Veg Sandwich
+1472,Cold Drink
+1473,Vada Pav
+1474,Cold Drink
+1475,Vada Pav
+1475,Cold Drink
+1476,Pav Bhaji
+1476,Cold Drink
+1477,Vada Pav
+1477,Cold Drink
+1477,Idli
+1478,Tea
+1479,Samosa
+1479,Tea
+1480,Pav Bhaji
+1480,Cold Drink
+1481,Cold Drink
+1481,Vada Pav
+1482,Masala Dosa
+1482,Tea
+1483,Samosa
+1483,Tea
+1484,Veg Sandwich
+1485,Cold Drink
+1486,Cold Drink
+1486,Samosa
+1487,Veg Thali
+1487,Idli
+1488,Coffee
+1489,Pav Bhaji
+1489,Cold Drink
+1490,Samosa
+1490,Tea
+1490,Masala Dosa
+1491,Pav Bhaji
+1491,Cold Drink
+1492,Veg Thali
+1493,Vada Pav
+1493,Cold Drink
+1494,Pav Bhaji
+1495,Masala Dosa
+1496,Tea
+1497,Pav Bhaji
+1497,Cold Drink
+1498,Coffee
+1499,Pav Bhaji
+1500,Samosa
+1500,Tea
+1501,Veg Thali
+1502,Vada Pav
+1502,Samosa
+1503,Samosa
+1504,Veg Sandwich
+1505,Idli
+1505,Tea
+1505,Veg Thali
+1506,Cold Drink
+1507,Cold Drink
+1508,Vada Pav
+1508,Cold Drink
+1509,Idli
+1510,Coffee
+1511,Samosa
+1511,Tea
+1512,Masala Dosa
+1513,Idli
+1514,Vada Pav
+1514,Cold Drink
+1514,Idli
+1515,Vada Pav
+1516,Pav Bhaji
+1516,Cold Drink
+1517,Masala Dosa
+1517,Tea
+1518,Veg Sandwich
+1519,Pav Bhaji
+1519,Cold Drink
+1520,Veg Sandwich
+1520,Cold Drink
+1521,Samosa
+1522,Veg Thali
+1523,Veg Thali
+1524,Idli
+1524,Tea
+1525,Pav Bhaji
+1526,Samosa
+1526,Tea
+1527,Masala Dosa
+1527,Tea
+1528,Pav Bhaji
+1528,Cold Drink
+1529,Idli
+1529,Tea
+1530,Coffee
+1530,Samosa
+1531,Cold Drink
+1532,Masala Dosa
+1532,Tea
+1532,Idli
+1533,Samosa
+1533,Tea
+1534,Pav Bhaji
+1535,Coffee
+1536,Idli
+1536,Tea
+1537,Veg Sandwich
+1537,Cold Drink
+1537,Idli
+1538,Vada Pav
+1538,Cold Drink
+1539,Idli
+1539,Tea
+1539,Vada Pav
+1540,Cold Drink
+1541,Idli
+1542,Veg Thali
+1543,Masala Dosa
+1543,Tea
+1544,Coffee
+1544,Tea
+1545,Idli
+1545,Tea
+1546,Vada Pav
+1547,Vada Pav
+1548,Coffee
+1549,Samosa
+1549,Tea
+1550,Samosa
+1550,Tea
+1551,Cold Drink
+1552,Vada Pav
+1552,Idli
+1553,Idli
+1553,Tea
+1554,Cold Drink
+1555,Samosa
+1555,Tea
+1555,Idli
+1556,Cold Drink
+1557,Tea
+1558,Pav Bhaji
+1559,Tea
+1560,Coffee
+1561,Tea
+1562,Idli
+1562,Tea
+1562,Coffee
+1563,Masala Dosa
+1563,Idli
+1564,Cold Drink
+1565,Masala Dosa
+1565,Tea
+1566,Veg Sandwich
+1566,Cold Drink
+1567,Tea
+1568,Pav Bhaji
+1568,Cold Drink
+1568,Tea
+1569,Idli
+1569,Tea
+1570,Tea
+1571,Idli
+1571,Tea
+1572,Masala Dosa
+1572,Tea
+1573,Coffee
+1573,Cold Drink
+1574,Cold Drink
+1575,Veg Thali
+1576,Tea
+1577,Samosa
+1578,Vada Pav
+1578,Cold Drink
+1579,Pav Bhaji
+1580,Veg Sandwich
+1580,Cold Drink
+1581,Veg Sandwich
+1582,Coffee
+1583,Tea
+1583,Veg Thali
+1584,Masala Dosa
+1584,Tea
+1585,Tea
+1586,Tea
+1587,Cold Drink
+1588,Idli
+1588,Tea
+1589,Vada Pav
+1590,Masala Dosa
+1591,Cold Drink
+1592,Veg Sandwich
+1593,Masala Dosa
+1593,Tea
+1594,Pav Bhaji
+1594,Cold Drink
+1594,Vada Pav
+1595,Samosa
+1596,Pav Bhaji
+1597,Masala Dosa
+1597,Tea
+1598,Samosa
+1599,Cold Drink
+1600,Pav Bhaji
+1600,Cold Drink
+1601,Masala Dosa
+1601,Tea
+1602,Idli
+1602,Tea
+1602,Cold Drink
+1603,Samosa
+1603,Tea
+1604,Pav Bhaji
+1605,Veg Thali
+1606,Idli
+1606,Tea
+1607,Tea
+1608,Masala Dosa
+1609,Coffee
+1610,Idli
+1611,Veg Thali
+1611,Masala Dosa
+1612,Masala Dosa
+1613,Pav Bhaji
+1613,Cold Drink
+1613,Veg Thali
+1614,Masala Dosa
+1614,Tea
+1615,Pav Bhaji
+1615,Cold Drink
+1616,Coffee
+1617,Masala Dosa
+1618,Masala Dosa
+1618,Tea
+1619,Veg Thali
+1620,Masala Dosa
+1621,Pav Bhaji
+1621,Cold Drink
+1621,Samosa
+1622,Coffee
+1623,Cold Drink
+1624,Coffee
+1625,Pav Bhaji
+1625,Cold Drink
+1626,Idli
+1627,Cold Drink
+1628,Masala Dosa
+1628,Cold Drink
+1629,Tea
+1630,Cold Drink
+1630,Pav Bhaji
+1631,Tea
+1632,Vada Pav
+1632,Cold Drink
+1633,Coffee
+1634,Veg Sandwich
+1634,Cold Drink
+1635,Idli
+1635,Tea
+1636,Veg Thali
+1637,Masala Dosa
+1637,Tea
+1638,Pav Bhaji
+1638,Cold Drink
+1639,Masala Dosa
+1639,Tea
+1640,Pav Bhaji
+1641,Vada Pav
+1641,Cold Drink
+1642,Masala Dosa
+1643,Masala Dosa
+1643,Tea
+1644,Masala Dosa
+1644,Tea
+1645,Vada Pav
+1645,Cold Drink
+1645,Tea
+1646,Coffee
+1646,Cold Drink
+1647,Cold Drink
+1648,Coffee
+1649,Cold Drink
+1650,Veg Sandwich
+1650,Cold Drink
+1651,Veg Sandwich
+1651,Cold Drink
+1652,Samosa
+1652,Tea
+1653,Pav Bhaji
+1653,Cold Drink
+1654,Veg Thali
+1655,Tea
+1655,Idli
+1656,Masala Dosa
+1656,Tea
+1657,Cold Drink
+1657,Veg Thali
+1658,Pav Bhaji
+1658,Cold Drink
+1659,Coffee
+1660,Tea
+1661,Coffee
+1662,Vada Pav
+1663,Pav Bhaji
+1663,Cold Drink
+1664,Tea
+1665,Samosa
+1665,Tea
+1666,Pav Bhaji
+1666,Cold Drink
+1667,Veg Thali
+1668,Tea
+1669,Coffee
+1670,Pav Bhaji
+1671,Coffee
+1672,Vada Pav
+1672,Masala Dosa
+1673,Veg Thali
+1674,Samosa
+1674,Tea
+1675,Samosa
+1675,Tea
+1676,Cold Drink
+1676,Tea
+1677,Cold Drink
+1678,Samosa
+1678,Tea
+1679,Samosa
+1679,Tea
+1680,Veg Thali
+1681,Veg Thali
+1682,Vada Pav
+1682,Cold Drink
+1683,Veg Sandwich
+1683,Cold Drink
+1684,Pav Bhaji
+1685,Cold Drink
+1686,Cold Drink
+1687,Cold Drink
+1687,Idli
+1688,Coffee
+1689,Idli
+1689,Tea
+1690,Cold Drink
+1691,Pav Bhaji
+1691,Cold Drink
+1692,Samosa
+1692,Tea
+1693,Veg Thali
+1693,Veg Sandwich
+1694,Veg Sandwich
+1694,Cold Drink
+1695,Vada Pav
+1695,Cold Drink
+1696,Veg Sandwich
+1697,Coffee
+1698,Tea
+1699,Idli
+1699,Tea
+1699,Pav Bhaji
+1700,Masala Dosa
+1700,Tea
+1701,Tea
+1702,Tea
+1703,Masala Dosa
+1703,Tea
+1704,Masala Dosa
+1704,Tea
+1705,Idli
+1706,Veg Thali
+1707,Cold Drink
+1708,Tea
+1708,Samosa
+1709,Vada Pav
+1709,Cold Drink
+1709,Coffee
+1710,Idli
+1710,Tea
+1711,Coffee
+1711,Veg Sandwich
+1712,Vada Pav
+1712,Cold Drink
+1713,Vada Pav
+1714,Vada Pav
+1715,Masala Dosa
+1715,Tea
+1716,Pav Bhaji
+1716,Cold Drink
+1717,Coffee
+1718,Coffee
+1719,Veg Sandwich
+1719,Cold Drink
+1720,Vada Pav
+1720,Cold Drink
+1721,Samosa
+1721,Tea
+1721,Veg Thali
+1722,Tea
+1723,Samosa
+1724,Tea
+1725,Coffee
+1726,Veg Sandwich
+1726,Cold Drink
+1727,Samosa
+1727,Tea
+1728,Coffee
+1729,Veg Thali
+1730,Vada Pav
+1730,Cold Drink
+1731,Cold Drink
+1731,Coffee
+1732,Veg Thali
+1732,Veg Sandwich
+1733,Masala Dosa
+1734,Tea
+1735,Vada Pav
+1736,Tea
+1737,Veg Sandwich
+1738,Coffee
+1739,Vada Pav
+1739,Cold Drink
+1740,Coffee
+1740,Idli
+1741,Pav Bhaji
+1742,Veg Sandwich
+1742,Cold Drink
+1743,Cold Drink
+1744,Vada Pav
+1744,Cold Drink
+1745,Cold Drink
+1746,Pav Bhaji
+1747,Masala Dosa
+1747,Tea
+1748,Vada Pav
+1748,Cold Drink
+1748,Coffee
+1749,Cold Drink
+1750,Coffee
+1750,Vada Pav
+1751,Cold Drink
+1752,Coffee
+1753,Idli
+1754,Samosa
+1754,Tea
+1755,Veg Thali
+1756,Coffee
+1756,Cold Drink
+1757,Tea
+1758,Veg Sandwich
+1758,Cold Drink
+1759,Idli
+1759,Tea
+1760,Cold Drink
+1761,Masala Dosa
+1761,Tea
+1762,Cold Drink
+1762,Veg Thali
+1763,Pav Bhaji
+1763,Cold Drink
+1764,Samosa
+1764,Tea
+1764,Vada Pav
+1765,Vada Pav
+1766,Coffee
+1766,Veg Sandwich
+1767,Idli
+1768,Coffee
+1769,Idli
+1769,Tea
+1770,Idli
+1770,Masala Dosa
+1771,Coffee
+1772,Samosa
+1772,Tea
+1773,Pav Bhaji
+1774,Tea
+1775,Veg Sandwich
+1776,Veg Sandwich
+1777,Samosa
+1778,Samosa
+1778,Tea
+1779,Tea
+1779,Cold Drink
+1780,Masala Dosa
+1780,Tea
+1781,Cold Drink
+1782,Tea
+1783,Idli
+1783,Tea
+1784,Tea
+1785,Vada Pav
+1786,Cold Drink
+1787,Vada Pav
+1787,Cold Drink
+1788,Pav Bhaji
+1789,Pav Bhaji
+1790,Tea
+1791,Pav Bhaji
+1792,Masala Dosa
+1792,Tea
+1793,Veg Thali
+1794,Coffee
+1795,Tea
+1795,Veg Sandwich
+1796,Veg Thali
+1797,Cold Drink
+1797,Veg Thali
+1798,Veg Sandwich
+1798,Cold Drink
+1799,Pav Bhaji
+1799,Cold Drink
+1800,Veg Thali
+1801,Cold Drink
+1802,Idli
+1802,Tea
+1802,Pav Bhaji
+1803,Vada Pav
+1803,Cold Drink
+1804,Idli
+1804,Tea
+1805,Veg Thali
+1805,Tea
+1806,Idli
+1807,Pav Bhaji
+1807,Idli
+1808,Samosa
+1808,Tea
+1809,Idli
+1809,Tea
+1810,Pav Bhaji
+1810,Cold Drink
+1811,Tea
+1812,Samosa
+1813,Idli
+1814,Tea
+1814,Cold Drink
+1815,Veg Sandwich
+1815,Cold Drink
+1816,Pav Bhaji
+1816,Cold Drink
+1817,Veg Sandwich
+1818,Coffee
+1819,Idli
+1819,Tea
+1820,Veg Thali
+1821,Vada Pav
+1821,Cold Drink
+1821,Idli
+1822,Veg Sandwich
+1822,Cold Drink
+1823,Tea
+1824,Vada Pav
+1825,Masala Dosa
+1825,Tea
+1826,Masala Dosa
+1826,Tea
+1827,Cold Drink
+1828,Samosa
+1828,Tea
+1829,Idli
+1829,Tea
+1830,Tea
+1831,Masala Dosa
+1831,Tea
+1832,Veg Sandwich
+1832,Pav Bhaji
+1833,Idli
+1834,Idli
+1834,Tea
+1834,Masala Dosa
+1835,Masala Dosa
+1835,Samosa
+1836,Samosa
+1837,Idli
+1838,Veg Thali
+1838,Samosa
+1839,Veg Thali
+1840,Veg Sandwich
+1840,Cold Drink
+1841,Masala Dosa
+1841,Tea
+1842,Veg Thali
+1843,Idli
+1843,Veg Sandwich
+1844,Tea
+1845,Cold Drink
+1845,Vada Pav
+1846,Veg Sandwich
+1846,Cold Drink
+1847,Idli
+1847,Tea
+1848,Veg Sandwich
+1848,Cold Drink
+1849,Pav Bhaji
+1849,Tea
+1850,Masala Dosa
+1851,Samosa
+1852,Idli
+1852,Tea
+1852,Cold Drink
+1853,Coffee
+1854,Veg Sandwich
+1854,Cold Drink
+1855,Veg Thali
+1856,Tea
+1857,Veg Sandwich
+1857,Cold Drink
+1858,Veg Thali
+1859,Cold Drink
+1860,Veg Sandwich
+1860,Cold Drink
+1861,Veg Sandwich
+1862,Masala Dosa
+1862,Tea
+1863,Vada Pav
+1863,Cold Drink
+1864,Idli
+1865,Tea
+1866,Vada Pav
+1866,Cold Drink
+1867,Idli
+1867,Tea
+1868,Masala Dosa
+1869,Masala Dosa
+1870,Cold Drink
+1871,Tea
+1872,Vada Pav
+1873,Vada Pav
+1873,Cold Drink
+1874,Samosa
+1874,Tea
+1875,Vada Pav
+1876,Tea
+1877,Veg Thali
+1878,Veg Thali
+1878,Masala Dosa
+1879,Samosa
+1879,Tea
+1879,Idli
+1880,Idli
+1880,Tea
+1881,Masala Dosa
+1881,Tea
+1882,Veg Sandwich
+1882,Cold Drink
+1883,Coffee
+1883,Idli
+1884,Coffee
+1885,Pav Bhaji
+1885,Cold Drink
+1886,Coffee
+1886,Masala Dosa
+1887,Masala Dosa
+1887,Tea
+1888,Veg Sandwich
+1889,Masala Dosa
+1890,Masala Dosa
+1890,Tea
+1891,Coffee
+1892,Coffee
+1893,Coffee
+1894,Tea
+1895,Veg Sandwich
+1895,Cold Drink
+1896,Pav Bhaji
+1896,Cold Drink
+1897,Idli
+1897,Tea
+1898,Veg Sandwich
+1898,Cold Drink
+1899,Veg Sandwich
+1900,Cold Drink
+1901,Veg Sandwich
+1901,Cold Drink
+1902,Veg Sandwich
+1902,Cold Drink
+1903,Veg Thali
+1904,Veg Thali
+1905,Tea
+1906,Veg Sandwich
+1907,Coffee
+1908,Coffee
+1908,Cold Drink
+1909,Samosa
+1909,Tea
+1910,Cold Drink
+1910,Tea
+1911,Pav Bhaji
+1911,Cold Drink
+1911,Idli
+1912,Masala Dosa
+1912,Pav Bhaji
+1913,Vada Pav
+1913,Samosa
+1914,Coffee
+1915,Samosa
+1915,Tea
+1916,Cold Drink
+1917,Vada Pav
+1917,Cold Drink
+1918,Vada Pav
+1919,Vada Pav
+1919,Cold Drink
+1919,Veg Sandwich
+1920,Tea
+1921,Coffee
+1922,Vada Pav
+1922,Cold Drink
+1922,Masala Dosa
+1923,Veg Sandwich
+1923,Cold Drink
+1924,Coffee
+1925,Coffee
+1926,Veg Sandwich
+1926,Cold Drink
+1927,Masala Dosa
+1927,Tea
+1928,Tea
+1929,Idli
+1930,Cold Drink
+1931,Cold Drink
+1932,Masala Dosa
+1932,Tea
+1932,Pav Bhaji
+1933,Veg Sandwich
+1933,Cold Drink
+1933,Idli
+1934,Idli
+1934,Tea
+1935,Veg Sandwich
+1935,Cold Drink
+1936,Vada Pav
+1937,Idli
+1937,Tea
+1938,Coffee
+1939,Pav Bhaji
+1939,Veg Thali
+1940,Pav Bhaji
+1940,Cold Drink
+1941,Samosa
+1942,Samosa
+1942,Tea
+1942,Veg Thali
+1943,Pav Bhaji
+1943,Cold Drink
+1944,Masala Dosa
+1944,Tea
+1944,Cold Drink
+1945,Samosa
+1945,Tea
+1946,Veg Thali
+1947,Pav Bhaji
+1947,Cold Drink
+1948,Idli
+1948,Tea
+1949,Coffee
+1950,Coffee
+1951,Vada Pav
+1952,Veg Thali
+1953,Veg Sandwich
+1953,Cold Drink
+1954,Samosa
+1955,Idli
+1956,Pav Bhaji
+1956,Cold Drink
+1957,Masala Dosa
+1957,Tea
+1958,Veg Thali
+1959,Samosa
+1959,Tea
+1960,Pav Bhaji
+1961,Pav Bhaji
+1961,Cold Drink
+1962,Veg Sandwich
+1962,Pav Bhaji
+1963,Coffee
+1964,Veg Sandwich
+1964,Cold Drink
+1965,Coffee
+1966,Cold Drink
+1967,Coffee
+1968,Tea
+1969,Veg Sandwich
+1970,Pav Bhaji
+1970,Idli
+1971,Pav Bhaji
+1972,Pav Bhaji
+1972,Cold Drink
+1972,Veg Sandwich
+1973,Pav Bhaji
+1974,Vada Pav
+1974,Cold Drink
+1975,Idli
+1975,Tea
+1976,Veg Thali
+1977,Pav Bhaji
+1978,Samosa
+1978,Tea
+1979,Coffee
+1980,Veg Thali
+1981,Veg Thali
+1981,Pav Bhaji
+1982,Veg Sandwich
+1983,Coffee
+1984,Coffee
+1985,Vada Pav
+1985,Cold Drink
+1986,Cold Drink
+1987,Pav Bhaji
+1987,Cold Drink
+1988,Cold Drink
+1989,Vada Pav
+1989,Cold Drink
+1989,Tea
+1990,Cold Drink
+1990,Veg Thali
+1991,Veg Sandwich
+1992,Samosa
+1992,Tea
+1993,Samosa
+1993,Tea
+1994,Veg Thali
+1995,Masala Dosa
+1995,Tea
+1995,Veg Thali
+1996,Cold Drink
+1997,Coffee
+1998,Veg Thali
+1999,Samosa
+1999,Tea
+2000,Cold Drink
+2001,Pav Bhaji
+2001,Cold Drink
+2002,Veg Thali
+2003,Vada Pav
+2003,Cold Drink
+2004,Pav Bhaji
+2004,Cold Drink
+2004,Veg Sandwich
+2005,Coffee
+2006,Veg Sandwich
+2006,Cold Drink
+2006,Tea
+2007,Tea
+2007,Idli
+2008,Idli
+2009,Coffee
+2010,Veg Thali
+2011,Masala Dosa
+2012,Cold Drink
+2012,Coffee
+2013,Idli
+2013,Tea
+2014,Coffee
+2014,Veg Thali
+2015,Coffee
+2016,Masala Dosa
+2016,Tea
+2017,Veg Thali
+2018,Tea
+2018,Pav Bhaji
+2019,Pav Bhaji
+2019,Cold Drink
+2019,Coffee
+2020,Samosa
+2020,Tea
+2021,Vada Pav
+2021,Cold Drink
+2022,Idli
+2022,Tea
+2022,Samosa
+2023,Pav Bhaji
+2023,Veg Thali
+2024,Cold Drink
+2025,Idli
+2025,Tea
+2026,Cold Drink
+2026,Coffee
+2027,Tea
+2027,Masala Dosa
+2028,Idli
+2028,Tea
+2029,Idli
+2030,Masala Dosa
+2030,Tea
+2031,Idli
+2032,Coffee
+2033,Samosa
+2033,Tea
+2034,Samosa
+2034,Tea
+2035,Idli
+2036,Coffee
+2037,Veg Sandwich
+2037,Cold Drink
+2038,Idli
+2039,Veg Sandwich
+2040,Coffee
+2041,Tea
+2042,Coffee
+2042,Pav Bhaji
+2043,Veg Thali
+2044,Veg Thali
+2045,Tea
+2046,Pav Bhaji
+2047,Idli
+2048,Vada Pav
+2048,Cold Drink
+2049,Veg Sandwich
+2049,Cold Drink
+2050,Pav Bhaji
+2050,Cold Drink
+2051,Veg Sandwich
+2051,Cold Drink
+2052,Tea
+2053,Tea
+2054,Tea
+2055,Vada Pav
+2055,Cold Drink
+2055,Tea
+2056,Pav Bhaji
+2056,Vada Pav
+2057,Vada Pav
+2057,Cold Drink
+2058,Vada Pav
+2059,Tea
+2060,Vada Pav
+2060,Cold Drink
+2061,Tea
+2062,Idli
+2063,Coffee
+2064,Cold Drink
+2065,Tea
+2066,Vada Pav
+2066,Cold Drink
+2066,Coffee
+2067,Masala Dosa
+2068,Cold Drink
+2069,Veg Sandwich
+2070,Pav Bhaji
+2070,Cold Drink
+2071,Samosa
+2071,Tea
+2072,Veg Thali
+2073,Samosa
+2073,Tea
+2074,Masala Dosa
+2074,Tea
+2075,Samosa
+2075,Tea
+2076,Idli
+2076,Tea
+2076,Pav Bhaji
+2077,Cold Drink
+2078,Coffee
+2079,Coffee
+2080,Pav Bhaji
+2080,Cold Drink
+2081,Veg Thali
+2082,Veg Sandwich
+2083,Veg Thali
+2084,Idli
+2084,Tea
+2085,Idli
+2085,Tea
+2085,Veg Thali
+2086,Idli
+2086,Tea
+2087,Vada Pav
+2087,Cold Drink
+2088,Veg Thali
+2089,Idli
+2089,Tea
+2090,Veg Sandwich
+2091,Idli
+2092,Pav Bhaji
+2093,Masala Dosa
+2093,Tea
+2094,Veg Sandwich
+2094,Cold Drink
+2094,Vada Pav
+2095,Idli
+2095,Coffee
+2096,Tea
+2097,Masala Dosa
+2098,Vada Pav
+2098,Cold Drink
+2099,Pav Bhaji
+2099,Cold Drink
+2100,Samosa
+2100,Tea
+2101,Coffee
+2102,Cold Drink
+2103,Tea
+2104,Vada Pav
+2104,Cold Drink
+2105,Veg Thali
+2106,Coffee
+2107,Pav Bhaji
+2108,Veg Sandwich
+2108,Cold Drink
+2109,Pav Bhaji
+2110,Veg Thali
+2111,Veg Thali
+2112,Veg Thali
+2113,Tea
+2114,Masala Dosa
+2115,Masala Dosa
+2115,Tea
+2116,Vada Pav
+2116,Cold Drink
+2116,Veg Sandwich
+2117,Samosa
+2117,Tea
+2118,Coffee
+2119,Veg Thali
+2120,Veg Sandwich
+2120,Cold Drink
+2120,Idli
+2121,Masala Dosa
+2122,Samosa
+2122,Tea
+2123,Tea
+2124,Idli
+2124,Samosa
+2125,Vada Pav
+2125,Cold Drink
+2126,Samosa
+2126,Tea
+2127,Veg Thali
+2128,Pav Bhaji
+2128,Cold Drink
+2129,Veg Thali
+2130,Tea
+2131,Veg Sandwich
+2131,Cold Drink
+2132,Vada Pav
+2132,Cold Drink
+2133,Masala Dosa
+2133,Tea
+2133,Coffee
+2134,Samosa
+2134,Tea
+2135,Masala Dosa
+2135,Tea
+2135,Coffee
+2136,Veg Thali
+2136,Samosa
+2137,Samosa
+2137,Tea
+2138,Coffee
+2139,Vada Pav
+2139,Veg Sandwich
+2140,Tea
+2141,Pav Bhaji
+2142,Cold Drink
+2143,Coffee
+2144,Tea
+2145,Samosa
+2145,Tea
+2145,Coffee
+2146,Samosa
+2146,Tea
+2147,Pav Bhaji
+2147,Cold Drink
+2148,Veg Sandwich
+2148,Cold Drink
+2149,Samosa
+2149,Tea
+2150,Pav Bhaji
+2150,Cold Drink
+2151,Veg Thali
+2152,Vada Pav
+2152,Cold Drink
+2153,Masala Dosa
+2153,Tea
+2154,Samosa
+2154,Tea
+2155,Samosa
+2156,Masala Dosa
+2156,Tea
+2156,Idli
+2157,Masala Dosa
+2157,Tea
+2157,Cold Drink
+2158,Veg Thali
+2159,Coffee
+2160,Veg Sandwich
+2160,Cold Drink
+2161,Tea
+2161,Cold Drink
+2162,Coffee
+2163,Cold Drink
+2163,Idli
+2164,Masala Dosa
+2164,Vada Pav
+2165,Coffee
+2166,Coffee
+2167,Idli
+2167,Tea
+2168,Vada Pav
+2168,Cold Drink
+2169,Veg Thali
+2170,Samosa
+2170,Tea
+2170,Idli
+2171,Samosa
+2171,Coffee
+2172,Idli
+2173,Masala Dosa
+2173,Tea
+2174,Tea
+2175,Idli
+2175,Tea
+2176,Masala Dosa
+2177,Pav Bhaji
+2177,Cold Drink
+2178,Tea
+2178,Pav Bhaji
+2179,Cold Drink
+2179,Masala Dosa
+2180,Idli
+2180,Tea
+2181,Tea
+2182,Veg Sandwich
+2183,Vada Pav
+2184,Idli
+2185,Coffee
+2186,Masala Dosa
+2186,Tea
+2187,Coffee
+2188,Vada Pav
+2189,Coffee
+2190,Samosa
+2190,Tea
+2191,Pav Bhaji
+2191,Cold Drink
+2192,Masala Dosa
+2192,Tea
+2193,Samosa
+2193,Tea
+2194,Cold Drink
+2195,Coffee
+2196,Masala Dosa
+2196,Tea
+2196,Vada Pav
+2197,Coffee
+2198,Vada Pav
+2198,Pav Bhaji
+2199,Veg Thali
+2200,Veg Thali
+2201,Coffee
+2201,Veg Sandwich
+2202,Cold Drink
+2202,Veg Sandwich
+2203,Coffee
+2204,Samosa
+2205,Idli
+2205,Tea
+2206,Pav Bhaji
+2206,Cold Drink
+2206,Masala Dosa
+2207,Samosa
+2207,Tea
+2208,Masala Dosa
+2208,Tea
+2209,Coffee
+2210,Veg Sandwich
+2210,Idli
+2211,Coffee
+2211,Pav Bhaji
+2212,Vada Pav
+2212,Cold Drink
+2212,Pav Bhaji
+2213,Veg Thali
+2214,Vada Pav
+2214,Cold Drink
+2215,Veg Thali
+2215,Coffee
+2216,Coffee
+2217,Pav Bhaji
+2217,Cold Drink
+2218,Vada Pav
+2219,Idli
+2220,Cold Drink
+2221,Samosa
+2221,Tea
+2222,Masala Dosa
+2222,Tea
+2223,Veg Thali
+2223,Tea
+2224,Masala Dosa
+2224,Tea
+2225,Masala Dosa
+2226,Vada Pav
+2227,Tea
+2228,Veg Sandwich
+2229,Cold Drink
+2230,Tea
+2231,Samosa
+2231,Tea
+2232,Cold Drink
+2233,Tea
+2234,Vada Pav
+2234,Cold Drink
+2235,Samosa
+2235,Tea
+2236,Vada Pav
+2237,Idli
+2237,Tea
+2238,Vada Pav
+2239,Pav Bhaji
+2240,Veg Sandwich
+2240,Pav Bhaji
+2241,Cold Drink
+2241,Tea
+2242,Veg Thali
+2243,Idli
+2243,Tea
+2244,Samosa
+2244,Tea
+2245,Veg Sandwich
+2245,Cold Drink
+2246,Pav Bhaji
+2247,Coffee
+2248,Pav Bhaji
+2248,Cold Drink
+2249,Samosa
+2249,Tea
+2250,Vada Pav
+2251,Samosa
+2251,Tea
+2252,Idli
+2253,Masala Dosa
+2253,Tea
+2254,Cold Drink
+2255,Veg Thali
+2255,Pav Bhaji
+2256,Pav Bhaji
+2256,Cold Drink
+2257,Samosa
+2257,Tea
+2258,Cold Drink
+2259,Coffee
+2260,Samosa
+2260,Tea
+2261,Samosa
+2261,Tea
+2262,Veg Thali
+2263,Samosa
+2263,Tea
+2264,Vada Pav
+2264,Cold Drink
+2265,Cold Drink
+2266,Veg Sandwich
+2266,Cold Drink
+2267,Cold Drink
+2268,Coffee
+2269,Coffee
+2270,Veg Sandwich
+2270,Cold Drink
+2270,Masala Dosa
+2271,Cold Drink
+2272,Tea
+2273,Pav Bhaji
+2273,Cold Drink
+2274,Cold Drink
+2275,Coffee
+2276,Idli
+2276,Tea
+2277,Vada Pav
+2278,Pav Bhaji
+2279,Veg Sandwich
+2279,Cold Drink
+2280,Vada Pav
+2280,Cold Drink
+2281,Veg Thali
+2281,Vada Pav
+2282,Vada Pav
+2282,Cold Drink
+2282,Pav Bhaji
+2283,Idli
+2283,Tea
+2284,Vada Pav
+2284,Cold Drink
+2285,Pav Bhaji
+2285,Coffee
+2286,Cold Drink
+2287,Cold Drink
+2288,Veg Sandwich
+2288,Cold Drink
+2289,Vada Pav
+2290,Vada Pav
+2290,Cold Drink
+2291,Cold Drink
+2292,Veg Thali
+2293,Veg Thali
+2294,Idli
+2295,Coffee
+2296,Samosa
+2297,Vada Pav
+2297,Veg Sandwich
+2298,Tea
+2299,Masala Dosa
+2299,Tea
+2299,Veg Sandwich
+2300,Idli
+2301,Masala Dosa
+2302,Masala Dosa
+2302,Tea
+2303,Coffee
+2304,Samosa
+2305,Coffee
+2306,Idli
+2306,Tea
+2306,Pav Bhaji
+2307,Tea
+2308,Pav Bhaji
+2308,Cold Drink
+2309,Pav Bhaji
+2309,Cold Drink
+2310,Cold Drink
+2310,Coffee
+2311,Tea
+2312,Veg Thali
+2312,Tea
+2313,Tea
+2313,Idli
+2314,Idli
+2314,Tea
+2315,Coffee
+2316,Cold Drink
+2317,Samosa
+2318,Tea
+2319,Veg Thali
+2320,Cold Drink
+2321,Idli
+2321,Vada Pav
+2322,Tea
+2323,Coffee
+2323,Veg Thali
+2324,Idli
+2324,Tea
+2325,Coffee
+2326,Veg Sandwich
+2326,Cold Drink
+2327,Coffee
+2327,Veg Thali
+2328,Tea
+2328,Masala Dosa
+2329,Veg Sandwich
+2329,Cold Drink
+2330,Samosa
+2330,Tea
+2331,Coffee
+2332,Veg Thali
+2333,Coffee
+2334,Samosa
+2334,Tea
+2335,Veg Sandwich
+2336,Vada Pav
+2336,Cold Drink
+2337,Vada Pav
+2337,Cold Drink
+2337,Pav Bhaji
+2338,Tea
+2339,Pav Bhaji
+2339,Cold Drink
+2340,Samosa
+2340,Tea
+2341,Vada Pav
+2342,Vada Pav
+2342,Cold Drink
+2343,Veg Thali
+2344,Pav Bhaji
+2344,Cold Drink
+2345,Vada Pav
+2345,Cold Drink
+2346,Pav Bhaji
+2347,Vada Pav
+2347,Cold Drink
+2347,Masala Dosa
+2348,Masala Dosa
+2349,Cold Drink
+2350,Cold Drink
+2351,Samosa
+2351,Tea
+2352,Samosa
+2353,Coffee
+2354,Pav Bhaji
+2354,Cold Drink
+2355,Idli
+2355,Tea
+2356,Vada Pav
+2356,Samosa
+2357,Masala Dosa
+2357,Tea
+2358,Masala Dosa
+2358,Tea
+2359,Samosa
+2359,Tea
+2360,Samosa
+2360,Tea
+2361,Tea
+2361,Samosa
+2362,Veg Sandwich
+2363,Veg Sandwich
+2363,Cold Drink
+2364,Veg Sandwich
+2364,Cold Drink
+2365,Samosa
+2366,Masala Dosa
+2366,Tea
+2367,Pav Bhaji
+2367,Cold Drink
+2367,Veg Thali
+2368,Idli
+2368,Tea
+2368,Cold Drink
+2369,Idli
+2369,Tea
+2370,Samosa
+2371,Cold Drink
+2372,Masala Dosa
+2372,Cold Drink
+2373,Veg Sandwich
+2373,Masala Dosa
+2374,Cold Drink
+2375,Coffee
+2376,Idli
+2376,Tea
+2377,Samosa
+2377,Tea
+2378,Tea
+2379,Cold Drink
+2380,Samosa
+2381,Coffee
+2381,Vada Pav
+2382,Coffee
+2383,Veg Thali
+2384,Veg Sandwich
+2384,Cold Drink
+2385,Tea
+2386,Idli
+2387,Coffee
+2388,Tea
+2389,Tea
+2389,Samosa
+2390,Coffee
+2391,Pav Bhaji
+2391,Cold Drink
+2392,Coffee
+2393,Tea
+2394,Samosa
+2394,Tea
+2395,Idli
+2396,Vada Pav
+2396,Cold Drink
+2397,Pav Bhaji
+2397,Cold Drink
+2398,Tea
+2399,Coffee
+2400,Idli
+2400,Tea
+2401,Tea
+2402,Idli
+2403,Cold Drink
+2404,Coffee
+2404,Veg Thali
+2405,Coffee
+2406,Vada Pav
+2406,Cold Drink
+2407,Samosa
+2407,Tea
+2407,Vada Pav
+2408,Tea
+2409,Pav Bhaji
+2409,Cold Drink
+2410,Samosa
+2411,Cold Drink
+2412,Coffee
+2413,Coffee
+2414,Veg Thali
+2415,Cold Drink
+2416,Veg Sandwich
+2417,Samosa
+2417,Tea
+2418,Tea
+2419,Veg Sandwich
+2419,Cold Drink
+2420,Veg Thali
+2421,Vada Pav
+2421,Cold Drink
+2421,Tea
+2422,Coffee
+2423,Idli
+2424,Cold Drink
+2425,Coffee
+2426,Vada Pav
+2426,Cold Drink
+2427,Coffee
+2428,Tea
+2429,Pav Bhaji
+2430,Veg Sandwich
+2430,Cold Drink
+2430,Pav Bhaji
+2431,Pav Bhaji
+2432,Pav Bhaji
+2432,Cold Drink
+2433,Pav Bhaji
+2433,Cold Drink
+2433,Masala Dosa
+2434,Masala Dosa
+2434,Tea
+2435,Samosa
+2435,Veg Thali
+2436,Samosa
+2436,Tea
+2436,Pav Bhaji
+2437,Veg Sandwich
+2437,Cold Drink
+2438,Idli
+2438,Tea
+2439,Veg Sandwich
+2440,Pav Bhaji
+2440,Cold Drink
+2441,Idli
+2441,Tea
+2442,Masala Dosa
+2442,Tea
+2443,Pav Bhaji
+2443,Cold Drink
+2444,Tea
+2445,Samosa
+2446,Veg Thali
+2447,Veg Thali
+2448,Tea
+2449,Idli
+2450,Samosa
+2450,Tea
+2451,Idli
+2452,Masala Dosa
+2452,Tea
+2452,Veg Thali
+2453,Cold Drink
+2454,Tea
+2455,Pav Bhaji
+2455,Cold Drink
+2456,Idli
+2456,Tea
+2457,Cold Drink
+2457,Veg Sandwich
+2458,Cold Drink
+2459,Idli
+2459,Tea
+2460,Coffee
+2461,Cold Drink
+2462,Tea
+2463,Veg Sandwich
+2463,Cold Drink
+2464,Vada Pav
+2464,Cold Drink
+2465,Veg Thali
+2466,Tea
+2467,Samosa
+2467,Tea
+2468,Veg Thali
+2469,Vada Pav
+2469,Cold Drink
+2470,Tea
+2471,Vada Pav
+2471,Cold Drink
+2472,Veg Thali
+2473,Cold Drink
+2474,Tea
+2475,Veg Sandwich
+2475,Cold Drink
+2476,Veg Sandwich
+2476,Cold Drink
+2477,Cold Drink
+2477,Veg Sandwich
+2478,Coffee
+2479,Veg Sandwich
+2479,Idli
+2480,Veg Thali
+2481,Tea
+2482,Samosa
+2482,Tea
+2483,Vada Pav
+2483,Cold Drink
+2484,Cold Drink
+2485,Cold Drink
+2486,Idli
+2487,Veg Thali
+2488,Samosa
+2488,Tea
+2488,Pav Bhaji
+2489,Pav Bhaji
+2490,Masala Dosa
+2491,Samosa
+2491,Tea
+2492,Coffee
+2493,Idli
+2493,Tea
+2494,Samosa
+2494,Tea
+2495,Masala Dosa
+2496,Vada Pav
+2496,Cold Drink
+2497,Veg Thali
+2497,Idli
+2498,Veg Sandwich
+2499,Veg Sandwich
+2500,Masala Dosa
+2500,Tea
+2501,Pav Bhaji
+2502,Cold Drink
+2503,Coffee
+2504,Tea
+2505,Veg Thali
+2506,Masala Dosa
+2506,Tea
+2507,Vada Pav
+2508,Tea
+2509,Veg Thali
+2510,Coffee
+2511,Tea
+2512,Pav Bhaji
+2513,Samosa
+2514,Cold Drink
+2514,Tea
+2515,Idli
+2516,Pav Bhaji
+2516,Cold Drink
+2516,Veg Sandwich
+2517,Vada Pav
+2518,Vada Pav
+2518,Cold Drink
+2519,Veg Thali
+2520,Samosa
+2520,Tea
+2521,Vada Pav
+2522,Pav Bhaji
+2522,Cold Drink
+2523,Vada Pav
+2523,Cold Drink
+2524,Pav Bhaji
+2524,Tea
+2525,Pav Bhaji
+2525,Cold Drink
+2526,Idli
+2526,Tea
+2527,Cold Drink
+2528,Masala Dosa
+2529,Masala Dosa
+2529,Tea
+2530,Veg Sandwich
+2530,Cold Drink
+2531,Veg Thali
+2531,Pav Bhaji
+2532,Vada Pav
+2532,Cold Drink
+2533,Tea
+2534,Coffee
+2535,Coffee
+2535,Masala Dosa
+2536,Masala Dosa
+2537,Veg Thali
+2538,Coffee
+2539,Tea
+2540,Idli
+2540,Tea
+2541,Masala Dosa
+2541,Tea
+2542,Vada Pav
+2542,Cold Drink
+2543,Masala Dosa
+2543,Tea
+2544,Pav Bhaji
+2545,Samosa
+2545,Tea
+2545,Pav Bhaji
+2546,Tea
+2547,Tea
+2548,Idli
+2548,Tea
+2548,Veg Sandwich
+2549,Veg Sandwich
+2549,Cold Drink
+2550,Pav Bhaji
+2551,Idli
+2552,Veg Sandwich
+2552,Cold Drink
+2553,Veg Thali
+2554,Pav Bhaji
+2554,Cold Drink
+2555,Veg Sandwich
+2555,Cold Drink
+2556,Cold Drink
+2557,Pav Bhaji
+2558,Cold Drink
+2559,Veg Thali
+2559,Veg Sandwich
+2560,Vada Pav
+2560,Cold Drink
+2561,Veg Thali
+2562,Tea
+2563,Veg Thali
+2564,Veg Thali
+2565,Tea
+2566,Pav Bhaji
+2567,Vada Pav
+2567,Cold Drink
+2568,Coffee
+2568,Vada Pav
+2569,Veg Sandwich
+2569,Cold Drink
+2569,Veg Thali
+2570,Vada Pav
+2571,Coffee
+2571,Pav Bhaji
+2572,Cold Drink
+2573,Coffee
+2573,Vada Pav
+2574,Samosa
+2574,Tea
+2575,Veg Thali
+2575,Vada Pav
+2576,Cold Drink
+2577,Idli
+2578,Idli
+2579,Vada Pav
+2579,Cold Drink
+2579,Coffee
+2580,Samosa
+2581,Tea
+2582,Samosa
+2583,Coffee
+2584,Coffee
+2585,Veg Thali
+2586,Veg Sandwich
+2586,Cold Drink
+2586,Idli
+2587,Coffee
+2588,Idli
+2588,Tea
+2589,Veg Thali
+2590,Veg Sandwich
+2591,Idli
+2591,Tea
+2592,Vada Pav
+2592,Cold Drink
+2593,Tea
+2593,Masala Dosa
+2594,Vada Pav
+2594,Cold Drink
+2595,Vada Pav
+2595,Cold Drink
+2596,Tea
+2597,Veg Thali
+2598,Idli
+2598,Tea
+2599,Pav Bhaji
+2599,Cold Drink
+2600,Tea
+2601,Idli
+2601,Tea
+2602,Pav Bhaji
+2603,Tea
+2603,Cold Drink
+2604,Pav Bhaji
+2605,Vada Pav
+2606,Cold Drink
+2606,Coffee
+2607,Tea
+2607,Coffee
+2608,Veg Thali
+2608,Vada Pav
+2609,Veg Thali
+2610,Cold Drink
+2611,Idli
+2611,Tea
+2611,Veg Sandwich
+2612,Cold Drink
+2612,Tea
+2613,Tea
+2613,Idli
+2614,Veg Thali
+2615,Idli
+2615,Tea
+2616,Samosa
+2617,Vada Pav
+2617,Tea
+2618,Veg Thali
+2619,Coffee
+2620,Coffee
+2621,Veg Thali
+2622,Vada Pav
+2622,Cold Drink
+2622,Idli
+2623,Veg Thali
+2624,Samosa
+2624,Tea
+2625,Samosa
+2625,Tea
+2626,Coffee
+2627,Idli
+2628,Idli
+2628,Tea
+2629,Tea
+2630,Samosa
+2630,Tea
+2631,Veg Sandwich
+2632,Masala Dosa
+2632,Tea
+2633,Tea
+2634,Cold Drink
+2634,Veg Thali
+2635,Coffee
+2635,Tea
+2636,Veg Sandwich
+2636,Cold Drink
+2637,Coffee
+2638,Coffee
+2639,Idli
+2639,Tea
+2640,Tea
+2640,Veg Sandwich
+2641,Samosa
+2641,Tea
+2642,Tea
+2643,Idli
+2643,Tea
+2644,Veg Thali
+2644,Tea
+2645,Coffee
+2646,Idli
+2647,Coffee
+2648,Veg Sandwich
+2648,Cold Drink
+2649,Pav Bhaji
+2650,Tea
+2651,Samosa
+2651,Tea
+2652,Pav Bhaji
+2652,Cold Drink
+2653,Vada Pav
+2653,Cold Drink
+2653,Pav Bhaji
+2654,Coffee
+2655,Masala Dosa
+2655,Tea
+2656,Idli
+2657,Coffee
+2657,Veg Thali
+2658,Tea
+2659,Pav Bhaji
+2660,Vada Pav
+2661,Samosa
+2661,Tea
+2661,Masala Dosa
+2662,Vada Pav
+2662,Tea
+2663,Coffee
+2664,Masala Dosa
+2664,Tea
+2665,Pav Bhaji
+2666,Vada Pav
+2666,Cold Drink
+2667,Cold Drink
+2667,Samosa
+2668,Pav Bhaji
+2668,Cold Drink
+2669,Samosa
+2669,Tea
+2670,Pav Bhaji
+2671,Cold Drink
+2672,Vada Pav
+2673,Idli
+2674,Coffee
+2675,Samosa
+2676,Idli
+2677,Cold Drink
+2677,Samosa
+2678,Vada Pav
+2679,Pav Bhaji
+2679,Cold Drink
+2680,Coffee
+2681,Coffee
+2682,Samosa
+2682,Tea
+2683,Vada Pav
+2683,Cold Drink
+2684,Tea
+2685,Veg Sandwich
+2685,Cold Drink
+2686,Pav Bhaji
+2686,Cold Drink
+2686,Veg Thali
+2687,Pav Bhaji
+2688,Masala Dosa
+2688,Tea
+2689,Tea
+2690,Vada Pav
+2691,Tea
+2692,Cold Drink
+2693,Pav Bhaji
+2694,Veg Sandwich
+2695,Samosa
+2695,Tea
+2696,Vada Pav
+2696,Cold Drink
+2697,Veg Sandwich
+2698,Idli
+2698,Tea
+2699,Cold Drink
+2700,Tea
+2701,Cold Drink
+2702,Pav Bhaji
+2702,Veg Thali
+2703,Cold Drink
+2704,Vada Pav
+2705,Masala Dosa
+2706,Idli
+2707,Tea
+2708,Veg Thali
+2708,Cold Drink
+2709,Pav Bhaji
+2709,Cold Drink
+2710,Vada Pav
+2710,Cold Drink
+2711,Masala Dosa
+2711,Tea
+2712,Cold Drink
+2713,Vada Pav
+2713,Cold Drink
+2714,Cold Drink
+2715,Masala Dosa
+2716,Tea
+2717,Samosa
+2718,Veg Thali
+2719,Pav Bhaji
+2719,Cold Drink
+2720,Samosa
+2720,Tea
+2721,Veg Sandwich
+2721,Cold Drink
+2722,Idli
+2722,Tea
+2723,Cold Drink
+2724,Masala Dosa
+2724,Tea
+2725,Idli
+2726,Cold Drink
+2727,Samosa
+2727,Tea
+2728,Pav Bhaji
+2728,Cold Drink
+2728,Tea
+2729,Tea
+2729,Veg Sandwich
+2730,Tea
+2731,Coffee
+2732,Samosa
+2732,Tea
+2733,Idli
+2733,Tea
+2734,Veg Thali
+2735,Tea
+2736,Coffee
+2737,Tea
+2738,Vada Pav
+2738,Cold Drink
+2739,Coffee
+2739,Cold Drink
+2740,Cold Drink
+2740,Masala Dosa
+2741,Coffee
+2742,Vada Pav
+2743,Samosa
+2743,Tea
+2744,Samosa
+2744,Tea
+2745,Cold Drink
+2745,Pav Bhaji
+2746,Veg Thali
+2747,Veg Thali
+2748,Veg Sandwich
+2748,Idli
+2749,Tea
+2749,Veg Thali
+2750,Veg Thali
+2751,Coffee
+2751,Cold Drink
+2752,Pav Bhaji
+2752,Cold Drink
+2752,Coffee
+2753,Idli
+2753,Tea
+2754,Pav Bhaji
+2755,Idli
+2755,Tea
+2755,Coffee
+2756,Coffee
+2757,Vada Pav
+2758,Idli
+2759,Masala Dosa
+2760,Veg Sandwich
+2761,Veg Thali
+2762,Vada Pav
+2763,Veg Thali
+2764,Samosa
+2764,Tea
+2764,Idli
+2765,Cold Drink
+2766,Veg Sandwich
+2767,Coffee
+2768,Veg Sandwich
+2768,Cold Drink
+2769,Vada Pav
+2770,Masala Dosa
+2770,Tea
+2771,Idli
+2771,Tea
+2772,Idli
+2772,Tea
+2773,Coffee
+2774,Veg Sandwich
+2774,Cold Drink
+2775,Cold Drink
+2776,Veg Thali
+2776,Samosa
+2777,Cold Drink
+2777,Vada Pav
+2778,Vada Pav
+2778,Cold Drink
+2778,Veg Thali
+2779,Tea
+2780,Veg Sandwich
+2780,Cold Drink
+2781,Veg Sandwich
+2782,Samosa
+2782,Tea
+2783,Pav Bhaji
+2783,Cold Drink
+2784,Samosa
+2784,Tea
+2785,Idli
+2785,Tea
+2786,Cold Drink
+2787,Samosa
+2787,Tea
+2788,Cold Drink
+2789,Coffee
+2789,Masala Dosa
+2790,Veg Sandwich
+2790,Cold Drink
+2791,Samosa
+2791,Tea
+2792,Vada Pav
+2792,Cold Drink
+2793,Samosa
+2794,Vada Pav
+2794,Cold Drink
+2795,Masala Dosa
+2795,Tea
+2796,Cold Drink
+2797,Veg Sandwich
+2798,Idli
+2798,Tea
+2799,Veg Sandwich
+2799,Cold Drink
+2800,Veg Thali
+2801,Tea
+2802,Masala Dosa
+2802,Tea
+2803,Veg Sandwich
+2803,Cold Drink
+2804,Samosa
+2804,Tea
+2805,Samosa
+2806,Veg Thali
+2807,Masala Dosa
+2807,Tea
+2808,Pav Bhaji
+2809,Veg Thali
+2810,Coffee
+2811,Pav Bhaji
+2811,Cold Drink
+2812,Idli
+2812,Tea
+2813,Vada Pav
+2813,Coffee
+2814,Veg Sandwich
+2815,Tea
+2816,Coffee
+2817,Cold Drink
+2817,Samosa
+2818,Cold Drink
+2818,Coffee
+2819,Samosa
+2819,Tea
+2820,Idli
+2820,Tea
+2820,Veg Sandwich
+2821,Samosa
+2821,Tea
+2822,Coffee
+2822,Veg Sandwich
+2823,Veg Thali
+2824,Pav Bhaji
+2824,Cold Drink
+2825,Veg Thali
+2826,Masala Dosa
+2826,Tea
+2827,Pav Bhaji
+2827,Cold Drink
+2828,Idli
+2828,Tea
+2829,Samosa
+2830,Coffee
+2830,Masala Dosa
+2831,Idli
+2832,Vada Pav
+2832,Cold Drink
+2832,Samosa
+2833,Vada Pav
+2833,Cold Drink
+2834,Masala Dosa
+2835,Veg Thali
+2835,Veg Sandwich
+2836,Cold Drink
+2837,Cold Drink
+2838,Veg Sandwich
+2839,Veg Sandwich
+2840,Tea
+2841,Cold Drink
+2842,Pav Bhaji
+2842,Cold Drink
+2842,Masala Dosa
+2843,Veg Sandwich
+2843,Cold Drink
+2844,Coffee
+2845,Tea
+2845,Samosa
+2846,Idli
+2847,Masala Dosa
+2848,Samosa
+2848,Pav Bhaji
+2849,Veg Thali
+2849,Samosa
+2850,Veg Sandwich
+2850,Cold Drink
+2851,Idli
+2852,Veg Thali
+2853,Coffee
+2854,Pav Bhaji
+2855,Cold Drink
+2856,Samosa
+2857,Samosa
+2857,Tea
+2858,Samosa
+2859,Tea
+2860,Samosa
+2860,Coffee
+2861,Veg Sandwich
+2861,Cold Drink
+2862,Samosa
+2862,Tea
+2862,Veg Sandwich
+2863,Veg Thali
+2864,Tea
+2865,Masala Dosa
+2866,Idli
+2866,Tea
+2867,Tea
+2868,Idli
+2868,Tea
+2869,Veg Sandwich
+2869,Cold Drink
+2870,Masala Dosa
+2870,Tea
+2870,Samosa
+2871,Idli
+2872,Vada Pav
+2873,Tea
+2874,Idli
+2874,Tea
+2875,Veg Sandwich
+2875,Cold Drink
+2876,Tea
+2877,Pav Bhaji
+2877,Cold Drink
+2878,Vada Pav
+2878,Cold Drink
+2879,Pav Bhaji
+2879,Cold Drink
+2880,Cold Drink
+2881,Vada Pav
+2881,Cold Drink
+2882,Cold Drink
+2883,Tea
+2884,Masala Dosa
+2884,Tea
+2885,Samosa
+2885,Tea
+2886,Coffee
+2887,Pav Bhaji
+2888,Pav Bhaji
+2889,Vada Pav
+2889,Cold Drink
+2890,Veg Sandwich
+2890,Cold Drink
+2891,Masala Dosa
+2892,Masala Dosa
+2892,Tea
+2893,Pav Bhaji
+2894,Tea
+2894,Veg Sandwich
+2895,Pav Bhaji
+2895,Cold Drink
+2896,Cold Drink
+2896,Veg Thali
+2897,Coffee
+2897,Idli
+2898,Pav Bhaji
+2898,Cold Drink
+2898,Masala Dosa
+2899,Veg Thali
+2900,Vada Pav
+2900,Cold Drink
+2901,Vada Pav
+2901,Cold Drink
+2901,Veg Thali
+2902,Samosa
+2902,Tea
+2903,Tea
+2904,Samosa
+2904,Tea
+2905,Coffee
+2906,Pav Bhaji
+2907,Idli
+2908,Samosa
+2908,Tea
+2909,Vada Pav
+2909,Tea
+2910,Pav Bhaji
+2910,Cold Drink
+2911,Masala Dosa
+2912,Idli
+2912,Tea
+2913,Vada Pav
+2913,Cold Drink
+2913,Veg Thali
+2914,Vada Pav
+2915,Coffee
+2916,Samosa
+2917,Idli
+2917,Tea
+2918,Cold Drink
+2919,Cold Drink
+2920,Pav Bhaji
+2921,Coffee
+2922,Coffee
+2923,Idli
+2923,Tea
+2924,Idli
+2925,Masala Dosa
+2925,Tea
+2926,Masala Dosa
+2926,Tea
+2927,Idli
+2927,Tea
+2928,Veg Thali
+2929,Vada Pav
+2930,Cold Drink
+2931,Idli
+2931,Tea
+2932,Pav Bhaji
+2932,Cold Drink
+2933,Tea
+2934,Coffee
+2935,Tea
+2935,Coffee
+2936,Masala Dosa
+2936,Tea
+2936,Samosa
+2937,Veg Thali
+2938,Cold Drink
+2939,Samosa
+2940,Samosa
+2940,Tea
+2941,Cold Drink
+2942,Masala Dosa
+2943,Veg Thali
+2943,Idli
+2944,Vada Pav
+2945,Cold Drink
+2946,Veg Sandwich
+2947,Pav Bhaji
+2948,Tea
+2949,Veg Sandwich
+2949,Cold Drink
+2950,Vada Pav
+2951,Masala Dosa
+2951,Tea
+2952,Cold Drink
+2953,Coffee
+2954,Samosa
+2954,Tea
+2955,Masala Dosa
+2955,Tea
+2956,Veg Sandwich
+2956,Cold Drink
+2957,Vada Pav
+2957,Cold Drink
+2958,Coffee
+2959,Pav Bhaji
+2959,Cold Drink
+2960,Tea
+2961,Cold Drink
+2962,Idli
+2962,Tea
+2963,Vada Pav
+2963,Cold Drink
+2964,Pav Bhaji
+2965,Idli
+2965,Tea
+2966,Tea
+2967,Tea
+2968,Masala Dosa
+2968,Tea
+2969,Coffee
+2970,Veg Thali
+2970,Samosa
+2971,Cold Drink
+2971,Idli
+2972,Coffee
+2972,Masala Dosa
+2973,Samosa
+2974,Masala Dosa
+2974,Tea
+2975,Samosa
+2975,Tea
+2976,Veg Sandwich
+2976,Cold Drink
+2977,Tea
+2978,Samosa
+2978,Tea
+2979,Samosa
+2979,Tea
+2980,Masala Dosa
+2980,Tea
+2981,Tea
+2982,Coffee
+2982,Idli
+2983,Veg Thali
+2984,Cold Drink
+2985,Coffee
+2986,Veg Sandwich
+2987,Tea
+2988,Masala Dosa
+2988,Tea
+2989,Coffee
+2990,Idli
+2990,Tea
+2990,Coffee
+2991,Pav Bhaji
+2992,Veg Thali
+2993,Vada Pav
+2993,Cold Drink
+2993,Idli
+2994,Tea
+2995,Vada Pav
+2995,Veg Sandwich
+2996,Masala Dosa
+2996,Cold Drink
+2997,Veg Thali
+2998,Samosa
+2998,Tea
+2999,Masala Dosa
+3000,Cold Drink
+3000,Pav Bhaji
+3001,Samosa
+3002,Pav Bhaji
+3002,Cold Drink
+3002,Masala Dosa
+3003,Cold Drink
+3003,Veg Sandwich
+3004,Samosa
+3004,Tea
+3005,Coffee
+3006,Tea
+3007,Tea
+3007,Veg Thali
+3008,Samosa
+3008,Coffee
+3009,Coffee
+3010,Samosa
+3010,Tea
+3011,Coffee
+3011,Veg Thali
+3012,Vada Pav
+3012,Cold Drink
+3012,Samosa
+3013,Vada Pav
+3013,Cold Drink
+3014,Tea
+3014,Veg Sandwich
+3015,Veg Thali
+3015,Pav Bhaji
+3016,Vada Pav
+3016,Cold Drink
+3017,Masala Dosa
+3017,Tea
+3017,Cold Drink
+3018,Samosa
+3018,Tea
+3019,Veg Sandwich
+3019,Cold Drink
+3019,Tea
+3020,Masala Dosa
+3021,Masala Dosa
+3021,Tea
+3021,Veg Sandwich
+3022,Veg Sandwich
+3022,Cold Drink
+3022,Samosa
+3023,Masala Dosa
+3023,Vada Pav
+3024,Vada Pav
+3024,Cold Drink
+3025,Pav Bhaji
+3025,Cold Drink
+3026,Idli
+3026,Tea
+3027,Tea
+3027,Masala Dosa
+3028,Samosa
+3028,Tea
+3029,Pav Bhaji
+3029,Cold Drink
+3030,Masala Dosa
+3030,Tea
+3031,Idli
+3031,Tea
+3031,Masala Dosa
+3032,Tea
+3033,Idli
+3033,Tea
+3034,Cold Drink
+3035,Idli
+3035,Tea
+3036,Idli
+3036,Tea
+3037,Tea
+3038,Vada Pav
+3038,Cold Drink
+3039,Pav Bhaji
+3040,Samosa
+3040,Tea
+3041,Idli
+3041,Tea
+3042,Masala Dosa
+3042,Tea
+3043,Veg Sandwich
+3043,Cold Drink
+3044,Samosa
+3044,Tea
+3045,Masala Dosa
+3045,Tea
+3045,Pav Bhaji
+3046,Coffee
+3047,Vada Pav
+3047,Cold Drink
+3048,Masala Dosa
+3049,Coffee
+3050,Pav Bhaji
+3050,Cold Drink
+3051,Veg Sandwich
+3051,Cold Drink
+3052,Veg Thali
+3053,Masala Dosa
+3054,Masala Dosa
+3054,Tea
+3055,Masala Dosa
+3055,Tea
+3056,Pav Bhaji
+3056,Cold Drink
+3057,Samosa
+3057,Masala Dosa
+3058,Veg Sandwich
+3058,Cold Drink
+3058,Masala Dosa
+3059,Vada Pav
+3059,Cold Drink
+3060,Masala Dosa
+3060,Tea
+3060,Coffee
+3061,Veg Thali
+3061,Masala Dosa
+3062,Masala Dosa
+3062,Tea
+3063,Veg Thali
+3064,Coffee
+3065,Masala Dosa
+3065,Tea
+3066,Samosa
+3067,Tea
+3067,Coffee
+3068,Tea
+3069,Tea
+3070,Coffee
+3070,Tea
+3071,Tea
+3072,Veg Thali
+3073,Vada Pav
+3073,Cold Drink
+3073,Tea
+3074,Coffee
+3075,Veg Thali
+3076,Idli
+3076,Tea
+3077,Coffee
+3077,Masala Dosa
+3078,Veg Sandwich
+3078,Cold Drink
+3079,Pav Bhaji
+3079,Cold Drink
+3080,Tea
+3081,Pav Bhaji
+3081,Cold Drink
+3082,Idli
+3082,Tea
+3083,Samosa
+3083,Tea
+3084,Masala Dosa
+3085,Pav Bhaji
+3085,Cold Drink
+3086,Pav Bhaji
+3087,Tea
+3088,Masala Dosa
+3088,Tea
+3089,Pav Bhaji
+3090,Vada Pav
+3090,Cold Drink
+3091,Vada Pav
+3091,Cold Drink
+3092,Vada Pav
+3092,Cold Drink
+3093,Tea
+3094,Idli
+3094,Masala Dosa
+3095,Tea
+3096,Veg Thali
+3097,Cold Drink
+3098,Tea
+3099,Tea
+3100,Samosa
+3100,Tea
+3101,Pav Bhaji
+3102,Masala Dosa
+3103,Veg Thali
+3103,Vada Pav
+3104,Coffee
+3104,Samosa
+3105,Tea
+3106,Veg Thali
+3107,Vada Pav
+3107,Cold Drink
+3108,Masala Dosa
+3108,Tea
+3109,Samosa
+3109,Tea
+3110,Vada Pav
+3110,Cold Drink
+3111,Masala Dosa
+3111,Tea
+3112,Tea
+3113,Idli
+3113,Tea
+3114,Samosa
+3114,Tea
+3115,Veg Thali
+3115,Veg Sandwich
+3116,Idli
+3116,Tea
+3117,Samosa
+3117,Tea
+3118,Veg Sandwich
+3119,Veg Sandwich
+3119,Cold Drink
+3120,Veg Sandwich
+3120,Cold Drink
+3121,Veg Thali
+3122,Coffee
+3123,Idli
+3123,Tea
+3124,Pav Bhaji
+3125,Pav Bhaji
+3126,Veg Sandwich
+3127,Samosa
+3127,Tea
+3128,Tea
+3129,Vada Pav
+3129,Cold Drink
+3130,Veg Thali
+3131,Masala Dosa
+3131,Tea
+3132,Coffee
+3133,Masala Dosa
+3133,Tea
+3134,Pav Bhaji
+3134,Cold Drink
+3135,Veg Sandwich
+3136,Coffee
+3137,Coffee
+3138,Idli
+3139,Coffee
+3140,Samosa
+3141,Masala Dosa
+3142,Idli
+3143,Veg Sandwich
+3143,Cold Drink
+3144,Veg Thali
+3145,Cold Drink
+3146,Coffee
+3147,Samosa
+3147,Tea
+3148,Masala Dosa
+3148,Tea
+3149,Samosa
+3149,Tea
+3150,Veg Sandwich
+3150,Cold Drink
+3151,Tea
+3152,Masala Dosa
+3153,Samosa
+3153,Tea
+3154,Coffee
+3154,Pav Bhaji
+3155,Masala Dosa
+3156,Idli
+3156,Tea
+3157,Tea
+3158,Cold Drink
+3159,Tea
+3160,Masala Dosa
+3160,Tea
+3161,Samosa
+3161,Tea
+3162,Masala Dosa
+3162,Pav Bhaji
+3163,Vada Pav
+3164,Idli
+3165,Idli
+3165,Tea
+3166,Tea
+3167,Pav Bhaji
+3168,Vada Pav
+3168,Cold Drink
+3169,Masala Dosa
+3169,Tea
+3169,Coffee
+3170,Pav Bhaji
+3170,Cold Drink
+3171,Masala Dosa
+3171,Tea
+3172,Idli
+3172,Tea
+3173,Veg Sandwich
+3173,Cold Drink
+3174,Samosa
+3174,Tea
+3175,Idli
+3175,Tea
+3176,Coffee
+3177,Tea
+3177,Pav Bhaji
+3178,Vada Pav
+3179,Masala Dosa
+3179,Vada Pav
+3180,Coffee
+3181,Veg Thali
+3182,Vada Pav
+3183,Pav Bhaji
+3183,Cold Drink
+3184,Pav Bhaji
+3185,Cold Drink
+3186,Veg Thali
+3187,Masala Dosa
+3188,Samosa
+3188,Tea
+3189,Idli
+3189,Veg Thali
+3190,Coffee
+3191,Idli
+3191,Tea
+3192,Veg Thali
+3193,Masala Dosa
+3193,Tea
+3194,Veg Sandwich
+3194,Cold Drink
+3195,Samosa
+3195,Tea
+3196,Vada Pav
+3196,Cold Drink
+3197,Vada Pav
+3197,Coffee
+3198,Vada Pav
+3198,Cold Drink
+3199,Pav Bhaji
+3200,Tea
+3201,Samosa
+3201,Tea
+3202,Idli
+3203,Tea
+3204,Samosa
+3205,Tea
+3206,Coffee
+3207,Samosa
+3207,Tea
+3207,Cold Drink
+3208,Masala Dosa
+3208,Tea
+3209,Idli
+3209,Tea
+3210,Samosa
+3210,Coffee
+3211,Tea
+3212,Vada Pav
+3212,Cold Drink
+3213,Vada Pav
+3213,Cold Drink
+3214,Tea
+3215,Cold Drink
+3216,Cold Drink
+3217,Cold Drink
+3218,Cold Drink
+3219,Samosa
+3220,Samosa
+3220,Tea
+3221,Vada Pav
+3221,Cold Drink
+3222,Pav Bhaji
+3222,Cold Drink
+3222,Masala Dosa
+3223,Vada Pav
+3223,Cold Drink
+3224,Veg Sandwich
+3224,Cold Drink
+3224,Veg Thali
+3225,Pav Bhaji
+3225,Veg Sandwich
+3226,Masala Dosa
+3226,Tea
+3227,Cold Drink
+3228,Veg Thali
+3229,Coffee
+3230,Pav Bhaji
+3230,Cold Drink
+3231,Pav Bhaji
+3232,Samosa
+3232,Tea
+3232,Veg Sandwich
+3233,Masala Dosa
+3233,Tea
+3234,Masala Dosa
+3235,Masala Dosa
+3235,Tea
+3236,Idli
+3236,Tea
+3237,Veg Thali
+3238,Vada Pav
+3238,Cold Drink
+3238,Veg Thali
+3239,Tea
+3240,Vada Pav
+3240,Cold Drink
+3240,Veg Thali
+3241,Masala Dosa
+3242,Cold Drink
+3243,Tea
+3244,Pav Bhaji
+3245,Veg Sandwich
+3246,Veg Thali
+3246,Samosa
+3247,Cold Drink
+3248,Pav Bhaji
+3249,Pav Bhaji
+3249,Masala Dosa
+3250,Veg Thali
+3250,Tea
+3251,Masala Dosa
+3251,Tea
+3251,Samosa
+3252,Vada Pav
+3252,Cold Drink
+3253,Idli
+3254,Cold Drink
+3255,Idli
+3256,Idli
+3256,Tea
+3256,Pav Bhaji
+3257,Tea
+3257,Cold Drink
+3258,Cold Drink
+3259,Tea
+3260,Vada Pav
+3260,Cold Drink
+3261,Vada Pav
+3261,Idli
+3262,Veg Thali
+3262,Pav Bhaji
+3263,Masala Dosa
+3264,Coffee
+3264,Pav Bhaji
+3265,Coffee
+3266,Veg Thali
+3267,Cold Drink
+3268,Masala Dosa
+3268,Tea
+3269,Veg Thali
+3270,Pav Bhaji
+3271,Samosa
+3272,Vada Pav
+3272,Cold Drink
+3272,Veg Thali
+3273,Cold Drink
+3274,Veg Sandwich
+3275,Cold Drink
+3276,Vada Pav
+3276,Cold Drink
+3277,Cold Drink
+3278,Tea
+3278,Masala Dosa
+3279,Veg Sandwich
+3280,Pav Bhaji
+3280,Cold Drink
+3281,Cold Drink
+3282,Veg Sandwich
+3282,Cold Drink
+3283,Cold Drink
+3284,Vada Pav
+3284,Cold Drink
+3285,Cold Drink
+3286,Veg Sandwich
+3286,Cold Drink
+3287,Pav Bhaji
+3288,Masala Dosa
+3289,Samosa
+3289,Tea
+3290,Veg Thali
+3291,Idli
+3291,Tea
+3292,Cold Drink
+3293,Veg Sandwich
+3294,Coffee
+3294,Veg Sandwich
+3295,Idli
+3295,Tea
+3296,Samosa
+3296,Tea
+3297,Vada Pav
+3297,Cold Drink
+3297,Tea
+3298,Coffee
+3298,Cold Drink
+3299,Cold Drink
+3300,Tea
+3300,Coffee
+3301,Veg Sandwich
+3301,Cold Drink
+3302,Masala Dosa
+3302,Tea
+3303,Pav Bhaji
+3303,Cold Drink
+3303,Veg Thali
+3304,Samosa
+3305,Coffee
+3305,Pav Bhaji
+3306,Tea
+3306,Masala Dosa
+3307,Samosa
+3307,Tea
+3308,Tea
+3309,Veg Sandwich
+3309,Cold Drink
+3309,Coffee
+3310,Veg Thali
+3310,Coffee
+3311,Cold Drink
+3312,Vada Pav
+3312,Cold Drink
+3313,Tea
+3314,Tea
+3314,Samosa
+3315,Veg Sandwich
+3315,Cold Drink
+3316,Veg Sandwich
+3317,Pav Bhaji
+3317,Cold Drink
+3318,Veg Sandwich
+3318,Cold Drink
+3319,Coffee
+3319,Tea
+3320,Masala Dosa
+3320,Tea
+3321,Vada Pav
+3321,Cold Drink
+3322,Veg Thali
+3323,Masala Dosa
+3324,Coffee
+3325,Samosa
+3326,Vada Pav
+3326,Cold Drink
+3327,Vada Pav
+3327,Cold Drink
+3327,Veg Sandwich
+3328,Veg Thali
+3329,Vada Pav
+3329,Cold Drink
+3330,Samosa
+3331,Cold Drink
+3332,Masala Dosa
+3332,Tea
+3333,Veg Sandwich
+3333,Cold Drink
+3334,Veg Thali
+3334,Pav Bhaji
+3335,Veg Thali
+3336,Tea
+3337,Veg Sandwich
+3337,Cold Drink
+3337,Pav Bhaji
+3338,Masala Dosa
+3338,Tea
+3339,Idli
+3339,Tea
+3339,Coffee
+3340,Pav Bhaji
+3340,Cold Drink
+3340,Veg Sandwich
+3341,Cold Drink
+3342,Vada Pav
+3342,Cold Drink
+3343,Pav Bhaji
+3344,Idli
+3344,Tea
+3345,Masala Dosa
+3345,Tea
+3345,Samosa
+3346,Vada Pav
+3347,Veg Sandwich
+3347,Cold Drink
+3348,Masala Dosa
+3348,Tea
+3349,Samosa
+3349,Tea
+3350,Pav Bhaji
+3350,Cold Drink
+3351,Masala Dosa
+3351,Tea
+3351,Vada Pav
+3352,Masala Dosa
+3352,Tea
+3353,Cold Drink
+3354,Pav Bhaji
+3354,Cold Drink
+3355,Tea
+3356,Cold Drink
+3357,Cold Drink
+3358,Vada Pav
+3358,Cold Drink
+3359,Vada Pav
+3359,Cold Drink
+3360,Veg Sandwich
+3361,Tea
+3362,Cold Drink
+3363,Samosa
+3363,Tea
+3364,Tea
+3365,Tea
+3366,Veg Thali
+3367,Veg Sandwich
+3367,Cold Drink
+3368,Veg Sandwich
+3369,Coffee
+3370,Cold Drink
+3371,Masala Dosa
+3371,Tea
+3372,Samosa
+3372,Tea
+3372,Masala Dosa
+3373,Veg Thali
+3373,Vada Pav
+3374,Veg Thali
+3375,Veg Thali
+3376,Veg Sandwich
+3376,Cold Drink
+3377,Masala Dosa
+3377,Tea
+3377,Pav Bhaji
+3378,Idli
+3379,Cold Drink
+3380,Vada Pav
+3380,Cold Drink
+3381,Pav Bhaji
+3382,Veg Sandwich
+3383,Veg Thali
+3383,Veg Sandwich
+3384,Cold Drink
+3385,Idli
+3385,Tea
+3386,Tea
+3387,Veg Thali
+3388,Idli
+3388,Tea
+3389,Masala Dosa
+3389,Tea
+3390,Tea
+3390,Masala Dosa
+3391,Tea
+3392,Coffee
+3392,Vada Pav
+3393,Coffee
+3393,Vada Pav
+3394,Masala Dosa
+3394,Tea
+3395,Vada Pav
+3396,Vada Pav
+3397,Masala Dosa
+3397,Tea
+3398,Coffee
+3399,Tea
+3399,Cold Drink
+3400,Vada Pav
+3401,Idli
+3401,Tea
+3402,Samosa
+3403,Veg Sandwich
+3403,Cold Drink
+3404,Veg Thali
+3404,Idli
+3405,Veg Sandwich
+3405,Samosa
+3406,Cold Drink
+3407,Pav Bhaji
+3407,Vada Pav
+3408,Coffee
+3409,Coffee
+3410,Veg Thali
+3411,Vada Pav
+3411,Cold Drink
+3412,Veg Thali
+3413,Samosa
+3413,Tea
+3413,Cold Drink
+3414,Veg Thali
+3414,Tea
+3415,Vada Pav
+3415,Cold Drink
+3416,Masala Dosa
+3416,Tea
+3416,Veg Thali
+3417,Masala Dosa
+3418,Samosa
+3418,Tea
+3419,Masala Dosa
+3419,Tea
+3420,Pav Bhaji
+3420,Cold Drink
+3421,Pav Bhaji
+3422,Veg Sandwich
+3422,Cold Drink
+3423,Pav Bhaji
+3424,Vada Pav
+3425,Idli
+3426,Samosa
+3426,Tea
+3427,Pav Bhaji
+3428,Samosa
+3429,Vada Pav
+3430,Tea
+3431,Coffee
+3432,Samosa
+3432,Tea
+3433,Veg Thali
+3433,Pav Bhaji
+3434,Vada Pav
+3434,Cold Drink
+3435,Pav Bhaji
+3435,Cold Drink
+3436,Tea
+3437,Pav Bhaji
+3437,Cold Drink
+3438,Masala Dosa
+3438,Tea
+3439,Cold Drink
+3440,Cold Drink
+3441,Masala Dosa
+3441,Tea
+3442,Tea
+3443,Masala Dosa
+3444,Veg Sandwich
+3444,Cold Drink
+3445,Pav Bhaji
+3446,Samosa
+3446,Tea
+3447,Vada Pav
+3447,Cold Drink
+3448,Tea
+3449,Masala Dosa
+3449,Tea
+3449,Vada Pav
+3450,Tea
+3451,Tea
+3452,Samosa
+3452,Tea
+3452,Idli
+3453,Vada Pav
+3453,Cold Drink
+3454,Samosa
+3454,Tea
+3455,Vada Pav
+3456,Vada Pav
+3457,Veg Thali
+3458,Pav Bhaji
+3458,Cold Drink
+3459,Veg Sandwich
+3459,Cold Drink
+3460,Idli
+3461,Veg Sandwich
+3461,Cold Drink
+3462,Coffee
+3463,Veg Thali
+3464,Cold Drink
+3465,Masala Dosa
+3465,Tea
+3465,Samosa
+3466,Cold Drink
+3467,Vada Pav
+3468,Veg Sandwich
+3468,Cold Drink
+3469,Idli
+3470,Coffee
+3471,Tea
+3472,Vada Pav
+3472,Cold Drink
+3473,Tea
+3473,Samosa
+3474,Samosa
+3474,Tea
+3475,Pav Bhaji
+3475,Cold Drink
+3476,Cold Drink
+3476,Masala Dosa
+3477,Idli
+3477,Tea
+3478,Masala Dosa
+3478,Tea
+3479,Veg Sandwich
+3479,Cold Drink
+3479,Idli
+3480,Idli
+3480,Tea
+3481,Coffee
+3481,Pav Bhaji
+3482,Samosa
+3482,Pav Bhaji
+3483,Veg Thali
+3484,Cold Drink
+3484,Tea
+3485,Pav Bhaji
+3486,Samosa
+3486,Tea
+3487,Cold Drink
+3487,Vada Pav
+3488,Veg Sandwich
+3488,Cold Drink
+3489,Idli
+3489,Vada Pav
+3490,Vada Pav
+3490,Samosa
+3491,Masala Dosa
+3492,Vada Pav
+3492,Cold Drink
+3493,Cold Drink
+3494,Idli
+3495,Pav Bhaji
+3495,Cold Drink
+3495,Veg Thali
+3496,Pav Bhaji
+3497,Veg Sandwich
+3498,Tea
+3499,Idli
+3500,Idli
+3501,Veg Sandwich
+3501,Cold Drink
+3502,Cold Drink
+3503,Samosa
+3503,Tea
+3504,Vada Pav
+3504,Veg Thali
+3505,Idli
+3505,Tea
+3505,Vada Pav
+3506,Coffee
+3507,Coffee
+3508,Coffee
+3509,Vada Pav
+3510,Coffee
+3510,Veg Thali
+3511,Tea
+3512,Idli
+3512,Pav Bhaji
+3513,Cold Drink
+3514,Pav Bhaji
+3514,Cold Drink
+3515,Cold Drink
+3516,Veg Sandwich
+3516,Cold Drink
+3517,Masala Dosa
+3518,Vada Pav
+3519,Vada Pav
+3519,Cold Drink
+3520,Masala Dosa
+3520,Tea
+3521,Samosa
+3521,Tea
+3522,Cold Drink
+3523,Coffee
+3523,Vada Pav
+3524,Samosa
+3525,Tea
+3525,Pav Bhaji
+3526,Samosa
+3526,Tea
+3527,Coffee
+3528,Coffee
+3529,Veg Sandwich
+3529,Cold Drink
+3530,Vada Pav
+3531,Veg Sandwich
+3532,Veg Sandwich
+3533,Tea
+3534,Masala Dosa
+3534,Tea
+3535,Tea
+3536,Vada Pav
+3536,Cold Drink
+3536,Tea
+3537,Samosa
+3537,Tea
+3538,Tea
+3539,Veg Thali
+3539,Veg Sandwich
+3540,Samosa
+3541,Veg Thali
+3541,Pav Bhaji
+3542,Tea
+3543,Cold Drink
+3544,Vada Pav
+3545,Idli
+3545,Tea
+3546,Masala Dosa
+3546,Tea
+3547,Idli
+3547,Tea
+3548,Pav Bhaji
+3548,Cold Drink
+3549,Vada Pav
+3549,Cold Drink
+3550,Tea
+3551,Veg Sandwich
+3552,Vada Pav
+3553,Idli
+3553,Tea
+3554,Masala Dosa
+3554,Tea
+3555,Vada Pav
+3556,Masala Dosa
+3557,Idli
+3558,Pav Bhaji
+3558,Cold Drink
+3559,Cold Drink
+3560,Samosa
+3560,Tea
+3561,Coffee
+3562,Pav Bhaji
+3562,Cold Drink
+3563,Cold Drink
+3564,Pav Bhaji
+3564,Cold Drink
+3564,Tea
+3565,Pav Bhaji
+3565,Cold Drink
+3566,Cold Drink
+3567,Veg Thali
+3568,Tea
+3569,Idli
+3570,Samosa
+3571,Samosa
+3571,Tea
+3572,Samosa
+3572,Tea
+3573,Cold Drink
+3573,Coffee
+3574,Cold Drink
+3575,Veg Sandwich
+3576,Masala Dosa
+3576,Tea
+3577,Tea
+3577,Coffee
+3578,Samosa
+3578,Tea
+3579,Coffee
+3580,Tea
+3580,Pav Bhaji
+3581,Masala Dosa
+3581,Tea
+3582,Veg Thali
+3583,Tea
+3584,Veg Sandwich
+3585,Veg Sandwich
+3585,Cold Drink
+3586,Cold Drink
+3587,Idli
+3587,Tea
+3588,Tea
+3589,Tea
+3590,Veg Sandwich
+3591,Vada Pav
+3592,Vada Pav
+3592,Cold Drink
+3593,Vada Pav
+3593,Cold Drink
+3594,Cold Drink
+3594,Idli
+3595,Tea
+3596,Veg Thali
+3597,Vada Pav
+3598,Samosa
+3598,Tea
+3598,Idli
+3599,Vada Pav
+3599,Cold Drink
+3600,Samosa
+3600,Tea
+3600,Vada Pav
+3601,Coffee
+3602,Pav Bhaji
+3602,Cold Drink
+3603,Masala Dosa
+3603,Tea
+3604,Masala Dosa
+3605,Tea
+3606,Veg Sandwich
+3606,Cold Drink
+3607,Veg Sandwich
+3607,Cold Drink
+3608,Samosa
+3608,Tea
+3609,Samosa
+3609,Tea
+3610,Vada Pav
+3610,Cold Drink
+3611,Pav Bhaji
+3612,Samosa
+3612,Tea
+3613,Coffee
+3614,Samosa
+3614,Tea
+3615,Pav Bhaji
+3616,Vada Pav
+3616,Cold Drink
+3617,Idli
+3618,Samosa
+3619,Coffee
+3620,Idli
+3620,Tea
+3620,Veg Thali
+3621,Samosa
+3621,Tea
+3621,Veg Sandwich
+3622,Cold Drink
+3623,Vada Pav
+3623,Cold Drink
+3624,Masala Dosa
+3624,Tea
+3624,Samosa
+3625,Vada Pav
+3625,Cold Drink
+3626,Samosa
+3626,Tea
+3627,Veg Thali
+3628,Coffee
+3629,Tea
+3630,Veg Thali
+3631,Tea
+3631,Idli
+3632,Veg Thali
+3632,Masala Dosa
+3633,Coffee
+3634,Coffee
+3635,Veg Thali
+3636,Idli
+3636,Tea
+3637,Masala Dosa
+3637,Tea
+3638,Samosa
+3638,Tea
+3639,Cold Drink
+3640,Tea
+3641,Cold Drink
+3642,Veg Sandwich
+3642,Cold Drink
+3643,Tea
+3644,Pav Bhaji
+3644,Cold Drink
+3645,Pav Bhaji
+3645,Cold Drink
+3646,Samosa
+3646,Tea
+3647,Pav Bhaji
+3647,Cold Drink
+3648,Pav Bhaji
+3649,Tea
+3650,Masala Dosa
+3650,Tea
+3650,Veg Thali
+3651,Idli
+3652,Samosa
+3652,Tea
+3653,Tea
+3654,Pav Bhaji
+3654,Cold Drink
+3654,Coffee
+3655,Coffee
+3655,Veg Thali
+3656,Tea
+3656,Coffee
+3657,Vada Pav
+3658,Masala Dosa
+3658,Tea
+3659,Idli
+3660,Veg Thali
+3660,Tea
+3661,Veg Sandwich
+3662,Veg Sandwich
+3662,Cold Drink
+3662,Coffee
+3663,Samosa
+3664,Veg Thali
+3665,Pav Bhaji
+3665,Cold Drink
+3666,Pav Bhaji
+3666,Cold Drink
+3666,Veg Thali
+3667,Coffee
+3668,Samosa
+3669,Samosa
+3669,Tea
+3669,Veg Sandwich
+3670,Vada Pav
+3670,Cold Drink
+3671,Tea
+3672,Samosa
+3672,Tea
+3673,Pav Bhaji
+3674,Veg Sandwich
+3675,Veg Thali
+3676,Veg Sandwich
+3676,Cold Drink
+3677,Samosa
+3677,Tea
+3678,Tea
+3679,Vada Pav
+3680,Samosa
+3680,Tea
+3681,Idli
+3682,Tea
+3683,Samosa
+3683,Tea
+3684,Coffee
+3685,Veg Thali
+3686,Coffee
+3687,Veg Thali
+3688,Samosa
+3688,Tea
+3689,Masala Dosa
+3690,Masala Dosa
+3690,Coffee
+3691,Veg Sandwich
+3691,Cold Drink
+3692,Coffee
+3693,Masala Dosa
+3693,Tea
+3694,Idli
+3695,Pav Bhaji
+3696,Coffee
+3697,Cold Drink
+3697,Vada Pav
+3698,Masala Dosa
+3699,Coffee
+3700,Cold Drink
+3701,Tea
+3701,Veg Thali
+3702,Tea
+3702,Veg Thali
+3703,Idli
+3703,Samosa
+3704,Samosa
+3704,Tea
+3705,Vada Pav
+3705,Cold Drink
+3706,Cold Drink
+3707,Veg Thali
+3707,Cold Drink
+3708,Samosa
+3708,Tea
+3709,Tea
+3710,Cold Drink
+3711,Coffee
+3712,Samosa
+3712,Tea
+3713,Tea
+3713,Masala Dosa
+3714,Tea
+3714,Veg Thali
+3715,Cold Drink
+3716,Cold Drink
+3717,Veg Sandwich
+3717,Cold Drink
+3718,Masala Dosa
+3718,Tea
+3719,Idli
+3719,Tea
+3719,Samosa
+3720,Veg Thali
+3721,Idli
+3722,Tea
+3722,Veg Thali
+3723,Coffee
+3724,Masala Dosa
+3724,Tea
+3725,Idli
+3725,Tea
+3725,Vada Pav
+3726,Cold Drink
+3727,Idli
+3727,Tea
+3728,Masala Dosa
+3728,Tea
+3729,Vada Pav
+3729,Cold Drink
+3730,Vada Pav
+3731,Tea
+3732,Vada Pav
+3733,Vada Pav
+3734,Idli
+3734,Tea
+3735,Veg Sandwich
+3735,Cold Drink
+3736,Samosa
+3736,Tea
+3736,Veg Thali
+3737,Masala Dosa
+3737,Tea
+3737,Vada Pav
+3738,Samosa
+3738,Tea
+3739,Pav Bhaji
+3739,Cold Drink
+3740,Cold Drink
+3741,Coffee
+3742,Coffee
+3742,Pav Bhaji
+3743,Veg Thali
+3744,Cold Drink
+3745,Idli
+3745,Tea
+3746,Cold Drink
+3747,Veg Sandwich
+3747,Cold Drink
+3748,Masala Dosa
+3748,Coffee
+3749,Veg Sandwich
+3749,Cold Drink
+3750,Tea
+3751,Samosa
+3751,Tea
+3752,Samosa
+3753,Cold Drink
+3754,Coffee
+3755,Cold Drink
+3755,Pav Bhaji
+3756,Pav Bhaji
+3756,Cold Drink
+3757,Veg Thali
+3758,Veg Sandwich
+3758,Cold Drink
+3759,Idli
+3759,Tea
+3760,Idli
+3761,Veg Thali
+3761,Veg Sandwich
+3762,Coffee
+3763,Vada Pav
+3763,Cold Drink
+3763,Veg Thali
+3764,Idli
+3764,Tea
+3764,Coffee
+3765,Veg Thali
+3766,Veg Sandwich
+3766,Cold Drink
+3767,Idli
+3767,Tea
+3768,Veg Sandwich
+3768,Cold Drink
+3769,Veg Sandwich
+3769,Cold Drink
+3769,Veg Thali
+3770,Cold Drink
+3771,Cold Drink
+3771,Samosa
+3772,Veg Thali
+3772,Masala Dosa
+3773,Tea
+3774,Samosa
+3774,Tea
+3774,Pav Bhaji
+3775,Masala Dosa
+3776,Tea
+3777,Samosa
+3778,Idli
+3778,Tea
+3779,Pav Bhaji
+3779,Masala Dosa
+3780,Veg Thali
+3780,Cold Drink
+3781,Masala Dosa
+3781,Tea
+3781,Idli
+3782,Coffee
+3783,Tea
+3784,Tea
+3784,Cold Drink
+3785,Coffee
+3786,Cold Drink
+3787,Pav Bhaji
+3787,Cold Drink
+3788,Tea
+3789,Coffee
+3789,Cold Drink
+3790,Veg Sandwich
+3791,Vada Pav
+3792,Masala Dosa
+3792,Tea
+3793,Idli
+3793,Tea
+3794,Veg Thali
+3794,Tea
+3795,Vada Pav
+3795,Cold Drink
+3796,Coffee
+3797,Samosa
+3797,Tea
+3798,Samosa
+3798,Tea
+3798,Veg Thali
+3799,Idli
+3799,Tea
+3800,Veg Sandwich
+3800,Cold Drink
+3801,Cold Drink
+3802,Veg Sandwich
+3803,Cold Drink
+3804,Coffee
+3804,Vada Pav
+3805,Veg Thali
+3806,Veg Sandwich
+3807,Masala Dosa
+3807,Tea
+3807,Idli
+3808,Samosa
+3808,Tea
+3809,Samosa
+3809,Tea
+3810,Coffee
+3811,Samosa
+3811,Tea
+3812,Vada Pav
+3813,Cold Drink
+3814,Idli
+3815,Idli
+3815,Tea
+3815,Veg Sandwich
+3816,Vada Pav
+3816,Cold Drink
+3817,Masala Dosa
+3817,Tea
+3818,Cold Drink
+3819,Coffee
+3820,Samosa
+3821,Veg Thali
+3822,Samosa
+3822,Tea
+3823,Vada Pav
+3823,Cold Drink
+3824,Idli
+3824,Tea
+3825,Veg Sandwich
+3825,Cold Drink
+3826,Idli
+3826,Tea
+3827,Pav Bhaji
+3828,Coffee
+3829,Vada Pav
+3829,Cold Drink
+3830,Cold Drink
+3831,Cold Drink
+3832,Samosa
+3832,Tea
+3832,Idli
+3833,Pav Bhaji
+3833,Cold Drink
+3834,Vada Pav
+3834,Cold Drink
+3835,Veg Thali
+3836,Samosa
+3837,Tea
+3838,Idli
+3839,Cold Drink
+3840,Cold Drink
+3841,Pav Bhaji
+3842,Idli
+3843,Veg Sandwich
+3843,Cold Drink
+3844,Masala Dosa
+3844,Tea
+3844,Coffee
+3845,Pav Bhaji
+3846,Masala Dosa
+3846,Tea
+3847,Tea
+3848,Tea
+3849,Veg Sandwich
+3849,Cold Drink
+3849,Samosa
+3850,Coffee
+3851,Idli
+3851,Vada Pav
+3852,Pav Bhaji
+3852,Cold Drink
+3853,Vada Pav
+3854,Masala Dosa
+3854,Tea
+3855,Veg Thali
+3856,Vada Pav
+3856,Cold Drink
+3857,Masala Dosa
+3857,Tea
+3857,Samosa
+3858,Masala Dosa
+3858,Tea
+3858,Veg Sandwich
+3859,Pav Bhaji
+3860,Samosa
+3860,Tea
+3861,Cold Drink
+3862,Masala Dosa
+3862,Tea
+3863,Pav Bhaji
+3863,Cold Drink
+3864,Vada Pav
+3865,Tea
+3866,Idli
+3866,Tea
+3867,Veg Thali
+3867,Coffee
+3868,Masala Dosa
+3868,Tea
+3869,Veg Sandwich
+3869,Cold Drink
+3870,Veg Thali
+3871,Pav Bhaji
+3871,Cold Drink
+3872,Veg Thali
+3872,Idli
+3873,Masala Dosa
+3874,Cold Drink
+3875,Idli
+3875,Tea
+3876,Samosa
+3876,Tea
+3877,Veg Thali
+3878,Veg Sandwich
+3878,Cold Drink
+3879,Pav Bhaji
+3879,Masala Dosa
+3880,Cold Drink
+3881,Pav Bhaji
+3882,Veg Sandwich
+3882,Cold Drink
+3882,Idli
+3883,Idli
+3884,Veg Sandwich
+3884,Cold Drink
+3884,Tea
+3885,Idli
+3886,Cold Drink
+3887,Vada Pav
+3887,Cold Drink
+3887,Veg Sandwich
+3888,Coffee
+3889,Pav Bhaji
+3889,Cold Drink
+3890,Masala Dosa
+3890,Tea
+3891,Cold Drink
+3892,Tea
+3893,Veg Sandwich
+3893,Cold Drink
+3893,Tea
+3894,Vada Pav
+3894,Cold Drink
+3895,Vada Pav
+3895,Cold Drink
+3895,Idli
+3896,Pav Bhaji
+3896,Cold Drink
+3897,Veg Sandwich
+3897,Cold Drink
+3898,Masala Dosa
+3898,Tea
+3899,Cold Drink
+3900,Veg Sandwich
+3901,Veg Sandwich
+3901,Cold Drink
+3901,Vada Pav
+3902,Veg Thali
+3902,Pav Bhaji
+3903,Idli
+3904,Veg Thali
+3904,Tea
+3905,Coffee
+3906,Samosa
+3906,Tea
+3907,Masala Dosa
+3907,Tea
+3908,Pav Bhaji
+3909,Coffee
+3910,Pav Bhaji
+3911,Masala Dosa
+3911,Tea
+3912,Cold Drink
+3913,Veg Sandwich
+3913,Cold Drink
+3914,Idli
+3914,Tea
+3914,Vada Pav
+3915,Cold Drink
+3916,Cold Drink
+3917,Pav Bhaji
+3918,Veg Sandwich
+3919,Coffee
+3920,Veg Sandwich
+3920,Cold Drink
+3920,Veg Thali
+3921,Idli
+3921,Tea
+3922,Samosa
+3922,Tea
+3923,Tea
+3924,Tea
+3925,Veg Sandwich
+3925,Cold Drink
+3926,Tea
+3927,Veg Thali
+3927,Pav Bhaji
+3928,Veg Sandwich
+3929,Pav Bhaji
+3930,Idli
+3930,Tea
+3931,Tea
+3932,Veg Sandwich
+3933,Veg Thali
+3934,Cold Drink
+3935,Idli
+3936,Veg Thali
+3936,Tea
+3937,Coffee
+3938,Masala Dosa
+3938,Tea
+3938,Veg Thali
+3939,Samosa
+3940,Veg Thali
+3941,Tea
+3941,Veg Thali
+3942,Pav Bhaji
+3942,Cold Drink
+3943,Idli
+3943,Tea
+3944,Pav Bhaji
+3945,Coffee
+3946,Coffee
+3946,Veg Sandwich
+3947,Pav Bhaji
+3947,Cold Drink
+3948,Masala Dosa
+3948,Tea
+3949,Samosa
+3949,Tea
+3950,Pav Bhaji
+3951,Veg Thali
+3952,Veg Thali
+3953,Coffee
+3953,Vada Pav
+3954,Vada Pav
+3955,Masala Dosa
+3955,Tea
+3955,Cold Drink
+3956,Coffee
+3957,Veg Sandwich
+3957,Cold Drink
+3958,Veg Thali
+3959,Veg Sandwich
+3960,Pav Bhaji
+3960,Cold Drink
+3960,Masala Dosa
+3961,Pav Bhaji
+3961,Cold Drink
+3962,Samosa
+3962,Tea
+3963,Pav Bhaji
+3964,Tea
+3965,Veg Thali
+3965,Pav Bhaji
+3966,Idli
+3967,Tea
+3968,Pav Bhaji
+3968,Cold Drink
+3969,Idli
+3969,Tea
+3970,Veg Thali
+3971,Idli
+3971,Tea
+3972,Pav Bhaji
+3972,Cold Drink
+3973,Cold Drink
+3974,Pav Bhaji
+3975,Idli
+3975,Tea
+3976,Tea
+3977,Samosa
+3978,Masala Dosa
+3978,Tea
+3979,Cold Drink
+3980,Cold Drink
+3981,Cold Drink
+3982,Idli
+3982,Tea
+3983,Coffee
+3984,Masala Dosa
+3985,Masala Dosa
+3985,Tea
+3986,Pav Bhaji
+3986,Cold Drink
+3987,Samosa
+3987,Tea
+3988,Tea
+3989,Pav Bhaji
+3990,Coffee
+3991,Coffee
+3992,Masala Dosa
+3992,Tea
+3993,Vada Pav
+3994,Tea
+3995,Vada Pav
+3996,Pav Bhaji
+3996,Cold Drink
+3996,Tea
+3997,Cold Drink
+3998,Idli
+3998,Tea
+3999,Masala Dosa
+4000,Veg Sandwich
+4000,Cold Drink
+4001,Cold Drink
+4002,Coffee
+4003,Vada Pav
+4004,Veg Sandwich
+4005,Vada Pav
+4005,Cold Drink
+4006,Tea
+4007,Pav Bhaji
+4007,Cold Drink
+4008,Masala Dosa
+4008,Pav Bhaji
+4009,Idli
+4009,Veg Sandwich
+4010,Samosa
+4011,Coffee
+4012,Coffee
+4013,Tea
+4014,Coffee
+4015,Vada Pav
+4016,Cold Drink
+4016,Veg Sandwich
+4017,Idli
+4017,Tea
+4018,Coffee
+4019,Coffee
+4019,Idli
+4020,Veg Thali
+4021,Samosa
+4021,Tea
+4022,Veg Sandwich
+4022,Cold Drink
+4023,Idli
+4023,Tea
+4024,Veg Thali
+4025,Pav Bhaji
+4026,Veg Sandwich
+4027,Masala Dosa
+4027,Tea
+4028,Idli
+4028,Tea
+4029,Vada Pav
+4029,Cold Drink
+4030,Coffee
+4031,Vada Pav
+4031,Cold Drink
+4032,Idli
+4033,Veg Thali
+4033,Masala Dosa
+4034,Cold Drink
+4035,Vada Pav
+4035,Cold Drink
+4036,Cold Drink
+4037,Masala Dosa
+4037,Tea
+4038,Veg Sandwich
+4038,Cold Drink
+4039,Idli
+4039,Tea
+4040,Vada Pav
+4041,Samosa
+4042,Samosa
+4042,Tea
+4043,Veg Thali
+4043,Vada Pav
+4044,Veg Thali
+4045,Samosa
+4046,Masala Dosa
+4047,Cold Drink
+4048,Coffee
+4049,Cold Drink
+4050,Samosa
+4051,Veg Sandwich
+4051,Cold Drink
+4052,Cold Drink
+4053,Cold Drink
+4054,Veg Sandwich
+4055,Masala Dosa
+4055,Tea
+4056,Masala Dosa
+4057,Vada Pav
+4057,Cold Drink
+4057,Coffee
+4058,Veg Thali
+4058,Samosa
+4059,Cold Drink
+4060,Masala Dosa
+4060,Tea
+4060,Cold Drink
+4061,Idli
+4061,Tea
+4062,Veg Thali
+4063,Idli
+4063,Tea
+4064,Cold Drink
+4065,Vada Pav
+4066,Veg Thali
+4067,Coffee
+4068,Tea
+4069,Cold Drink
+4070,Samosa
+4070,Tea
+4071,Veg Thali
+4072,Coffee
+4073,Tea
+4073,Coffee
+4074,Pav Bhaji
+4075,Tea
+4076,Coffee
+4077,Coffee
+4078,Masala Dosa
+4078,Tea
+4079,Masala Dosa
+4080,Veg Sandwich
+4080,Cold Drink
+4081,Pav Bhaji
+4081,Cold Drink
+4082,Tea
+4083,Veg Sandwich
+4083,Cold Drink
+4084,Pav Bhaji
+4084,Coffee
+4085,Tea
+4086,Vada Pav
+4086,Cold Drink
+4087,Samosa
+4088,Pav Bhaji
+4088,Cold Drink
+4089,Veg Sandwich
+4089,Pav Bhaji
+4090,Pav Bhaji
+4091,Veg Sandwich
+4091,Cold Drink
+4092,Masala Dosa
+4093,Tea
+4094,Masala Dosa
+4094,Tea
+4094,Pav Bhaji
+4095,Pav Bhaji
+4095,Cold Drink
+4096,Masala Dosa
+4096,Veg Sandwich
+4097,Cold Drink
+4097,Tea
+4098,Coffee
+4098,Veg Thali
+4099,Veg Thali
+4099,Masala Dosa
+4100,Veg Sandwich
+4100,Cold Drink
+4100,Tea
+4101,Tea
+4101,Veg Thali
+4102,Samosa
+4102,Tea
+4103,Tea
+4103,Cold Drink
+4104,Idli
+4105,Tea
+4105,Idli
+4106,Veg Thali
+4107,Tea
+4108,Veg Sandwich
+4108,Cold Drink
+4109,Samosa
+4109,Tea
+4110,Coffee
+4111,Tea
+4112,Cold Drink
+4113,Veg Thali
+4114,Cold Drink
+4115,Tea
+4115,Coffee
+4116,Tea
+4117,Cold Drink
+4118,Coffee
+4119,Veg Sandwich
+4119,Cold Drink
+4120,Pav Bhaji
+4120,Cold Drink
+4120,Veg Thali
+4121,Pav Bhaji
+4121,Cold Drink
+4122,Samosa
+4122,Tea
+4122,Coffee
+4123,Idli
+4123,Tea
+4124,Coffee
+4125,Idli
+4125,Coffee
+4126,Veg Thali
+4127,Pav Bhaji
+4127,Idli
+4128,Idli
+4128,Tea
+4128,Masala Dosa
+4129,Cold Drink
+4130,Cold Drink
+4131,Masala Dosa
+4131,Tea
+4132,Cold Drink
+4133,Samosa
+4134,Samosa
+4134,Tea
+4135,Vada Pav
+4135,Cold Drink
+4135,Masala Dosa
+4136,Coffee
+4137,Samosa
+4137,Tea
+4138,Vada Pav
+4139,Vada Pav
+4140,Tea
+4140,Samosa
+4141,Tea
+4142,Veg Thali
+4143,Idli
+4144,Vada Pav
+4144,Cold Drink
+4145,Masala Dosa
+4146,Pav Bhaji
+4146,Cold Drink
+4147,Coffee
+4148,Pav Bhaji
+4149,Vada Pav
+4149,Cold Drink
+4150,Coffee
+4150,Tea
+4151,Vada Pav
+4151,Cold Drink
+4151,Veg Sandwich
+4152,Veg Thali
+4153,Masala Dosa
+4154,Pav Bhaji
+4154,Cold Drink
+4155,Idli
+4155,Tea
+4156,Cold Drink
+4157,Pav Bhaji
+4158,Veg Thali
+4159,Tea
+4160,Veg Thali
+4161,Tea
+4162,Cold Drink
+4163,Masala Dosa
+4163,Tea
+4164,Veg Thali
+4164,Idli
+4165,Samosa
+4165,Tea
+4166,Tea
+4167,Idli
+4168,Idli
+4169,Vada Pav
+4169,Cold Drink
+4170,Masala Dosa
+4170,Tea
+4171,Vada Pav
+4171,Cold Drink
+4172,Veg Sandwich
+4172,Cold Drink
+4173,Veg Sandwich
+4173,Cold Drink
+4174,Tea
+4175,Pav Bhaji
+4175,Cold Drink
+4176,Masala Dosa
+4176,Tea
+4177,Tea
+4178,Pav Bhaji
+4178,Cold Drink
+4179,Cold Drink
+4179,Idli
+4180,Masala Dosa
+4181,Veg Thali
+4182,Tea
+4183,Coffee
+4184,Veg Thali
+4185,Cold Drink
+4186,Pav Bhaji
+4186,Cold Drink
+4187,Coffee
+4188,Pav Bhaji
+4189,Cold Drink
+4190,Masala Dosa
+4190,Tea
+4190,Veg Sandwich
+4191,Masala Dosa
+4191,Tea
+4192,Veg Sandwich
+4192,Cold Drink
+4193,Pav Bhaji
+4194,Veg Sandwich
+4194,Cold Drink
+4194,Veg Thali
+4195,Coffee
+4196,Veg Thali
+4197,Veg Sandwich
+4198,Coffee
+4199,Coffee
+4200,Coffee
+4201,Cold Drink
+4202,Veg Sandwich
+4202,Cold Drink
+4203,Vada Pav
+4204,Samosa
+4204,Tea
+4205,Veg Sandwich
+4205,Cold Drink
+4206,Pav Bhaji
+4206,Cold Drink
+4207,Masala Dosa
+4208,Pav Bhaji
+4209,Pav Bhaji
+4209,Idli
+4210,Pav Bhaji
+4210,Cold Drink
+4211,Tea
+4212,Veg Sandwich
+4212,Cold Drink
+4213,Cold Drink
+4213,Veg Thali
+4214,Samosa
+4214,Tea
+4214,Idli
+4215,Masala Dosa
+4216,Veg Sandwich
+4216,Cold Drink
+4217,Samosa
+4217,Tea
+4218,Samosa
+4218,Tea
+4219,Samosa
+4220,Vada Pav
+4220,Cold Drink
+4221,Veg Sandwich
+4222,Masala Dosa
+4222,Tea
+4223,Masala Dosa
+4223,Tea
+4224,Masala Dosa
+4225,Veg Thali
+4226,Vada Pav
+4226,Cold Drink
+4227,Tea
+4228,Masala Dosa
+4228,Tea
+4228,Veg Thali
+4229,Veg Thali
+4230,Veg Thali
+4230,Pav Bhaji
+4231,Idli
+4231,Tea
+4232,Cold Drink
+4233,Vada Pav
+4233,Cold Drink
+4234,Tea
+4234,Idli
+4235,Masala Dosa
+4236,Veg Thali
+4237,Cold Drink
+4238,Veg Thali
+4238,Masala Dosa
+4239,Veg Thali
+4240,Veg Thali
+4240,Samosa
+4241,Cold Drink
+4242,Vada Pav
+4242,Cold Drink
+4243,Pav Bhaji
+4243,Cold Drink
+4244,Idli
+4245,Samosa
+4245,Tea
+4246,Veg Sandwich
+4246,Cold Drink
+4247,Pav Bhaji
+4248,Veg Thali
+4248,Cold Drink
+4249,Vada Pav
+4250,Idli
+4250,Tea
+4251,Tea
+4252,Coffee
+4253,Veg Thali
+4254,Idli
+4254,Tea
+4255,Veg Thali
+4255,Masala Dosa
+4256,Cold Drink
+4256,Tea
+4257,Veg Thali
+4258,Tea
+4259,Vada Pav
+4259,Cold Drink
+4260,Idli
+4261,Masala Dosa
+4262,Vada Pav
+4262,Cold Drink
+4263,Veg Sandwich
+4264,Vada Pav
+4265,Vada Pav
+4265,Cold Drink
+4266,Masala Dosa
+4267,Samosa
+4267,Tea
+4268,Tea
+4268,Masala Dosa
+4269,Vada Pav
+4270,Pav Bhaji
+4270,Cold Drink
+4270,Samosa
+4271,Coffee
+4272,Tea
+4273,Coffee
+4274,Coffee
+4275,Samosa
+4275,Tea
+4276,Vada Pav
+4276,Cold Drink
+4277,Veg Thali
+4278,Tea
+4279,Cold Drink
+4279,Coffee
+4280,Idli
+4280,Tea
+4281,Vada Pav
+4282,Pav Bhaji
+4282,Cold Drink
+4282,Idli
+4283,Tea
+4284,Masala Dosa
+4284,Tea
+4285,Veg Thali
+4286,Pav Bhaji
+4286,Cold Drink
+4286,Vada Pav
+4287,Veg Thali
+4288,Coffee
+4288,Tea
+4289,Vada Pav
+4289,Cold Drink
+4290,Samosa
+4290,Tea
+4291,Tea
+4292,Veg Sandwich
+4292,Cold Drink
+4293,Tea
+4294,Veg Sandwich
+4294,Cold Drink
+4295,Tea
+4296,Veg Sandwich
+4296,Cold Drink
+4297,Samosa
+4297,Tea
+4298,Coffee
+4299,Coffee
+4300,Cold Drink
+4301,Samosa
+4302,Cold Drink
+4303,Samosa
+4303,Tea
+4304,Idli
+4304,Tea
+4305,Idli
+4306,Veg Sandwich
+4306,Cold Drink
+4306,Coffee
+4307,Coffee
+4308,Idli
+4309,Pav Bhaji
+4310,Veg Sandwich
+4310,Cold Drink
+4310,Pav Bhaji
+4311,Tea
+4311,Pav Bhaji
+4312,Veg Thali
+4313,Idli
+4313,Tea
+4314,Cold Drink
+4315,Masala Dosa
+4315,Tea
+4316,Vada Pav
+4317,Tea
+4318,Pav Bhaji
+4319,Masala Dosa
+4320,Cold Drink
+4321,Veg Sandwich
+4321,Cold Drink
+4322,Vada Pav
+4323,Samosa
+4323,Tea
+4324,Samosa
+4324,Tea
+4325,Veg Thali
+4326,Veg Sandwich
+4326,Cold Drink
+4327,Samosa
+4328,Samosa
+4329,Veg Thali
+4330,Cold Drink
+4331,Masala Dosa
+4331,Idli
+4332,Coffee
+4333,Tea
+4334,Vada Pav
+4334,Cold Drink
+4335,Idli
+4335,Tea
+4335,Veg Thali
+4336,Veg Thali
+4336,Masala Dosa
+4337,Veg Sandwich
+4338,Veg Thali
+4339,Idli
+4340,Samosa
+4340,Tea
+4340,Pav Bhaji
+4341,Masala Dosa
+4341,Tea
+4342,Idli
+4343,Idli
+4343,Tea
+4344,Cold Drink
+4344,Pav Bhaji
+4345,Pav Bhaji
+4345,Cold Drink
+4346,Coffee
+4347,Coffee
+4348,Vada Pav
+4349,Veg Sandwich
+4350,Samosa
+4350,Tea
+4351,Pav Bhaji
+4351,Cold Drink
+4352,Cold Drink
+4353,Veg Thali
+4354,Coffee
+4355,Veg Sandwich
+4355,Cold Drink
+4356,Idli
+4356,Tea
+4357,Veg Sandwich
+4358,Coffee
+4359,Tea
+4360,Vada Pav
+4360,Cold Drink
+4361,Samosa
+4361,Tea
+4362,Samosa
+4362,Tea
+4362,Vada Pav
+4363,Tea
+4364,Pav Bhaji
+4365,Idli
+4365,Tea
+4366,Samosa
+4366,Tea
+4367,Pav Bhaji
+4367,Cold Drink
+4368,Masala Dosa
+4369,Coffee
+4370,Coffee
+4370,Vada Pav
+4371,Tea
+4372,Cold Drink
+4373,Coffee
+4374,Samosa
+4374,Tea
+4375,Tea
+4376,Veg Sandwich
+4376,Cold Drink
+4376,Idli
+4377,Cold Drink
+4378,Idli
+4378,Tea
+4379,Veg Sandwich
+4379,Cold Drink
+4380,Idli
+4381,Pav Bhaji
+4381,Cold Drink
+4382,Tea
+4383,Masala Dosa
+4383,Pav Bhaji
+4384,Masala Dosa
+4384,Tea
+4385,Masala Dosa
+4385,Tea
+4386,Veg Sandwich
+4386,Cold Drink
+4387,Masala Dosa
+4388,Masala Dosa
+4389,Cold Drink
+4390,Idli
+4391,Vada Pav
+4391,Cold Drink
+4392,Samosa
+4392,Tea
+4393,Cold Drink
+4394,Tea
+4395,Veg Thali
+4396,Cold Drink
+4396,Idli
+4397,Cold Drink
+4398,Coffee
+4399,Veg Sandwich
+4399,Cold Drink
+4400,Veg Sandwich
+4400,Cold Drink
+4401,Cold Drink
+4402,Coffee
+4403,Samosa
+4403,Tea
+4404,Idli
+4404,Vada Pav
+4405,Pav Bhaji
+4405,Cold Drink
+4406,Masala Dosa
+4407,Samosa
+4407,Tea
+4408,Coffee
+4409,Coffee
+4410,Veg Thali
+4411,Coffee
+4412,Coffee
+4413,Idli
+4413,Tea
+4413,Vada Pav
+4414,Vada Pav
+4414,Cold Drink
+4414,Pav Bhaji
+4415,Idli
+4415,Tea
+4416,Vada Pav
+4416,Cold Drink
+4417,Coffee
+4418,Vada Pav
+4419,Vada Pav
+4420,Veg Thali
+4421,Veg Sandwich
+4422,Vada Pav
+4422,Cold Drink
+4423,Cold Drink
+4424,Cold Drink
+4425,Idli
+4426,Vada Pav
+4426,Cold Drink
+4427,Cold Drink
+4428,Coffee
+4429,Cold Drink
+4430,Coffee
+4431,Veg Sandwich
+4431,Masala Dosa
+4432,Veg Thali
+4433,Vada Pav
+4433,Cold Drink
+4434,Samosa
+4434,Tea
+4435,Coffee
+4436,Veg Sandwich
+4437,Cold Drink
+4438,Masala Dosa
+4438,Tea
+4438,Samosa
+4439,Pav Bhaji
+4439,Cold Drink
+4440,Cold Drink
+4441,Cold Drink
+4442,Veg Sandwich
+4442,Cold Drink
+4443,Masala Dosa
+4443,Tea
+4444,Masala Dosa
+4444,Tea
+4445,Vada Pav
+4445,Cold Drink
+4446,Cold Drink
+4447,Masala Dosa
+4448,Vada Pav
+4448,Cold Drink
+4448,Masala Dosa
+4449,Masala Dosa
+4449,Tea
+4450,Coffee
+4450,Veg Sandwich
+4451,Pav Bhaji
+4451,Coffee
+4452,Samosa
+4452,Tea
+4453,Samosa
+4453,Tea
+4454,Coffee
+4455,Veg Sandwich
+4455,Cold Drink
+4456,Samosa
+4457,Masala Dosa
+4457,Tea
+4458,Coffee
+4459,Veg Thali
+4460,Idli
+4460,Tea
+4461,Pav Bhaji
+4461,Cold Drink
+4462,Veg Thali
+4463,Cold Drink
+4464,Veg Thali
+4465,Cold Drink
+4466,Coffee
+4466,Vada Pav
+4467,Coffee
+4467,Cold Drink
+4468,Coffee
+4469,Vada Pav
+4469,Cold Drink
+4470,Veg Thali
+4470,Coffee
+4471,Pav Bhaji
+4472,Vada Pav
+4472,Cold Drink
+4472,Masala Dosa
+4473,Masala Dosa
+4473,Tea
+4474,Cold Drink
+4475,Veg Thali
+4476,Masala Dosa
+4476,Tea
+4476,Vada Pav
+4477,Masala Dosa
+4478,Vada Pav
+4478,Cold Drink
+4479,Coffee
+4480,Tea
+4481,Veg Thali
+4482,Veg Thali
+4483,Veg Thali
+4484,Veg Thali
+4485,Pav Bhaji
+4486,Veg Thali
+4487,Tea
+4488,Veg Sandwich
+4489,Tea
+4490,Vada Pav
+4491,Veg Sandwich
+4492,Veg Thali
+4493,Pav Bhaji
+4493,Cold Drink
+4494,Tea
+4495,Cold Drink
+4496,Masala Dosa
+4496,Tea
+4497,Veg Thali
+4497,Masala Dosa
+4498,Vada Pav
+4498,Cold Drink
+4499,Idli
+4499,Tea
+4500,Veg Sandwich
+4501,Coffee
+4502,Idli
+4502,Tea
+4502,Veg Sandwich
+4503,Pav Bhaji
+4503,Cold Drink
+4504,Veg Thali
+4504,Vada Pav
+4505,Samosa
+4505,Tea
+4506,Tea
+4507,Vada Pav
+4507,Cold Drink
+4508,Cold Drink
+4508,Masala Dosa
+4509,Pav Bhaji
+4510,Veg Thali
+4511,Veg Thali
+4512,Vada Pav
+4512,Pav Bhaji
+4513,Pav Bhaji
+4514,Masala Dosa
+4514,Tea
+4515,Coffee
+4516,Masala Dosa
+4517,Veg Thali
+4518,Veg Sandwich
+4518,Cold Drink
+4519,Tea
+4520,Coffee
+4521,Cold Drink
+4522,Pav Bhaji
+4522,Cold Drink
+4523,Veg Sandwich
+4524,Pav Bhaji
+4525,Idli
+4525,Tea
+4525,Samosa
+4526,Idli
+4526,Tea
+4527,Samosa
+4527,Tea
+4528,Samosa
+4528,Tea
+4529,Masala Dosa
+4530,Tea
+4531,Coffee
+4532,Vada Pav
+4532,Idli
+4533,Pav Bhaji
+4533,Cold Drink
+4534,Tea
+4535,Tea
+4536,Veg Sandwich
+4536,Cold Drink
+4537,Veg Sandwich
+4537,Cold Drink
+4538,Veg Thali
+4539,Idli
+4540,Coffee
+4541,Masala Dosa
+4542,Pav Bhaji
+4543,Idli
+4543,Tea
+4544,Masala Dosa
+4544,Tea
+4544,Cold Drink
+4545,Idli
+4545,Vada Pav
+4546,Cold Drink
+4547,Samosa
+4547,Tea
+4548,Masala Dosa
+4549,Vada Pav
+4549,Cold Drink
+4550,Masala Dosa
+4550,Coffee
+4551,Samosa
+4552,Coffee
+4553,Masala Dosa
+4553,Tea
+4554,Tea
+4555,Idli
+4555,Vada Pav
+4556,Cold Drink
+4557,Cold Drink
+4557,Masala Dosa
+4558,Samosa
+4559,Pav Bhaji
+4560,Masala Dosa
+4560,Tea
+4560,Cold Drink
+4561,Pav Bhaji
+4561,Cold Drink
+4562,Coffee
+4562,Tea
+4563,Tea
+4564,Samosa
+4564,Tea
+4565,Samosa
+4565,Tea
+4566,Veg Thali
+4567,Samosa
+4567,Tea
+4568,Coffee
+4568,Veg Thali
+4569,Pav Bhaji
+4569,Cold Drink
+4570,Vada Pav
+4570,Cold Drink
+4571,Vada Pav
+4572,Veg Sandwich
+4572,Cold Drink
+4573,Veg Thali
+4574,Tea
+4575,Tea
+4575,Cold Drink
+4576,Vada Pav
+4577,Vada Pav
+4577,Cold Drink
+4578,Vada Pav
+4578,Cold Drink
+4579,Tea
+4580,Veg Thali
+4581,Veg Sandwich
+4582,Coffee
+4582,Vada Pav
+4583,Tea
+4584,Idli
+4584,Samosa
+4585,Veg Sandwich
+4585,Cold Drink
+4586,Tea
+4587,Samosa
+4588,Tea
+4589,Cold Drink
+4590,Idli
+4590,Coffee
+4591,Coffee
+4592,Veg Thali
+4592,Cold Drink
+4593,Pav Bhaji
+4594,Samosa
+4594,Tea
+4595,Idli
+4595,Tea
+4596,Vada Pav
+4596,Samosa
+4597,Samosa
+4598,Idli
+4598,Tea
+4599,Vada Pav
+4600,Coffee
+4601,Cold Drink
+4602,Veg Thali
+4603,Vada Pav
+4603,Cold Drink
+4604,Vada Pav
+4604,Cold Drink
+4605,Veg Sandwich
+4606,Veg Sandwich
+4607,Veg Sandwich
+4607,Cold Drink
+4607,Masala Dosa
+4608,Vada Pav
+4608,Cold Drink
+4608,Coffee
+4609,Coffee
+4610,Masala Dosa
+4610,Tea
+4611,Idli
+4611,Tea
+4612,Coffee
+4613,Cold Drink
+4614,Veg Thali
+4615,Cold Drink
+4616,Pav Bhaji
+4617,Coffee
+4618,Coffee
+4619,Pav Bhaji
+4620,Pav Bhaji
+4620,Cold Drink
+4621,Vada Pav
+4621,Cold Drink
+4622,Samosa
+4622,Tea
+4623,Vada Pav
+4624,Tea
+4625,Samosa
+4626,Vada Pav
+4626,Cold Drink
+4627,Cold Drink
+4627,Masala Dosa
+4628,Veg Sandwich
+4628,Cold Drink
+4629,Cold Drink
+4630,Vada Pav
+4630,Cold Drink
+4631,Veg Sandwich
+4632,Masala Dosa
+4633,Vada Pav
+4633,Cold Drink
+4634,Idli
+4634,Tea
+4635,Vada Pav
+4635,Cold Drink
+4636,Tea
+4637,Veg Thali
+4637,Tea
+4638,Veg Thali
+4639,Cold Drink
+4640,Coffee
+4641,Vada Pav
+4642,Samosa
+4642,Tea
+4643,Veg Thali
+4644,Idli
+4644,Tea
+4645,Vada Pav
+4645,Cold Drink
+4646,Masala Dosa
+4646,Tea
+4647,Tea
+4648,Masala Dosa
+4648,Veg Thali
+4649,Vada Pav
+4649,Idli
+4650,Vada Pav
+4650,Cold Drink
+4650,Veg Thali
+4651,Pav Bhaji
+4651,Cold Drink
+4651,Veg Thali
+4652,Cold Drink
+4652,Idli
+4653,Coffee
+4654,Coffee
+4655,Samosa
+4655,Tea
+4656,Vada Pav
+4656,Cold Drink
+4657,Pav Bhaji
+4658,Veg Sandwich
+4658,Cold Drink
+4659,Samosa
+4659,Tea
+4660,Vada Pav
+4661,Coffee
+4662,Masala Dosa
+4662,Tea
+4662,Idli
+4663,Idli
+4664,Coffee
+4665,Tea
+4666,Samosa
+4667,Veg Thali
+4668,Cold Drink
+4669,Veg Thali
+4670,Samosa
+4670,Tea
+4671,Coffee
+4672,Coffee
+4673,Tea
+4674,Samosa
+4675,Coffee
+4676,Idli
+4676,Tea
+4677,Tea
+4677,Samosa
+4678,Idli
+4679,Samosa
+4679,Tea
+4679,Masala Dosa
+4680,Pav Bhaji
+4681,Idli
+4681,Tea
+4682,Veg Sandwich
+4682,Cold Drink
+4683,Coffee
+4684,Cold Drink
+4684,Tea
+4685,Tea
+4686,Veg Sandwich
+4686,Cold Drink
+4686,Pav Bhaji
+4687,Samosa
+4687,Tea
+4688,Veg Sandwich
+4689,Veg Thali
+4690,Pav Bhaji
+4690,Cold Drink
+4691,Veg Thali
+4692,Veg Sandwich
+4692,Cold Drink
+4693,Veg Thali
+4694,Vada Pav
+4694,Cold Drink
+4695,Cold Drink
+4696,Tea
+4697,Vada Pav
+4698,Pav Bhaji
+4698,Cold Drink
+4699,Masala Dosa
+4699,Tea
+4700,Samosa
+4700,Tea
+4701,Coffee
+4702,Tea
+4703,Coffee
+4704,Coffee
+4705,Vada Pav
+4706,Samosa
+4706,Tea
+4707,Cold Drink
+4708,Cold Drink
+4709,Cold Drink
+4710,Tea
+4711,Samosa
+4711,Tea
+4711,Idli
+4712,Tea
+4713,Vada Pav
+4714,Tea
+4715,Samosa
+4716,Veg Thali
+4717,Samosa
+4717,Tea
+4718,Veg Sandwich
+4718,Cold Drink
+4718,Veg Thali
+4719,Veg Sandwich
+4719,Cold Drink
+4720,Masala Dosa
+4720,Tea
+4721,Masala Dosa
+4721,Tea
+4722,Veg Sandwich
+4723,Coffee
+4724,Cold Drink
+4725,Masala Dosa
+4725,Tea
+4726,Idli
+4726,Tea
+4727,Tea
+4728,Pav Bhaji
+4729,Pav Bhaji
+4729,Cold Drink
+4730,Masala Dosa
+4730,Tea
+4731,Vada Pav
+4731,Cold Drink
+4732,Masala Dosa
+4733,Samosa
+4734,Cold Drink
+4735,Cold Drink
+4736,Idli
+4736,Tea
+4737,Cold Drink
+4738,Masala Dosa
+4738,Tea
+4739,Veg Sandwich
+4739,Cold Drink
+4740,Idli
+4740,Tea
+4741,Vada Pav
+4741,Cold Drink
+4742,Veg Sandwich
+4743,Vada Pav
+4743,Cold Drink
+4744,Veg Thali
+4745,Veg Sandwich
+4746,Vada Pav
+4747,Coffee
+4748,Veg Thali
+4749,Idli
+4750,Tea
+4750,Cold Drink
+4751,Idli
+4751,Tea
+4752,Veg Sandwich
+4753,Samosa
+4754,Cold Drink
+4755,Vada Pav
+4756,Idli
+4757,Vada Pav
+4757,Cold Drink
+4758,Samosa
+4758,Tea
+4759,Idli
+4760,Tea
+4761,Coffee
+4761,Pav Bhaji
+4762,Vada Pav
+4762,Cold Drink
+4763,Tea
+4764,Coffee
+4764,Veg Thali
+4765,Tea
+4766,Pav Bhaji
+4767,Pav Bhaji
+4767,Cold Drink
+4767,Veg Thali
+4768,Veg Sandwich
+4768,Cold Drink
+4769,Veg Sandwich
+4770,Cold Drink
+4770,Pav Bhaji
+4771,Tea
+4772,Idli
+4772,Tea
+4773,Vada Pav
+4773,Cold Drink
+4774,Vada Pav
+4774,Cold Drink
+4775,Samosa
+4776,Idli
+4776,Tea
+4776,Coffee
+4777,Vada Pav
+4777,Cold Drink
+4778,Coffee
+4778,Veg Sandwich
+4779,Cold Drink
+4780,Samosa
+4781,Veg Thali
+4781,Vada Pav
+4782,Idli
+4782,Tea
+4783,Coffee
+4783,Vada Pav
+4784,Idli
+4785,Cold Drink
+4786,Coffee
+4787,Cold Drink
+4787,Masala Dosa
+4788,Pav Bhaji
+4788,Cold Drink
+4789,Coffee
+4789,Tea
+4790,Veg Sandwich
+4790,Cold Drink
+4791,Coffee
+4792,Idli
+4792,Tea
+4793,Pav Bhaji
+4794,Cold Drink
+4795,Cold Drink
+4796,Veg Thali
+4797,Coffee
+4798,Veg Thali
+4799,Tea
+4800,Tea
+4800,Veg Sandwich
+4801,Coffee
+4801,Cold Drink
+4802,Coffee
+4803,Veg Thali
+4804,Veg Thali
+4805,Veg Sandwich
+4805,Cold Drink
+4805,Samosa
+4806,Veg Thali
+4807,Idli
+4807,Tea
+4808,Veg Sandwich
+4808,Cold Drink
+4808,Veg Thali
+4809,Tea
+4809,Cold Drink
+4810,Veg Sandwich
+4811,Tea
+4812,Cold Drink
+4813,Cold Drink
+4814,Veg Sandwich
+4814,Vada Pav
+4815,Masala Dosa
+4816,Coffee
+4817,Idli
+4817,Tea
+4818,Masala Dosa
+4818,Veg Thali
+4819,Veg Sandwich
+4820,Pav Bhaji
+4821,Masala Dosa
+4821,Tea
+4822,Veg Sandwich
+4822,Cold Drink
+4823,Idli
+4824,Tea
+4825,Veg Thali
+4826,Veg Thali
+4827,Veg Sandwich
+4827,Cold Drink
+4828,Veg Thali
+4829,Masala Dosa
+4830,Idli
+4830,Tea
+4831,Veg Sandwich
+4832,Masala Dosa
+4832,Tea
+4832,Vada Pav
+4833,Coffee
+4833,Cold Drink
+4834,Pav Bhaji
+4834,Cold Drink
+4835,Tea
+4836,Veg Thali
+4837,Idli
+4837,Tea
+4838,Tea
+4839,Masala Dosa
+4840,Coffee
+4841,Cold Drink
+4842,Coffee
+4843,Samosa
+4843,Tea
+4844,Vada Pav
+4844,Cold Drink
+4845,Samosa
+4845,Tea
+4846,Coffee
+4847,Coffee
+4848,Veg Sandwich
+4849,Masala Dosa
+4850,Veg Sandwich
+4850,Cold Drink
+4851,Pav Bhaji
+4852,Vada Pav
+4852,Cold Drink
+4853,Veg Sandwich
+4853,Cold Drink
+4853,Veg Thali
+4854,Cold Drink
+4854,Vada Pav
+4855,Masala Dosa
+4855,Tea
+4856,Veg Sandwich
+4856,Masala Dosa
+4857,Idli
+4857,Tea
+4858,Vada Pav
+4858,Cold Drink
+4859,Samosa
+4859,Tea
+4860,Cold Drink
+4860,Vada Pav
+4861,Pav Bhaji
+4861,Cold Drink
+4861,Samosa
+4862,Masala Dosa
+4862,Tea
+4862,Veg Sandwich
+4863,Tea
+4864,Samosa
+4865,Veg Sandwich
+4865,Cold Drink
+4865,Coffee
+4866,Idli
+4867,Idli
+4867,Tea
+4868,Masala Dosa
+4869,Pav Bhaji
+4870,Coffee
+4871,Vada Pav
+4871,Cold Drink
+4872,Masala Dosa
+4872,Tea
+4873,Vada Pav
+4874,Veg Thali
+4875,Pav Bhaji
+4876,Veg Thali
+4876,Coffee
+4877,Tea
+4878,Cold Drink
+4879,Tea
+4879,Pav Bhaji
+4880,Masala Dosa
+4881,Tea
+4882,Coffee
+4883,Tea
+4884,Pav Bhaji
+4884,Cold Drink
+4885,Cold Drink
+4886,Masala Dosa
+4887,Idli
+4887,Tea
+4888,Tea
+4889,Veg Thali
+4890,Vada Pav
+4890,Cold Drink
+4891,Coffee
+4892,Idli
+4892,Tea
+4892,Pav Bhaji
+4893,Cold Drink
+4894,Tea
+4895,Tea
+4895,Coffee
+4896,Veg Sandwich
+4897,Vada Pav
+4897,Cold Drink
+4898,Idli
+4899,Idli
+4899,Tea
+4900,Pav Bhaji
+4900,Cold Drink
+4901,Vada Pav
+4902,Idli
+4903,Veg Sandwich
+4904,Samosa
+4904,Tea
+4905,Veg Sandwich
+4905,Cold Drink
+4905,Pav Bhaji
+4906,Masala Dosa
+4907,Veg Thali
+4908,Pav Bhaji
+4909,Coffee
+4910,Vada Pav
+4910,Cold Drink
+4911,Vada Pav
+4911,Tea
+4912,Samosa
+4912,Tea
+4913,Vada Pav
+4913,Cold Drink
+4914,Veg Thali
+4915,Masala Dosa
+4916,Vada Pav
+4916,Veg Sandwich
+4917,Vada Pav
+4918,Coffee
+4918,Veg Sandwich
+4919,Idli
+4920,Coffee
+4921,Vada Pav
+4921,Cold Drink
+4921,Coffee
+4922,Idli
+4922,Tea
+4923,Samosa
+4923,Vada Pav
+4924,Idli
+4924,Tea
+4925,Vada Pav
+4925,Cold Drink
+4926,Masala Dosa
+4927,Samosa
+4927,Tea
+4928,Coffee
+4928,Idli
+4929,Tea
+4930,Pav Bhaji
+4930,Veg Thali
+4931,Cold Drink
+4932,Veg Sandwich
+4932,Cold Drink
+4933,Veg Sandwich
+4933,Cold Drink
+4934,Veg Thali
+4935,Tea
+4936,Veg Thali
+4937,Coffee
+4938,Pav Bhaji
+4938,Idli
+4939,Veg Sandwich
+4939,Tea
+4940,Masala Dosa
+4941,Veg Sandwich
+4942,Tea
+4943,Cold Drink
+4944,Tea
+4945,Pav Bhaji
+4945,Cold Drink
+4946,Veg Thali
+4947,Coffee
+4948,Samosa
+4949,Samosa
+4950,Cold Drink
+4951,Veg Sandwich
+4952,Samosa
+4952,Tea
+4953,Vada Pav
+4953,Cold Drink
+4954,Samosa
+4954,Veg Sandwich
+4955,Pav Bhaji
+4956,Vada Pav
+4956,Cold Drink
+4957,Coffee
+4958,Pav Bhaji
+4958,Samosa
+4959,Veg Sandwich
+4959,Samosa
+4960,Vada Pav
+4960,Cold Drink
+4961,Veg Sandwich
+4961,Cold Drink
+4962,Masala Dosa
+4962,Tea
+4962,Pav Bhaji
+4963,Cold Drink
+4963,Masala Dosa
+4964,Coffee
+4965,Vada Pav
+4965,Cold Drink
+4966,Idli
+4966,Vada Pav
+4967,Cold Drink
+4967,Vada Pav
+4968,Masala Dosa
+4968,Tea
+4969,Idli
+4970,Samosa
+4970,Tea
+4971,Masala Dosa
+4971,Tea
+4972,Idli
+4972,Tea
+4973,Veg Thali
+4974,Veg Thali
+4975,Masala Dosa
+4975,Tea
+4976,Veg Thali
+4977,Vada Pav
+4977,Cold Drink
+4977,Pav Bhaji
+4978,Veg Sandwich
+4978,Cold Drink
+4979,Samosa
+4979,Tea
+4980,Coffee
+4980,Samosa
+4981,Pav Bhaji
+4982,Pav Bhaji
+4983,Samosa
+4983,Tea
+4984,Pav Bhaji
+4984,Cold Drink
+4985,Coffee
+4986,Veg Thali
+4987,Pav Bhaji
+4987,Cold Drink
+4988,Masala Dosa
+4988,Tea
+4988,Pav Bhaji
+4989,Tea
+4990,Coffee
+4991,Tea
+4992,Coffee
+4993,Vada Pav
+4994,Veg Sandwich
+4995,Tea
+4996,Vada Pav
+4996,Cold Drink
+4997,Vada Pav
+4997,Cold Drink
+4997,Samosa
+4998,Veg Sandwich
+4998,Cold Drink
+4998,Pav Bhaji
+4999,Masala Dosa
+4999,Tea
+5000,Veg Thali
