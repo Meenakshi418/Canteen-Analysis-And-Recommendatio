@@ -28,9 +28,15 @@ def perform_clustering(df):
 
     data["Cluster"] = model.fit_predict(X_scaled)
 
+    # Use a sample for silhouette calculation.
+    # This avoids excessive memory usage on deployment servers.
+    sample_size = min(2000, len(X_scaled))
+
     score = silhouette_score(
         X_scaled,
-        data["Cluster"]
+        data["Cluster"],
+        sample_size=sample_size,
+        random_state=42
     )
 
     return data, model, score
