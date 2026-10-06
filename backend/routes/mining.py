@@ -204,7 +204,7 @@ def model_performance():
     )
 
     knn = KNeighborsClassifier(
-        n_neighbors=5
+        n_neighbors=3
     )
 
     knn.fit(X_train, y_train)
@@ -217,7 +217,8 @@ def model_performance():
     )
 
     random_forest = RandomForestClassifier(
-        n_estimators=100,
+        n_estimators=30,
+        max_depth=8,
         random_state=42
     )
 
