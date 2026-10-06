@@ -48,35 +48,48 @@ def load_dimensions(connection, dataframe, table_name, columns):
 load_dimensions(
     connection,
     dim_date,
-    "Dim_Date",
+    "dim_date",
     ["Date_ID", "Date", "Day", "Week", "Month", "Year"]
 )
 
 load_dimensions(
     connection,
     dim_food,
-    "Dim_Food",
+    "dim_food",
     ["Food_ID", "Food_Item", "Category", "Price"]
 )
 
 load_dimensions(
     connection,
     dim_meal,
-    "Dim_Meal",
+    "dim_meal",
     ["Meal_ID", "Meal_Time"]
 )
 
 load_dimensions(
     connection,
     dim_weather,
-    "Dim_Weather",
+    "dim_weather",
     ["Weather_ID", "Weather", "Special_Event"]
 )
 
 load_dimensions(
     connection,
     fact_canteen,
-    "Fact_Canteen",
-    ["Students_Count", "Quantity_Prepared", "Quantity_Sold","Food_Waste","Rating", "Fact_ID", "Food_ID", "Weather_ID", "Meal_ID", "Date_ID","Revenue"]
+    "fact_canteen",
+    [
+        "Students_Count",
+        "Quantity_Prepared",
+        "Quantity_Sold",
+        "Food_Waste",
+        "Rating",
+        "Fact_ID",
+        "Food_ID",
+        "Weather_ID",
+        "Meal_ID",
+        "Date_ID",
+        "Revenue"
+    ]
 )
+
 connection.close()

@@ -22,16 +22,11 @@ function App() {
   const [trendData, setTrendData] = useState([]);
   const [clusters, setClusters] = useState([]);
   const [apriori, setApriori] = useState(null);
+  const [modelPerformance, setModelPerformance] = useState(null);
 
   const [error, setError] = useState(null);
-
   const [demandResult, setDemandResult] = useState(null);
 
-  /*
-   * Existing prediction form.
-   * The backend expects all 8 of these fields,
-   * so they are kept unchanged.
-   */
   const [demandForm, setDemandForm] = useState({
     students_count: "",
     quantity_prepared: "",
@@ -52,14 +47,16 @@ function App() {
           wasteResponse,
           trendsResponse,
           clustersResponse,
-          aprioriResponse
+          aprioriResponse,
+          performanceResponse
         ] = await Promise.all([
           fetch(`${API_URL}/analytics/summary`),
           fetch(`${API_URL}/analytics/top_items`),
           fetch(`${API_URL}/analytics/waste`),
           fetch(`${API_URL}/analytics/trends`),
           fetch(`${API_URL}/mining/clusters`),
-          fetch(`${API_URL}/mining/apriori`)
+          fetch(`${API_URL}/mining/apriori`),
+          fetch(`${API_URL}/mining/model_performance`)
         ]);
 
         if (
@@ -68,7 +65,8 @@ function App() {
           !wasteResponse.ok ||
           !trendsResponse.ok ||
           !clustersResponse.ok ||
-          !aprioriResponse.ok
+          !aprioriResponse.ok ||
+          !performanceResponse.ok
         ) {
           throw new Error("One or more API requests failed");
         }
@@ -79,12 +77,14 @@ function App() {
         const trendsResponseData = await trendsResponse.json();
         const clustersData = await clustersResponse.json();
         const aprioriData = await aprioriResponse.json();
+        const performanceData = await performanceResponse.json();
 
         setSummary(summaryData);
         setTopItems(topItemsData.top_items);
         setWasteData(wasteResponseData.total_waste_per_food_item);
         setClusters(clustersData.clusters);
         setApriori(aprioriData);
+        setModelPerformance(performanceData);
 
         const formattedTrends = Object.entries(
           trendsResponseData.total_quantity_sold_per_day
@@ -110,15 +110,9 @@ function App() {
       [event.target.name]: event.target.value
     });
 
-    // Remove old prediction when the user changes an input
     setDemandResult(null);
   }
 
-  /*
-   * Existing working prediction logic.
-   * Do not change the parameters because the backend
-   * prediction endpoint expects these exact fields.
-   */
   async function predictDemand(event) {
     event.preventDefault();
 
@@ -163,8 +157,6 @@ function App() {
   return (
     <div className="dashboard">
 
-      {/* HEADER */}
-
       <header className="dashboard-header">
         <h1>SmartCanteen</h1>
         <p>
@@ -172,8 +164,6 @@ function App() {
         </p>
       </header>
 
-
-      {/* OVERVIEW */}
 
       <section>
         <h2 className="section-title">
@@ -184,7 +174,6 @@ function App() {
 
           <div className="summary-card">
             <h3>Total Quantity Sold</h3>
-
             <p className="big-number">
               {summary.total_quantity_sold}
             </p>
@@ -192,7 +181,6 @@ function App() {
 
           <div className="summary-card">
             <h3>Total Food Waste</h3>
-
             <p className="big-number">
               {summary.total_food_waste}
             </p>
@@ -200,7 +188,6 @@ function App() {
 
           <div className="summary-card">
             <h3>Average Rating</h3>
-
             <p className="big-number">
               {summary.average_rating.toFixed(2)}
             </p>
@@ -209,8 +196,6 @@ function App() {
         </div>
       </section>
 
-
-      {/* SALES ANALYTICS */}
 
       <section>
         <h2 className="section-title">
@@ -221,15 +206,10 @@ function App() {
 
           <h3>Top Selling Food Items</h3>
 
-          <ResponsiveContainer
-            width="100%"
-            height={400}
-          >
+          <ResponsiveContainer width="100%" height={400}>
             <BarChart data={topItems}>
 
-              <CartesianGrid
-                strokeDasharray="3 3"
-              />
+              <CartesianGrid strokeDasharray="3 3" />
 
               <XAxis
                 dataKey="food_item"
@@ -255,15 +235,10 @@ function App() {
 
           <h3>Food Waste by Item</h3>
 
-          <ResponsiveContainer
-            width="100%"
-            height={400}
-          >
+          <ResponsiveContainer width="100%" height={400}>
             <BarChart data={wasteData}>
 
-              <CartesianGrid
-                strokeDasharray="3 3"
-              />
+              <CartesianGrid strokeDasharray="3 3" />
 
               <XAxis
                 dataKey="food_item"
@@ -289,15 +264,10 @@ function App() {
 
           <h3>Daily Quantity Sold</h3>
 
-          <ResponsiveContainer
-            width="100%"
-            height={400}
-          >
+          <ResponsiveContainer width="100%" height={400}>
             <LineChart data={trendData}>
 
-              <CartesianGrid
-                strokeDasharray="3 3"
-              />
+              <CartesianGrid strokeDasharray="3 3" />
 
               <XAxis dataKey="date" />
 
@@ -317,8 +287,6 @@ function App() {
 
       </section>
 
-
-      {/* DEMAND PREDICTION */}
 
       <section>
 
@@ -343,8 +311,6 @@ function App() {
             </p>
 
 
-            {/* STUDENTS COUNT */}
-
             <label htmlFor="students_count">
               Expected Number of Students
             </label>
@@ -361,8 +327,6 @@ function App() {
             />
 
 
-            {/* QUANTITY PREPARED */}
-
             <label htmlFor="quantity_prepared">
               Quantity Prepared
             </label>
@@ -378,8 +342,6 @@ function App() {
               required
             />
 
-
-            {/* PRICE */}
 
             <label htmlFor="price">
               Food Price
@@ -398,8 +360,6 @@ function App() {
             />
 
 
-            {/* DAY */}
-
             <label htmlFor="day">
               Day
             </label>
@@ -416,38 +376,16 @@ function App() {
                 Select a day
               </option>
 
-              <option value="Monday">
-                Monday
-              </option>
-
-              <option value="Tuesday">
-                Tuesday
-              </option>
-
-              <option value="Wednesday">
-                Wednesday
-              </option>
-
-              <option value="Thursday">
-                Thursday
-              </option>
-
-              <option value="Friday">
-                Friday
-              </option>
-
-              <option value="Saturday">
-                Saturday
-              </option>
-
-              <option value="Sunday">
-                Sunday
-              </option>
+              <option value="Monday">Monday</option>
+              <option value="Tuesday">Tuesday</option>
+              <option value="Wednesday">Wednesday</option>
+              <option value="Thursday">Thursday</option>
+              <option value="Friday">Friday</option>
+              <option value="Saturday">Saturday</option>
+              <option value="Sunday">Sunday</option>
 
             </select>
 
-
-            {/* MEAL TIME */}
 
             <label htmlFor="meal_time">
               Meal Time
@@ -465,22 +403,12 @@ function App() {
                 Select meal time
               </option>
 
-              <option value="Breakfast">
-                Breakfast
-              </option>
-
-              <option value="Lunch">
-                Lunch
-              </option>
-
-              <option value="Evening">
-                Evening
-              </option>
+              <option value="Breakfast">Breakfast</option>
+              <option value="Lunch">Lunch</option>
+              <option value="Evening">Evening</option>
 
             </select>
 
-
-            {/* CATEGORY */}
 
             <label htmlFor="category">
               Food Category
@@ -498,18 +426,11 @@ function App() {
                 Select food category
               </option>
 
-              <option value="Snacks">
-                Snacks
-              </option>
-
-              <option value="Meals">
-                Meals
-              </option>
+              <option value="Snacks">Snacks</option>
+              <option value="Meals">Meals</option>
 
             </select>
 
-
-            {/* WEATHER */}
 
             <label htmlFor="weather">
               Weather
@@ -527,22 +448,12 @@ function App() {
                 Select weather
               </option>
 
-              <option value="Sunny">
-                Sunny
-              </option>
-
-              <option value="Cloudy">
-                Cloudy
-              </option>
-
-              <option value="Rainy">
-                Rainy
-              </option>
+              <option value="Sunny">Sunny</option>
+              <option value="Cloudy">Cloudy</option>
+              <option value="Rainy">Rainy</option>
 
             </select>
 
-
-            {/* SPECIAL EVENT */}
 
             <label htmlFor="special_event">
               Special Event
@@ -560,25 +471,16 @@ function App() {
                 Select event status
               </option>
 
-              <option value="Yes">
-                Yes
-              </option>
-
-              <option value="No">
-                No
-              </option>
+              <option value="Yes">Yes</option>
+              <option value="No">No</option>
 
             </select>
 
-
-            {/* PREDICT BUTTON */}
 
             <button type="submit">
               Predict Quantity
             </button>
 
-
-            {/* RESULT */}
 
             {demandResult !== null && (
 
@@ -603,8 +505,6 @@ function App() {
       </section>
 
 
-      {/* CLUSTERING */}
-
       <section>
 
         <h2 className="section-title">
@@ -615,15 +515,10 @@ function App() {
 
           <h3>Cluster Analysis</h3>
 
-          <ResponsiveContainer
-            width="100%"
-            height={400}
-          >
+          <ResponsiveContainer width="100%" height={400}>
             <BarChart data={clusters}>
 
-              <CartesianGrid
-                strokeDasharray="3 3"
-              />
+              <CartesianGrid strokeDasharray="3 3" />
 
               <XAxis dataKey="cluster" />
 
@@ -653,23 +548,19 @@ function App() {
               </h3>
 
               <p>
-                Average Sales:{" "}
-                {cluster.quantity_sold}
+                Average Sales: {cluster.quantity_sold}
               </p>
 
               <p>
-                Average Waste:{" "}
-                {cluster.food_waste}
+                Average Waste: {cluster.food_waste}
               </p>
 
               <p>
-                Students:{" "}
-                {cluster.students_count}
+                Students: {cluster.students_count}
               </p>
 
               <p>
-                Rating:{" "}
-                {cluster.rating}
+                Rating: {cluster.rating}
               </p>
 
             </div>
@@ -681,7 +572,191 @@ function App() {
       </section>
 
 
-      {/* APRIORI */}
+      <section>
+
+        <h2 className="section-title">
+          Model Performance & Evaluation
+        </h2>
+
+        {modelPerformance && (
+
+          <>
+            <div className="performance-grid">
+
+              <div className="performance-card">
+
+                <h3>Regression</h3>
+
+                <p className="metric-label">
+                  R² Score
+                </p>
+
+                <p className="performance-value">
+                  {modelPerformance.regression.r2_score}
+                </p>
+
+                <p className="metric-label">
+                  Mean Absolute Error
+                </p>
+
+                <p className="secondary-value">
+                  {modelPerformance.regression.mae}
+                </p>
+
+              </div>
+
+
+              <div className="performance-card">
+
+                <h3>Clustering</h3>
+
+                <p className="metric-label">
+                  Silhouette Score
+                </p>
+
+                <p className="performance-value">
+                  {modelPerformance.clustering.silhouette_score}
+                </p>
+
+                <p className="metric-description">
+                  Measures how well the clusters are separated.
+                </p>
+
+              </div>
+
+
+              <div className="performance-card">
+
+                <h3>Association Rule Mining</h3>
+
+                <p className="metric-label">
+                  Support
+                </p>
+
+                <p className="secondary-value">
+                  {(modelPerformance.apriori.support * 100).toFixed(2)}%
+                </p>
+
+                <p className="metric-label">
+                  Confidence
+                </p>
+
+                <p className="secondary-value">
+                  {(modelPerformance.apriori.confidence * 100).toFixed(2)}%
+                </p>
+
+                <p className="metric-label">
+                  Lift
+                </p>
+
+                <p className="secondary-value">
+                  {modelPerformance.apriori.lift.toFixed(2)}
+                </p>
+
+              </div>
+
+            </div>
+
+
+            <div className="chart-card">
+
+              <h3>
+                Classification Model Comparison
+              </h3>
+
+              <ResponsiveContainer
+                width="100%"
+                height={350}
+              >
+
+                <BarChart
+                  data={[
+                    {
+                      model: "Decision Tree / J48",
+                      accuracy:
+                        modelPerformance.classification
+                          .decision_tree_accuracy * 100
+                    },
+                    {
+                      model: "Naive Bayes",
+                      accuracy:
+                        modelPerformance.classification
+                          .naive_bayes_accuracy * 100
+                    },
+                    {
+                      model: "KNN",
+                      accuracy:
+                        modelPerformance.classification
+                          .knn_accuracy * 100
+                    },
+                    {
+                      model: "Random Forest",
+                      accuracy:
+                        modelPerformance.classification
+                          .random_forest_accuracy * 100
+                    }
+                  ]}
+                >
+
+                  <CartesianGrid strokeDasharray="3 3" />
+
+                  <XAxis dataKey="model" />
+
+                  <YAxis
+                    domain={[0, 100]}
+                    unit="%"
+                  />
+
+                  <Tooltip
+                    formatter={(value) => [
+                      `${Number(value).toFixed(2)}%`,
+                      "Accuracy"
+                    ]}
+                  />
+
+                  <Bar dataKey="accuracy" />
+
+                </BarChart>
+
+              </ResponsiveContainer>
+
+            </div>
+
+
+            <div className="classification-summary">
+
+              <p>
+                <strong>Decision Tree / J48:</strong>{" "}
+                {(modelPerformance.classification
+                  .decision_tree_accuracy * 100).toFixed(2)}%
+              </p>
+
+              <p>
+                <strong>Naive Bayes:</strong>{" "}
+                {(modelPerformance.classification
+                  .naive_bayes_accuracy * 100).toFixed(2)}%
+              </p>
+
+              <p>
+                <strong>KNN:</strong>{" "}
+                {(modelPerformance.classification
+                  .knn_accuracy * 100).toFixed(2)}%
+              </p>
+
+              <p>
+                <strong>Random Forest:</strong>{" "}
+                {(modelPerformance.classification
+                  .random_forest_accuracy * 100).toFixed(2)}%
+              </p>
+
+            </div>
+
+          </>
+
+        )}
+
+      </section>
+
 
       <section>
 
