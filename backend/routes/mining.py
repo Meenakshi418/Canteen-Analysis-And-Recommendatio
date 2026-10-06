@@ -7,11 +7,6 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
-from sklearn.preprocessing import OneHotEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.pipeline import Pipeline
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_absolute_error, r2_score
 
 from ml.apriori import run_apriori
 from ml.clustering import perform_clustering
@@ -20,7 +15,6 @@ from ml.preprocessing import load_and_preprocess
 router = APIRouter(prefix="/mining")
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-
 DATA_PATH = BASE_DIR / "data" / "canteen_data.csv"
 TRANSACTION_PATH = BASE_DIR / "data" / "canteen_transactions.csv"
 
@@ -28,14 +22,11 @@ TRANSACTION_PATH = BASE_DIR / "data" / "canteen_transactions.csv"
 @router.get("/apriori")
 def apriori():
 
-    frequent_items, rules = run_apriori(
-        TRANSACTION_PATH
-    )
+    frequent_items, rules = run_apriori(TRANSACTION_PATH)
 
     frequent_itemsets = []
 
     for _, row in frequent_items.iterrows():
-
         frequent_itemsets.append({
             "items": list(row["itemsets"]),
             "support": float(row["support"])
@@ -44,7 +35,6 @@ def apriori():
     association_rules = []
 
     for _, row in rules.iterrows():
-
         association_rules.append({
             "antecedents": list(row["antecedents"]),
             "consequents": list(row["consequents"]),
@@ -67,33 +57,18 @@ def clusters():
     result, model, silhouette = perform_clustering(df)
 
     summary = result.groupby("Cluster")[
-        [
-            "Quantity_Sold",
-            "Food_Waste",
-            "Students_Count",
-            "Rating"
-        ]
+        ["Quantity_Sold", "Food_Waste", "Students_Count", "Rating"]
     ].mean().reset_index()
 
     return {
         "clusters": [
             {
                 "cluster": int(row["Cluster"]),
-                "silhouette_score": round(
-                    float(silhouette), 4
-                ),
-                "quantity_sold": round(
-                    float(row["Quantity_Sold"]), 2
-                ),
-                "food_waste": round(
-                    float(row["Food_Waste"]), 2
-                ),
-                "students_count": round(
-                    float(row["Students_Count"]), 2
-                ),
-                "rating": round(
-                    float(row["Rating"]), 2
-                )
+                "silhouette_score": round(float(silhouette), 4),
+                "quantity_sold": round(float(row["Quantity_Sold"]), 2),
+                "food_waste": round(float(row["Food_Waste"]), 2),
+                "students_count": round(float(row["Students_Count"]), 2),
+                "rating": round(float(row["Rating"]), 2)
             }
             for _, row in summary.iterrows()
         ]
@@ -104,6 +79,12 @@ def clusters():
 def model_performance():
 
     df = load_and_preprocess(DATA_PATH)
+
+    from sklearn.preprocessing import OneHotEncoder
+    from sklearn.compose import ColumnTransformer
+    from sklearn.pipeline import Pipeline
+    from sklearn.linear_model import LinearRegression
+    from sklearn.metrics import mean_absolute_error, r2_score
 
     regression_features = [
         "Students_Count",
@@ -131,9 +112,7 @@ def model_performance():
         transformers=[
             (
                 "cat",
-                OneHotEncoder(
-                    handle_unknown="ignore"
-                ),
+                OneHotEncoder(handle_unknown="ignore"),
                 categorical
             )
         ],
@@ -141,14 +120,8 @@ def model_performance():
     )
 
     regression_model = Pipeline([
-        (
-            "preprocessor",
-            preprocessor
-        ),
-        (
-            "regressor",
-            LinearRegression()
-        )
+        ("preprocessor", preprocessor),
+        ("regressor", LinearRegression())
     ])
 
     X_train, X_test, y_train, y_test = train_test_split(
@@ -158,24 +131,12 @@ def model_performance():
         random_state=42
     )
 
-    regression_model.fit(
-        X_train,
-        y_train
-    )
+    regression_model.fit(X_train, y_train)
 
-    predictions = regression_model.predict(
-        X_test
-    )
+    predictions = regression_model.predict(X_test)
 
-    mae = mean_absolute_error(
-        y_test,
-        predictions
-    )
-
-    r2 = r2_score(
-        y_test,
-        predictions
-    )
+    mae = mean_absolute_error(y_test, predictions)
+    r2 = r2_score(y_test, predictions)
 
     classification_df = df.copy()
 
@@ -188,9 +149,7 @@ def model_performance():
     ]
 
     for column in categorical_columns:
-
         encoder = LabelEncoder()
-
         classification_df[column] = encoder.fit_transform(
             classification_df[column].astype(str)
         )
@@ -204,13 +163,8 @@ def model_performance():
         "Special_Event"
     ]
 
-    X_class = classification_df[
-        classification_features
-    ]
-
-    y_class = classification_df[
-        "Demand_Level"
-    ].astype(str)
+    X_class = classification_df[classification_features]
+    y_class = classification_df["Demand_Level"].astype(str)
 
     X_train, X_test, y_train, y_test = train_test_split(
         X_class,
@@ -225,14 +179,9 @@ def model_performance():
         random_state=42
     )
 
-    decision_tree.fit(
-        X_train,
-        y_train
-    )
+    decision_tree.fit(X_train, y_train)
 
-    tree_predictions = decision_tree.predict(
-        X_test
-    )
+    tree_predictions = decision_tree.predict(X_test)
 
     tree_accuracy = accuracy_score(
         y_test,
@@ -241,27 +190,18 @@ def model_performance():
 
     naive_bayes = GaussianNB()
 
-    naive_bayes.fit(
-        X_train,
-        y_train
-    )
+    naive_bayes.fit(X_train, y_train)
 
-    nb_predictions = naive_bayes.predict(
-        X_test
-    )
+    nb_predictions = naive_bayes.predict(X_test)
 
     nb_accuracy = accuracy_score(
         y_test,
         nb_predictions
     )
 
-    result, model, silhouette = perform_clustering(
-        df
-    )
+    result, model, silhouette = perform_clustering(df)
 
-    frequent_items, rules = run_apriori(
-        TRANSACTION_PATH
-    )
+    frequent_items, rules = run_apriori(TRANSACTION_PATH)
 
     if len(rules) > 0:
 
@@ -271,15 +211,9 @@ def model_performance():
         ).iloc[0]
 
         apriori_result = {
-            "support": round(
-                float(best_rule["support"]), 4
-            ),
-            "confidence": round(
-                float(best_rule["confidence"]), 4
-            ),
-            "lift": round(
-                float(best_rule["lift"]), 4
-            )
+            "support": round(float(best_rule["support"]), 4),
+            "confidence": round(float(best_rule["confidence"]), 4),
+            "lift": round(float(best_rule["lift"]), 4)
         }
 
     else:
@@ -292,28 +226,15 @@ def model_performance():
 
     return {
         "regression": {
-            "r2_score": round(
-                float(r2), 4
-            ),
-            "mae": round(
-                float(mae), 2
-            )
+            "r2_score": round(float(r2), 4),
+            "mae": round(float(mae), 2)
         },
-
         "classification": {
-            "decision_tree_accuracy": round(
-                float(tree_accuracy), 4
-            ),
-            "naive_bayes_accuracy": round(
-                float(nb_accuracy), 4
-            )
+            "decision_tree_accuracy": round(float(tree_accuracy), 4),
+            "naive_bayes_accuracy": round(float(nb_accuracy), 4)
         },
-
         "clustering": {
-            "silhouette_score": round(
-                float(silhouette), 4
-            )
+            "silhouette_score": round(float(silhouette), 4)
         },
-
         "apriori": apriori_result
     }
