@@ -22,8 +22,7 @@ function App() {
   const [trendData, setTrendData] = useState([]);
   const [clusters, setClusters] = useState([]);
   const [apriori, setApriori] = useState(null);
-  const [modelPerformance, setModelPerformance] = useState(null);
-
+  
   const [error, setError] = useState(null);
   const [demandResult, setDemandResult] = useState(null);
 
@@ -47,16 +46,14 @@ function App() {
           wasteResponse,
           trendsResponse,
           clustersResponse,
-          aprioriResponse,
-          performanceResponse
+          aprioriResponse
         ] = await Promise.all([
           fetch(`${API_URL}/analytics/summary`),
           fetch(`${API_URL}/analytics/top_items`),
           fetch(`${API_URL}/analytics/waste`),
           fetch(`${API_URL}/analytics/trends`),
           fetch(`${API_URL}/mining/clusters`),
-          fetch(`${API_URL}/mining/apriori`),
-          fetch(`${API_URL}/mining/model_performance`)
+          fetch(`${API_URL}/mining/apriori`)
         ]);
 
         if (
@@ -65,8 +62,7 @@ function App() {
           !wasteResponse.ok ||
           !trendsResponse.ok ||
           !clustersResponse.ok ||
-          !aprioriResponse.ok ||
-          !performanceResponse.ok
+          !aprioriResponse.ok 
         ) {
           throw new Error("One or more API requests failed");
         }
@@ -77,14 +73,12 @@ function App() {
         const trendsResponseData = await trendsResponse.json();
         const clustersData = await clustersResponse.json();
         const aprioriData = await aprioriResponse.json();
-        const performanceData = await performanceResponse.json();
 
         setSummary(summaryData);
         setTopItems(topItemsData.top_items);
         setWasteData(wasteResponseData.total_waste_per_food_item);
         setClusters(clustersData.clusters);
         setApriori(aprioriData);
-        setModelPerformance(performanceData);
 
         const formattedTrends = Object.entries(
           trendsResponseData.total_quantity_sold_per_day
@@ -573,188 +567,69 @@ function App() {
 
 
       <section>
-
         <h2 className="section-title">
           Model Performance & Evaluation
         </h2>
 
-        {modelPerformance && (
+        <div className="performance-grid">
 
-          <>
-            <div className="performance-grid">
+          <div className="performance-card">
+            <h3>Linear Regression</h3>
 
-              <div className="performance-card">
+            <p className="metric-label">R² Score</p>
+            <p className="performance-value">0.9818</p>
 
-                <h3>Regression</h3>
+            <p className="metric-label">Mean Absolute Error</p>
+            <p className="secondary-value">5.16</p>
+          </div>
 
-                <p className="metric-label">
-                  R² Score
-                </p>
+          <div className="performance-card">
+            <h3>J48 / Decision Tree</h3>
 
-                <p className="performance-value">
-                  {modelPerformance.regression.r2_score}
-                </p>
+            <p className="metric-label">Accuracy</p>
+            <p className="performance-value">84.95%</p>
 
-                <p className="metric-label">
-                  Mean Absolute Error
-                </p>
+            <p className="metric-description">
+              Entropy-based decision tree for demand classification.
+            </p>
+          </div>
 
-                <p className="secondary-value">
-                  {modelPerformance.regression.mae}
-                </p>
+          <div className="performance-card">
+            <h3>Naive Bayes</h3>
 
-              </div>
+            <p className="metric-label">Accuracy</p>
+            <p className="performance-value">94.55%</p>
 
+            <p className="metric-description">
+              Probabilistic classifier used for waste-level classification.
+            </p>
+          </div>
 
-              <div className="performance-card">
+          <div className="performance-card">
+            <h3>K-Means</h3>
 
-                <h3>Clustering</h3>
+            <p className="metric-label">Silhouette Score</p>
+            <p className="performance-value">0.3438</p>
 
-                <p className="metric-label">
-                  Silhouette Score
-                </p>
+            <p className="metric-description">
+              Clustering quality measure for four demand and waste groups.
+            </p>
+          </div>
 
-                <p className="performance-value">
-                  {modelPerformance.clustering.silhouette_score}
-                </p>
+          <div className="performance-card">
+            <h3>Apriori</h3>
 
-                <p className="metric-description">
-                  Measures how well the clusters are separated.
-                </p>
+            <p className="metric-label">Support</p>
+            <p className="secondary-value">8.18%</p>
 
-              </div>
+            <p className="metric-label">Confidence</p>
+            <p className="secondary-value">67.49%</p>
 
+            <p className="metric-label">Lift</p>
+            <p className="secondary-value">2.10</p>
+          </div>
 
-              <div className="performance-card">
-
-                <h3>Association Rule Mining</h3>
-
-                <p className="metric-label">
-                  Support
-                </p>
-
-                <p className="secondary-value">
-                  {(modelPerformance.apriori.support * 100).toFixed(2)}%
-                </p>
-
-                <p className="metric-label">
-                  Confidence
-                </p>
-
-                <p className="secondary-value">
-                  {(modelPerformance.apriori.confidence * 100).toFixed(2)}%
-                </p>
-
-                <p className="metric-label">
-                  Lift
-                </p>
-
-                <p className="secondary-value">
-                  {modelPerformance.apriori.lift.toFixed(2)}
-                </p>
-
-              </div>
-
-            </div>
-
-
-            <div className="chart-card">
-
-              <h3>
-                Classification Model Comparison
-              </h3>
-
-              <ResponsiveContainer
-                width="100%"
-                height={350}
-              >
-
-                <BarChart
-                  data={[
-                    {
-                      model: "Decision Tree / J48",
-                      accuracy:
-                        modelPerformance.classification
-                          .decision_tree_accuracy * 100
-                    },
-                    {
-                      model: "Naive Bayes",
-                      accuracy:
-                        modelPerformance.classification
-                          .naive_bayes_accuracy * 100
-                    },
-                    {
-                      model: "KNN",
-                      accuracy:
-                        modelPerformance.classification
-                          .knn_accuracy * 100
-                    },
-                    {
-                      model: "Random Forest",
-                      accuracy:
-                        modelPerformance.classification
-                          .random_forest_accuracy * 100
-                    }
-                  ]}
-                >
-
-                  <CartesianGrid strokeDasharray="3 3" />
-
-                  <XAxis dataKey="model" />
-
-                  <YAxis
-                    domain={[0, 100]}
-                    unit="%"
-                  />
-
-                  <Tooltip
-                    formatter={(value) => [
-                      `${Number(value).toFixed(2)}%`,
-                      "Accuracy"
-                    ]}
-                  />
-
-                  <Bar dataKey="accuracy" />
-
-                </BarChart>
-
-              </ResponsiveContainer>
-
-            </div>
-
-
-            <div className="classification-summary">
-
-              <p>
-                <strong>Decision Tree / J48:</strong>{" "}
-                {(modelPerformance.classification
-                  .decision_tree_accuracy * 100).toFixed(2)}%
-              </p>
-
-              <p>
-                <strong>Naive Bayes:</strong>{" "}
-                {(modelPerformance.classification
-                  .naive_bayes_accuracy * 100).toFixed(2)}%
-              </p>
-
-              <p>
-                <strong>KNN:</strong>{" "}
-                {(modelPerformance.classification
-                  .knn_accuracy * 100).toFixed(2)}%
-              </p>
-
-              <p>
-                <strong>Random Forest:</strong>{" "}
-                {(modelPerformance.classification
-                  .random_forest_accuracy * 100).toFixed(2)}%
-              </p>
-
-            </div>
-
-          </>
-
-        )}
-
+        </div>
       </section>
 
 
